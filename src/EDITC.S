@@ -1,0 +1,1505 @@
+***************************************************
+*                                                 *
+*                Block Buster 2.0                 *
+*        The Next Generation Block Editor         *
+*                                                 *
+*            Originally written in the            *
+*               1985-1992 timeframe.              *
+*                                                 *
+*                 Code Repository                 *
+*   https://github.com/d5aa962e/BlockBuster2      *
+*                                                 *
+*              License: CC BY-SA 4.0              *
+*      Creative Commons Attribution-ShareAlike    *
+* https://creativecommons.org/licenses/by-sa/4.0  *
+*                                                 *
+***************************************************
+
+********************************
+*                              *
+*        File: EDITC.S         *
+*                              *
+*           Contents           *
+*           --------           *
+*                              *
+* - Find Next Index Block      *
+*   or Track/Sector List       *
+* - OpCode Listing             *
+* - Search Functionality       *
+* - ASCII Mode Toggle          *
+*                              *
+********************************
+
+*
+* Find next Index Block or Track/Sector List
+* Last T/S pair or last block on volume in FIAUX
+*
+
+INDEXBLK CTX   HLPaaI
+         LDA   FILFLG
+         BMI   :0
+         JSR   SAVCURLOC  ;Can't find IB's or T/SL's
+         PRAT  0;23;NFILACT ; when file open
+         JMP   :NCD2
+:0       LDA   OSTYPE
+         BEQ   :IB        ;ProDOS, find Index Blocks
+         CMP   #1
+         BNE   :IB
+         JMP   :TSL
+:NCD     JSR   SAVCURLOC
+         PRAT  0;23;CANTDO ;Can only do for DOS & ProDOS
+:NCD2    JSR   CLREOL
+         CTX   HLPPDNotes
+         JSR   BUZZ
+         JSR   WAIT4
+         JSR   CLEAR23
+         JSR   RESTCLOC
+         JMP   EGETKY
+:IB      LDA   #0
+         STA   ENTFLG     ;Turn off entry flag
+         POINT OLBUF;OLLIST
+         LDA   UNITNUM
+         STA   OLUNIT
+         MLI   ONLINE;PONLINE
+         BCS   :ERROR
+         LDA   OLLIST
+         BEQ   :NCD       ;Not a ProDOS volume
+         AND   #$F
+         TAX
+         INX
+         STX   OLLIST-1
+         LDA   #'/'
+         STA   OLLIST
+         POINT FIPN;OLLIST-1
+         LDA   #$A
+         STA   PFILINFO
+         MLI   GFILINFO;PFILINFO
+         BCS   :ERROR
+         POINT TEMPPTR;BLKBUF
+:1       JSR   INCRBLK
+         LDA   BLOCK+1
+         CMP   FIBLKS+1
+         BNE   :3
+         LDA   BLOCK
+         CMP   FIBLKS
+         BEQ   :4         ;End of volume reached
+:3       JSR   PRBLKNUM
+         JSR   KBDEDIT
+         CMP   #$9B
+         BEQ   :YES
+         JSR   BLKREAD
+         BCS   :ERROR
+         JSR   ISIB       ;Is it and index block?
+         BEQ   :YES
+         BNE   :1         ;Always
+:YES     JSR   BAKUP
+         STA   STRB
+         JMP   DOSCRN
+:ERROR   JSR   EDITERR
+         JMP   EGETKY
+:TSL     LDA   #0
+         STA   ENTFLG     ;Turn off entry flag
+         JSR   RDVTOC
+         BCS   :ERROR
+         LDA   VTOCBUF+$34
+         STA   FIAUX      ;Tracks per disk
+         LDA   VTOCBUF+$35
+         STA   FIAUX+1    ;Sectors per track
+         POINT TEMPPTR;BLKBUF
+:2       JSR   INCRBLK
+         JSR   PRBLKNUM
+         JSR   KBDEDIT
+         CMP   #$9B
+         BEQ   :YES
+         JSR   RDSECT
+         BCS   :ERROR
+         JSR   ISTSL
+         BEQ   :YES
+         BNE   :2         ;Always
+:4       JSR   SAVCURLOC
+         PRAT  38;23;EOVR
+         JSR   BUZZ
+         CTX   HLPEndoSch
+         JSR   MYKEYIN
+         GOTO  38;23
+         JSR   CLREOL
+         JSR   RESTCLOC
+         JSR   DECRBLK
+         JSR   PRBLKNUM
+         JMP   EGETKY
+
+
+*
+* Jump to a block, data block,
+* or file byte
+*
+
+JUMP2    JSR   SAVCURLOC
+         CTX   HLPaaJ
+         PRAT  0;23;J2
+         JSR   CLREOL
+         POINT CHPTR;BDF
+         LDX   #1
+         JSR   CHOOSE
+         PHA
+         JSR   CLEAR23
+         JSR   RESTCLOC
+         PLA
+         BEQ   :4
+         CMP   #1         ;PTR, PTR+1
+         BEQ   :BLK
+         CMP   #2         ;PTR, PTR+$100
+         BEQ   :DBLK
+         CMP   #3
+         BEQ   :FILPOS    ;Ask for location
+         JMP   :EOF       ;End of file/volume
+:BLK     LDY   #0         ;Read block
+         STY   BIGBLOCK+1
+         LDA   (PTR),Y    ;or Track/Sector at PTR, PTR+1
+         STA   BLOCK
+         STA   TRACK
+         STA   BIGBLOCK
+         INY
+         LDA   (PTR),Y
+         STA   BLOCK+1
+         STA   SECTOR
+         JMP   BLKRD
+:DBLK    LDA   PTR+1      ;Must be in 1st half of block
+         SEC
+         SBC   #>BLKBUF
+         BEQ   :DBLK1
+         JSR   BUZZ
+         CTX   HLPJmpOpt
+:4       JMP   EGETKY
+:DBLK1   LDY   #0         ;Read data block
+         LDA   (PTR),Y    ;i.e. the block at
+         STA   BLOCK      ;PTR, PTR+$100
+         INC   PTR+1
+         LDA   (PTR),Y
+         STA   BLOCK+1
+         DEC   PTR+1
+         JMP   BLKRD
+:FILPOS  LDA   FILFLG     ;Absolute file position
+         BPL   :6         ;Yes, following a file
+:NOFIL   JSR   SAVCURLOC
+         PRAT  0;23;NEEDFIL
+         JSR   CLREOL
+         JSR   BUZZ
+         CTX   HLPJmpOpt
+         JSR   ERROR1
+         JSR   CLEAR23
+         JSR   RESTCLOC
+         JMP   EGETKY
+:6       JSR   SAVCURLOC
+         JSR   CLEAR23
+         PRAT  0;23;WHATPOS
+         JSR   ONEBYTE
+         PHP
+         JSR   CLEAR23
+         JSR   RESTCLOC
+         PLP
+         BCS   :7
+:SET     LDA   NUM+1
+         AND   #$FE
+         STA   FIMARK+1
+         LDA   NUM+2
+         STA   FIMARK+2
+         MLI   SETMARK;PGSMARK
+         BCS   :ERR
+         MLI   READ;PREAD
+         BCC   :1
+         JSR   EDITERR
+         JMP   EGETKY
+:1       LDA   FIMARK+2
+         LSR
+         STA   BLOCK+1
+         LDA   FIMARK+1
+         ROR
+         STA   BLOCK
+         JSR   NEXTFIL1
+         LDA   NUM
+         STA   WORKAREA
+         LDA   NUM+1
+         AND   #1
+         CLC
+         ADC   #>BLKBUF
+         STA   WORKAREA+1
+         JSR   MOV2
+         JSR   BAKUP
+         JMP   DOSCRN
+:7       LDA   INBUF
+         BNE   :8
+         JMP   DOSCRN
+:5       JMP   EGETKY
+:ERR     JSR   EDITERR
+         JMP   EGETKY
+:8       JSR   SAVCURLOC
+         PRAT  0;23;WHATPOS
+         PRINT BadDigit+5
+         JSR   WAIT4
+         JSR   RESTCLOC
+         JMP   EGETKY
+
+:EOF     LDA   FILFLG
+         BPL   :file      ;Following a file
+         JMP   :NOFIL
+:file    MLI   GETEOF;PGSEOF
+         BCS   :ERR
+         LDX   #2
+:10      LDA   FIEOF,X
+         STA   NUM,X
+         DEX
+         BPL   :10
+         LDA   NUM
+         BNE   :11
+         LDA   NUM+1
+         BNE   :12
+         DEC   NUM+2
+:12      DEC   NUM+1
+:11      DEC   NUM
+         JMP   :SET
+
+OPCODE   LDA   OPFLAG     ;List opcodes
+         EOR   #$FF
+         STA   OPFLAG
+         JSR   PRIMSIZE
+         JMP   DOSCRN
+
+PRIMSIZE CTX   HLPaaO
+         JSR   SAVCURLOC  ;Opcodes visible
+         INC   WNDWDTH
+         GOTO  76;20
+         LDA   OPFLAG
+         BNE   :3
+         LDX   #4
+         JSR   PRBL2
+         JMP   :4
+:3       LDA   #"m"
+         JSR   COUT
+         LDX   #"0"
+         LDA   IMMSIZE
+         AND   #2
+         BNE   :1
+         INX
+:1       TXA
+         JSR   COUT
+         LDA   #"x"
+         JSR   COUT
+         LDX   #"0"
+         LDA   IMMSIZE
+         ROR
+         BCS   :5
+         INX
+:5       TXA
+         JSR   COUT
+         LDA   EMODE
+         BPL   :4
+         LDA   #$40       ;Force lo ascii when
+         STA   EMODE      ;we turn on the opcodes
+:4       JSR   RESTCLOC
+:2       RTS
+
+PR8OPS   STDB  PTR;$3A    ;Print 8 instructions
+         JSR   SAVCURLOC
+         LDA   WNDWDTH
+         PHA
+         LDA   #72
+         STA   WNDWDTH
+         GOTO  0;1
+         LDA   #8
+:1       PHA
+         JSR   CROUT
+         LDX   #15
+         JSR   PRBL2
+         JSR   INSTDSP
+         JSR   $F953
+         STA   $3A
+         STY   $3B
+         JSR   CLREOL
+         PLA
+         SEC
+         SBC   #1
+         BNE   :1
+         PLA
+         STA   WNDWDTH
+         JSR   RESTCLOC
+         RTS
+
+INSTDSP  JSR   INSDS1
+         LDY   #0
+:1       LDA   (PCL),Y
+         JSR   PRBYT
+         LDX   #1         ;Print 1 blank
+:2       JSR   PRBL2
+         CPY   LENGTH
+         INY
+         BCC   :1
+         LDX   #3
+         CPY   #4
+         BCC   :2
+         JSR   PRBL2
+         LDX   #3
+*
+* Print Mnemonic
+*
+         LDY   #3
+:3       LDA   #6
+:4       ASL   RMNEM
+         ROL   LMNEM
+         ROL
+         BPL   :4
+         JSR   COUT
+         DEY
+         BNE   :3
+         LDY   LENGTH
+         BEQ   :8         ;Single byte opcode
+         LDA   FORMATL
+         AND   #$04
+         BNE   :9         ;Yes, moves or relatives
+*
+* Print normal operands
+*
+         LDX   #3
+         JSR   PRBL2
+         LDX   #11        ;12 format bits
+:5       ASL   FORMATL
+         ROL   FORMATH
+         BCC   :7
+         LDA   FMTSTR,X
+         JSR   COUT
+         CMP   #"#"
+         BNE   :55
+         BIT   IMMSIZE
+         BPL   :7
+         JSR   COUT       ;Prints a ## for long numbers
+:55      CMP   #"$"
+         BNE   :7
+:6       LDA   (PCL),Y
+         JSR   PRBYT
+         DEY
+         BNE   :6
+:7       DEX
+         BPL   :5
+:8       RTS
+*
+* Special cases
+*
+:9       LDX   #3
+         JSR   PRBL2
+         LDA   #"$"
+         JSR   COUT
+         LDA   FORMATL
+         AND   #$08       ;new
+         BNE   :11        ;new
+                          ; BMI :11 ;MVN & MVP
+         DEY              ;Distinguish relatives
+         BNE   :10        ;16-bit relative
+*
+* 8-bit relative
+*
+         INY              ;8-bit relative
+         LDA   (PCL),Y    ;Get 8-bit offset
+
+* The is RELADR from the monitor
+
+         LDX   FILFLG
+         BMI   :99
+         PHA              ;Doing a file
+         SEC
+         LDA   PCH
+         SBC   #>BLKBUF
+         ROR
+         PHP
+         LDA   BLOCK
+         ASL
+         PLP
+         ADC   FIAUX+1    ;Doing file, use load address
+         JMP   :9F
+:99      LDX   OSTYPE
+         CPX   #2         ;Memory?
+         BNE   :9A        ;No
+         LDY   MEMPAGE+1  ;Yes, use this page
+         JMP   :9B
+:9A      PHA
+         LDA   PCH
+         SEC
+         SBC   #>BLKBUF
+:9F      TAY
+         PLA
+         SEC
+:9B      TAX
+         BPL   :9C
+         DEY
+:9C      ADC   PCL
+         BCC   :9D
+         INY
+:9D      TAX
+         INX
+         BNE   :9E
+         INY
+:9E      TYA
+         JSR   PRBYT
+         TXA
+         JMP   PRBYT
+*
+* 16-bit relative
+*
+:10      LDA   (PCL),Y    ;Low byte of offset
+         STA   FORMATL
+         INY
+         LDA   (PCL),Y    ;Hi byte of offset
+         STA   FORMATH
+         JSR   PCADJ
+         CLC
+         ADC   FORMATL
+         TAX
+         TYA
+         ADC   FORMATH
+         JMP   PRNTAX
+*
+* MVN & MVP
+*
+:11      LDA   (PCL),Y
+         JSR   PRBYT
+         LDA   #$AC       ;Comma (quoted comma doesn't work in Merlin32)
+         JSR   COUT
+         LDA   #"$"
+         JSR   COUT
+         DEY
+         LDA   (PCL),Y
+         JMP   PRBYT
+
+INSDS1   LDA   MEMPAGE+1
+         LDY   OSTYPE
+         CPY   #2         ;Doing memory?
+         BEQ   :1         ;Yes
+         LDA   FILFLG     ;Doing a file?
+         BMI   :0         ;No
+         SEC
+         LDA   PCH
+         SBC   #>BLKBUF
+         ROR              ;Pick up bit 0
+         PHP              ;and save it
+         LDA   BLOCK
+         ASL
+         PLP              ;Use carry bit
+         ADC   FIAUX+1    ;Doing file, use load address
+         JMP   :1
+:0       LDA   PCH
+         SEC
+         SBC   #>BLKBUF
+:1       JSR   PRBYT
+         LDA   PCL
+         JSR   PRBYT
+         LDA   #"-"
+         JSR   COUT
+         LDA   #" "
+         JSR   COUT
+         LDY   #0
+         LDA   (PCL),Y    ;Get opcode
+INSDS2   TAY              ;Save in Y-Reg
+         LDA   OPINDEX,Y
+         ASL
+         TAX
+         BCC   :1         ;Not single byte opcode
+         LDA   OPNAMESA,X
+         STA   RMNEM
+         LDA   OPNAMESA+1,X
+         STA   LMNEM
+         LDA   #0
+         STA   LENGTH
+         RTS
+:1       LDA   OPNAMESB,X
+         STA   RMNEM
+         LDA   OPNAMESB+1,X
+         STA   LMNEM
+         LDX   OPFORMAT,Y
+         LDA   FMTBL+1,X
+         STA   FORMATH
+         LDA   FMTBL,X
+         STA   FORMATL
+         AND   #3
+         STA   LENGTH
+         LDA   OPFORMAT,Y
+         BNE   :2         ;Not immediate mode
+         LDY   #0
+         LDA   IMMSIZE
+         ROR
+         BCS   :4         ;Index registers 16 bit
+:6       ROR
+         BCC   :2
+         JSR   :8
+         BEQ   :2
+:5       INC   LENGTH     ;Yes
+:2       RTS
+:4       JSR   :8
+         BEQ   :5
+         LDA   IMMSIZE
+         ROR
+         JMP   :6
+
+:8       LDA   (PCL),Y
+         CMP   #$A0       ;LDY #?
+         BEQ   :9
+         CMP   #$A2       ;LDX #?
+         BEQ   :9
+         CMP   #$C0       ;CPY #
+         BEQ   :9
+         CMP   #$E0       ;CPX #
+:9       RTS
+
+
+OPNAMESA
+ASLA     ON    A;S;L;A
+BRK      ON    B;R;K
+CLC      ON    C;L;C
+CLD      ON    C;L;D
+CLI      ON    C;L;I
+CLV      ON    C;L;V
+COP      ON    C;O;P
+DECA     ON    D;E;C;A
+DEX      ON    D;E;X
+DEY      ON    D;E;Y
+INCA     ON    I;N;C;A
+INX      ON    I;N;X
+INY      ON    I;N;Y
+LSRA     ON    L;S;R;A
+NOP      ON    N;O;P
+PHA      ON    P;H;A
+PHB      ON    P;H;B
+PHD      ON    P;H;D
+PHK      ON    P;H;K
+PHP      ON    P;H;P
+PHX      ON    P;H;X
+PHY      ON    P;H;Y
+PLA      ON    P;L;A
+PLB      ON    P;L;B
+PLD      ON    P;L;D
+PLP      ON    P;L;P
+PLX      ON    P;L;X
+PLY      ON    P;L;Y
+ROLA     ON    R;O;L;A
+RORA     ON    R;O;L;A
+RTI      ON    R;T;I
+RTL      ON    R;T;L
+RTS      ON    R;T;S
+SEC      ON    S;E;C
+SED      ON    S;E;D
+SEI      ON    S;E;I
+STP      ON    S;T;P
+TAX      ON    T;A;X
+TAY      ON    T;A;Y
+TCD      ON    T;C;D
+TCS      ON    T;C;S
+TDC      ON    T;D;C
+TSC      ON    T;S;C
+TSX      ON    T;S;X
+TXA      ON    T;X;A
+TXS      ON    T;X;S
+TXY      ON    T;X;Y
+TYA      ON    T;Y;A
+TYX      ON    T;Y;X
+WAI      ON    W;A;I
+WDM      ON    W;D;M
+XBA      ON    X;B;A
+XCE      ON    X;C;E
+
+OPNAMESB
+ADC      ON    A;D;C
+AND      ON    A;N;D
+ASL      ON    A;S;L
+BCC      ON    B;C;C
+BCS      ON    B;C;S
+BEQ      ON    B;E;Q
+BIT      ON    B;I;T
+BMI      ON    B;M;I
+BNE      ON    B;N;E
+BPL      ON    B;P;L
+BRA      ON    B;R;A
+BRL      ON    B;R;L
+BVC      ON    B;V;C
+BVS      ON    B;V;S
+CMP      ON    C;M;P
+CPX      ON    C;P;X
+CPY      ON    C;P;Y
+DEC      ON    D;E;C
+EOR      ON    E;O;R
+INC      ON    I;N;C
+JML      ON    J;M;L
+JMP      ON    J;M;P
+JSL      ON    J;S;L
+JSR      ON    J;S;R
+LDA      ON    L;D;A
+LDX      ON    L;D;X
+LDY      ON    L;D;Y
+LSR      ON    L;S;R
+MVN      ON    M;V;N
+MVP      ON    M;V;P
+ORA      ON    O;R;A
+PEA      ON    P;E;A
+PEI      ON    P;E;I
+PER      ON    P;E;R
+REP      ON    R;E;P
+ROL      ON    R;O;L
+ROR      ON    R;O;R
+SBC      ON    S;B;C
+SEP      ON    S;E;P
+STA      ON    S;T;A
+STX      ON    S;T;X
+STY      ON    S;T;Y
+STZ      ON    S;T;Z
+TRB      ON    T;R;B
+TSB      ON    T;S;B
+
+*
+* OXA for single bytes opcodes
+* OXB for multiple byte opcodes
+*
+
+OPINDEX
+:0       OXA   BRK
+         OXB   ORA
+         OXA   COP
+         OXB   ORA
+         OXB   TSB
+         OXB   ORA
+         OXB   ASL
+         OXB   ORA
+         OXA   PHP
+         OXB   ORA
+         OXA   ASLA
+         OXA   PHD
+         OXB   TSB
+         OXB   ORA
+         OXB   ASL
+         OXB   ORA
+:1       OXB   BPL
+         OXB   ORA
+         OXB   ORA
+         OXB   ORA
+         OXB   TRB
+         OXB   ORA
+         OXB   ASL
+         OXB   ORA
+         OXA   CLC
+         OXB   ORA
+         OXA   INCA
+         OXA   TCS
+         OXB   TRB
+         OXB   ORA
+         OXB   ASL
+         OXB   ORA
+:2       OXB   JSR
+         OXB   AND
+         OXB   JSL
+         OXB   AND
+         OXB   BIT
+         OXB   AND
+         OXB   ROL
+         OXB   AND
+         OXA   PLP
+         OXB   AND
+         OXA   ROLA
+         OXA   PLD
+         OXB   BIT
+         OXB   AND
+         OXB   ROL
+         OXB   AND
+:3       OXB   BMI
+         OXB   AND
+         OXB   AND
+         OXB   AND
+         OXB   BIT
+         OXB   AND
+         OXB   ROL
+         OXB   AND
+         OXA   SEC
+         OXB   AND
+         OXA   DECA
+         OXA   TSC
+         OXB   BIT
+         OXB   AND
+         OXB   ROL
+         OXB   AND
+:4       OXA   RTI
+         OXB   EOR
+         OXA   WDM
+         OXB   EOR
+         OXB   MVP
+         OXB   EOR
+         OXB   LSR
+         OXB   EOR
+         OXA   PHA
+         OXB   EOR
+         OXA   LSRA
+         OXA   PHK
+         OXB   JMP
+         OXB   EOR
+         OXB   LSR
+         OXB   EOR
+:5       OXB   BVC
+         OXB   EOR
+         OXB   EOR
+         OXB   EOR
+         OXB   MVN
+         OXB   EOR
+         OXB   LSR
+         OXB   EOR
+         OXA   CLI
+         OXB   EOR
+         OXA   PHY
+         OXA   TCD
+         OXB   JMP
+         OXB   EOR
+         OXB   LSR
+         OXB   EOR
+:6       OXA   RTS
+         OXB   ADC
+         OXB   PER
+         OXB   ADC
+         OXB   STZ
+         OXB   ADC
+         OXB   ROR
+         OXB   ADC
+         OXA   PLA
+         OXB   ADC
+         OXA   RORA
+         OXA   RTL
+         OXB   JMP
+         OXB   ADC
+         OXB   ROR
+         OXB   ADC
+:7       OXB   BVS
+         OXB   ADC
+         OXB   ADC
+         OXB   ADC
+         OXB   STZ
+         OXB   ADC
+         OXB   ROR
+         OXB   ADC
+         OXA   SEI
+         OXB   ADC
+         OXA   PLY
+         OXA   TDC
+         OXB   JMP
+         OXB   ADC
+         OXB   ROR
+         OXB   ADC
+:8       OXB   BRA
+         OXB   STA
+         OXB   BRL
+         OXB   STA
+         OXB   STY
+         OXB   STA
+         OXB   STX
+         OXB   STA
+         OXA   DEY
+         OXB   BIT
+         OXA   TXA
+         OXA   PHB
+         OXB   STY
+         OXB   STA
+         OXB   STX
+         OXB   STA
+:9       OXB   BCC
+         OXB   STA
+         OXB   STA
+         OXB   STA
+         OXB   STY
+         OXB   STA
+         OXB   STX
+         OXB   STA
+         OXA   TYA
+         OXB   STA
+         OXA   TXS
+         OXA   TXY
+         OXB   STZ
+         OXB   STA
+         OXB   STZ
+         OXB   STA
+:A       OXB   LDY
+         OXB   LDA
+         OXB   LDX
+         OXB   LDA
+         OXB   LDY
+         OXB   LDA
+         OXB   LDX
+         OXB   LDA
+         OXA   TAY
+         OXB   LDA
+         OXA   TAX
+         OXA   PLB
+         OXB   LDY
+         OXB   LDA
+         OXB   LDX
+         OXB   LDA
+:B       OXB   BCS
+         OXB   LDA
+         OXB   LDA
+         OXB   LDA
+         OXB   LDY
+         OXB   LDA
+         OXB   LDX
+         OXB   LDA
+         OXA   CLV
+         OXB   LDA
+         OXA   TSX
+         OXA   TYX
+         OXB   LDY
+         OXB   LDA
+         OXB   LDX
+         OXB   LDA
+:C       OXB   CPY
+         OXB   CMP
+         OXB   REP
+         OXB   CMP
+         OXB   CPY
+         OXB   CMP
+         OXB   DEC
+         OXB   CMP
+         OXA   INY
+         OXB   CMP
+         OXA   DEX
+         OXA   WAI
+         OXB   CPY
+         OXB   CMP
+         OXB   DEC
+         OXB   CMP
+:D       OXB   BNE
+         OXB   CMP
+         OXB   CMP
+         OXB   CMP
+         OXB   PEI
+         OXB   CMP
+         OXB   DEC
+         OXB   CMP
+         OXA   CLD
+         OXB   CMP
+         OXA   PHX
+         OXA   STP
+         OXB   JML
+         OXB   CMP
+         OXB   DEC
+         OXB   CMP
+:E       OXB   CPX
+         OXB   SBC
+         OXB   SEP
+         OXB   SBC
+         OXB   LDX
+         OXB   SBC
+         OXB   INC
+         OXB   SBC
+         OXA   INX
+         OXB   SBC
+         OXA   NOP
+         OXA   XBA
+         OXB   CPX
+         OXB   SBC
+         OXB   INC
+         OXB   SBC
+:F       OXB   BEQ
+         OXB   SBC
+         OXB   SBC
+         OXB   SBC
+         OXB   PEA
+         OXB   SBC
+         OXB   INC
+         OXB   SBC
+         OXA   SED
+         OXB   SBC
+         OXA   PLX
+         OXA   XCE
+         OXB   JSR
+         OXB   SBC
+         OXB   INC
+         OXB   SBC
+
+
+OPFORMAT
+:0       HEX   26,14,00,1C,02,02,02,20,00,00,00,00,04,04,04,06
+:1       HEX   26,16,12,1E,02,08,08,22,00,10,00,00,04,0A,0A,0C
+:2       HEX   04,14,06,1C,02,02,02,20,00,00,00,00,04,04,04,06
+:3       HEX   26,16,12,1E,08,08,08,22,00,10,00,00,0A,0A,0A,0C
+:4       HEX   00,14,00,1C,24,02,02,20,00,00,00,00,04,04,04,06
+:5       HEX   26,16,12,1E,24,08,08,22,00,10,00,00,06,0A,0A,0C
+:6       HEX   00,14,28,1C,02,02,02,20,00,00,00,00,18,04,04,06
+:7       HEX   26,16,12,1E,08,08,08,22,00,10,00,00,1A,0A,0A,0C
+:8       HEX   26,14,28,1C,02,02,02,20,00,00,00,00,04,04,04,06
+:9       HEX   26,16,12,1E,08,08,0E,22,00,10,00,00,04,0A,0A,0C
+:A       HEX   00,14,00,1C,02,02,02,20,00,00,00,00,04,04,04,06
+:B       HEX   26,16,12,1E,08,08,0E,22,00,10,00,00,0A,0A,10,0C
+:C       HEX   00,14,26,1C,02,02,02,20,00,00,00,00,02,04,02,06
+:D       HEX   26,16,12,1E,02,08,08,22,00,10,00,00,18,0A,0A,0C
+:E       HEX   00,14,26,1C,02,02,02,20,00,00,00,00,04,04,04,06
+:F       HEX   26,16,12,1E,08,08,08,22,00,10,00,00,1A,0A,0A,0C
+
+FMTBL
+         DA    $9001      ;Immediate      #$mm
+         DA    $1001      ;Direct         $mm
+         DA    $1002      ;Absolute       $mmmm
+         DA    $1003      ;Long           $mmmmmm
+         DA    $1C01      ;Direct,X       $mm,X
+         DA    $1C02      ;Abs,X          $mmmm,X
+         DA    $1C03      ;Long,X         $mmmmmm,X
+         DA    $1821      ;Direct,Y       $mm,Y
+         DA    $1822      ;Abs,Y          $mmmm,Y
+         DA    $3081      ;Ind            ($mm)
+         DA    $3A81      ;IndX           ($mm,X)
+         DA    $30E1      ;IndY           ($mm),Y
+         DA    $3082      ;IndAbs         ($mmmm)
+         DA    $3C82      ;IndAbsX        ($mmmm,X)
+         DA    $3A81      ;Stack          ($mm,S)
+         DA    $3AE1      ;StackY         ($mm,S),Y
+         DA    $5101      ;IndLong        [$mm]
+         DA    $5161      ;IndLongY       [$mm],Y
+         DA    $100E      ;MVN & MVP      $mm,$mm
+         DA    $0005      ;Relative       $mm
+         DA    $0006      ;Long Relative  $mmmm
+
+
+FMTSTR   ASC   "$Y,)]SX,$([#"
+
+ZERONUM  LDA   #0
+         LDX   #2
+:1       STA   NUM,X
+         DEX
+         BPL   :1
+         RTS
+
+DOASCII  JSR   SETASCMOD
+         JMP   DOSCRN
+
+SETASCMOD LDA  VIEWFLG
+         BEQ   :1
+         CMP   #$40
+         BEQ   :2
+         LDA   #0         ;Set Normal
+         BEQ   :3
+:1       LDA   #$40       ;Set Inverse
+         BNE   :3
+:2       LDA   #$80       ;Set Mousetext
+:3       STA   VIEWFLG    ;Fall through and print mode
+
+PRASCMOD JSR   SAVCURLOC
+         GOTO  74;20
+         LDA   VIEWFLG
+         BEQ   :1
+         CMP   #$40
+         BNE   :2
+         LDA   #'A'       ;Inverse
+         BNE   :3
+:1       LDA   #"A"       ;Normal
+         BNE   :3
+:2       JSR   MOUSEON    ;Mousetext
+         LDA   #'A'
+:3       JSR   COUT
+         JSR   MOUSEOFF
+         JSR   RESTCLOC
+         RTS
+
+LOOK     JSR   SAVCURLOC
+         LDA   #1
+         STA   GSTRMODE   ;Indicate any input is valid
+         CTX   HLPaaL
+         GOTO  0;23
+         JSR   CLREOL
+         PRINT LKPRMPT    ;Prompt "Look for: "
+         POINT STRPTR;INBUF
+         LDA   #0
+         STA   EOFLAG
+         LDY   INBUF
+         BEQ   :2
+         LDX   #1
+:1       LDA   INBUF,X
+         ORA   #$80
+         JSR   COUT
+         CPX   INBUF
+         BEQ   :1A
+         INX
+         BNE   :1
+:1A      LDY   INBUF
+:2       LDX   #68
+         JSR   GETSTR0
+         LDA   INBUF
+         BEQ   :3
+         CMP   #25        ;If string is > 25 characters,
+         BCC   :2A
+         GOTO  34;23      ;then limit the printed string
+         LDA   #"."       ; and append trailer to string
+         JSR   COUT       ;This is so that Entries
+         JSR   COUT       ; don't get cut off
+         JSR   COUT
+         JSR   CLREOL
+         JMP   :2A
+:3       GOTO  0;23
+         JSR   CLREOL
+         JSR   RESTCLOC
+         JMP   EGETKY
+:2A      JSR   RESTCLOC
+         LDX   #0
+         LDY   #1
+         LDA   #$FF
+         STA   MASK       ;Assume negative ASCII
+         LDA   (STRPTR),Y
+         CMP   #$A2       ;Double quote
+         BEQ   HIASC      ;Neg ASCII
+         CMP   #$A7       ;Single quote
+         BEQ   LOASC
+         LDY   #0
+DOHEX1   LDA   #0
+         STA   TEMP
+DOHEX2   INY
+         LDA   (STRPTR),Y
+:0       JSR   IsHexDigit
+         BCC   :2         ;Yes
+         CMP   #$8D
+         BEQ   :1A
+         CMP   #$A0       ;First space delimits numbers
+         BNE   :No        ;Invalid digit
+:1       INY
+         LDA   (STRPTR),Y
+         CMP   #$A0
+         BEQ   :1         ;Flush out spaces
+         CMP   #$8D
+         BEQ   :1A
+         DEY
+         LDA   TEMP       ;In between numbers, save
+         STA   SBUF,X     ;built-up number in buffer
+         INX
+         BNE   DOHEX1
+:1A      LDA   TEMP
+         STA   SBUF,X
+         INX
+         BNE   LOOK5
+:2       AND   #$F        ;Got a digit, mask off hi nibble
+         ASL   TEMP
+         ASL   TEMP
+         ASL   TEMP
+         ASL   TEMP
+         ORA   TEMP
+         STA   TEMP
+         JMP   DOHEX2
+:No      STY   :YSave
+         JSR   SAVCURLOC
+         GOTO  10;23
+         LDY   #0
+:3       INY
+         LDA   (STRPTR),Y
+         JSR   COUT
+         CPY   :YSave
+         BNE   :3
+         PRINT BadDigit
+         JSR   CLREOL
+         JSR   WAIT4
+         JSR   RESTCLOC
+         JMP   LOOK
+:YSave   DS    1
+
+LOASC    LDA   #$7F       ;Positive ASCII
+         STA   MASK
+HIASC    LDX   #0
+:1       INX
+         CPX   INBUF
+         BEQ   :2
+         LDA   INBUF+1,X
+         AND   MASK
+         STA   SBUF-1,X
+         JMP   :1
+:2       DEX
+LOOK5    STX   SCOUNT
+         POINT STRPTR;SBUF
+         STDB  PTR;WORKAREA
+                          ;SEARCH1
+         JMP   FINDIT
+SEARCH2  LDA   #<BLKBUF
+         STA   RWBUF
+         STA   WORKAREA
+         LDA   #>BLKBUF
+         STA   RWBUF+1
+         STA   WORKAREA+1
+         LDA   EOFLAG
+         BEQ   SEARCH6
+         JMP   NOSEARCH
+SEARCH6  JSR   INCRBLK
+                          ; BCS :5
+         JSR   PRBLKNUM
+         JSR   BLKREAD
+         BCC   :2
+         JMP   LOOKERR
+:4       CMP   #$4D       ;Position past EOF
+:5       JMP   LOOKERR    ;was BNE
+         STA   EOFLAG
+         BEQ   FINDIT     ;Always
+:2       JSR   KBDEDIT
+         CMP   #$9B
+         BNE   FINDIT
+:3       JMP   NOSEARCH
+FINDIT   STA   STRB
+         INC   WORKAREA
+         BNE   :1
+         INC   WORKAREA+1
+         LDA   WORKAREA+1
+         CMP   BUFEND
+:0       BEQ   SEARCH2
+:1       LDY   #$FF
+         LDX   SCOUNT
+:2       INY
+         DEX
+         BMI   :3         ;Search successful
+         LDA   (WORKAREA),Y
+         CMP   SBUF,Y
+         BEQ   :2
+         INC   WORKAREA
+         LDA   WORKAREA
+         BNE   :1
+         INC   WORKAREA+1
+         LDA   WORKAREA+1
+         CMP   BUFEND     ;At end of this block?
+         BEQ   :0         ;Yes, get new block
+         BNE   :1         ;No, continue in this block
+:3       LDA   WORKAREA+1
+         JSR   MOV2
+NOSEARCH STA   STRB
+         JMP   DOSCRN
+LOOKERR  JSR   EDITERR
+         JMP   DOSCRN
+
+NIBSAVX  DS    1
+NIBSAVY  DS    1
+
+GET3NIBS GOTO  77;3
+         STX   NIBSAVX
+         STY   NIBSAVY
+GET3NIB2 LDX   NIBSAVX
+         LDY   NIBSAVY
+         JSR   GOTOXY2
+         LDA   WORKAREA+1
+         JSR   PRHEX
+         LDA   WORKAREA
+         JSR   PRBYT
+         LDA   #$88
+         JSR   COUT
+:1       JSR   MYKEYIN
+         CMP   #$8D
+         BEQ   :5
+         CMP   #"N"
+         BEQ   :Num
+         CMP   #"n"
+         BEQ   :Num
+         CMP   #"a"       ;Convert to uppercase
+         BCC   :1A
+         AND   #$DF
+:1A      CMP   #$9B
+         BEQ   :4A
+         EOR   #"0"
+         CMP   #$A
+         BCC   :3
+         ADC   #$88
+         CMP   #$FA
+         BCS   :2
+:1B      CTX   HLPEntHx
+         JSR   BUZZ
+         BEQ   :1         ;Always
+:2       AND   #$F
+:3       LDX   #4
+:4       ASL   WORKAREA
+         ROL   WORKAREA+1
+         DEX
+         BNE   :4
+         ORA   WORKAREA
+         STA   WORKAREA
+         JMP   GET3NIB2
+:4A      SEC
+         RTS
+:5       CLC
+         RTS
+:Num     LDA   OAPPLE
+         ORA   CAPPLE
+         BPL   :1B
+         JSR   CvtNum
+         BCS   GET3NIB2
+:N1      STDB  NUM;WORKAREA
+         JMP   GET3NIB2
+
+
+GO2BYTE  JSR   SAVCURLOC
+         CTX   HLPaaG
+         LDA   #0
+         STA   WORKAREA
+         STA   WORKAREA+1
+:0       JSR   GET3NIBS
+         BCC   :5
+         JSR   CLEAR23
+         JSR   RESTCLOC
+         JMP   EGETKY
+:5       JSR   CLEAR23
+         JSR   RESTCLOC
+         LDA   WORKAREA+1
+         AND   #$0F
+         CLC
+         ADC   #>BLKBUF
+         STA   WORKAREA+1
+         JSR   MOV2
+         JMP   EGETKY
+
+MOV2     LDX   #0
+         STX   COUNT      ;Say going forward
+         LDY   #WORKAREA
+         LDX   #PTR
+         LDA   PTR+1
+         CMP   WORKAREA+1
+         BCC   :6         ;WA < PTR, backward
+         BNE   :5
+         LDA   PTR
+         CMP   WORKAREA
+         BCC   :6         ;WA < PTR, backward
+:5       LDY   #PTR       ;WA >= PTR, forward
+         LDX   #WORKAREA
+         LDA   #$FF       ;Backward
+         STA   COUNT
+:6       SEC
+         LDA   $00,Y      ;Calculate absoulute
+         SBC   $00,X      ; distance between where
+         STA   WORKAREA   ; we are, and where we
+         LDA   $00+1,Y    ; want to be.
+         SBC   $00+1,X
+         STA   WORKAREA+1
+:6A      LDA   WORKAREA
+         ORA   WORKAREA+1
+         BEQ   :9
+         LDA   WORKAREA
+         BNE   :6C
+         DEC   WORKAREA+1
+:6C      DEC   WORKAREA
+:6B      BIT   COUNT
+         BMI   :7         ;Backwards, go left
+         JSR   NORMBYTE
+         JSR   RIGHT
+         JMP   :6A
+:7       JSR   NORMBYTE
+
+         JSR   LEFT       ;Forwards, go right
+         JMP   :6A
+:9       RTS
+
+GO2HEAD  LDA   OSTYPE
+         BEQ   :PRO
+         CMP   #1
+         BNE   :1
+         JMP   :DOS
+:1       CMP   #3
+         BNE   :2
+         JMP   :PAS
+:2       CMP   #4
+         BNE   :3
+         JMP   :CPM
+:3       JMP   EGETKY     ;Must be in MEMORY
+:PRO     LDX   #0
+:10      LDA   PROOFLO,X
+         CMP   PTR
+         LDA   PROOFHI,X
+         SBC   PTR+1
+         BCS   :14
+:12      INX
+         CPX   #13
+         BNE   :10
+         LDY   PTR
+         LDA   PTR+1
+         BNE   :18        ;Always
+:14      LDA   PROOFLO,X
+         EOR   PTR
+         BNE   :16
+         LDA   PTR+1
+         EOR   PROOFHI,X
+         BNE   :16
+         CPX   #12
+         BEQ   :16
+         INX
+:16      LDY   PROOFLO,X
+         LDA   PROOFHI,X
+:18      STY   WORKAREA
+         STA   WORKAREA+1
+         JSR   MOV2
+         JMP   EGETKY
+:DOS     LDX   #0
+         LDA   PTR
+:20      CMP   DOSDIRLOC,X
+         BCC   :23
+         BEQ   :23
+         INX
+         CPX   #7
+         BNE   :20
+         JMP   EGETKY
+:21      STA   WORKAREA
+         LDA   PTR+1
+         STA   WORKAREA+1
+         JSR   MOV2
+:22      JMP   EGETKY
+:23      CPX   #6
+         BEQ   :22
+         LDA   DOSDIRLOC+1,X
+         BNE   :21        ;Always
+:PAS     LDX   #0
+         LDY   BLOCK
+:30      LDA   PASDIRLOC,X
+         CLC
+         ADC   PASDFIX-2,Y
+         STA   TEMPPTR
+         LDA   PASDIRLOC+1,X
+         ADC   #0
+         STA   TEMPPTR+1
+         LDA   TEMPPTR
+         CMP   PTR
+         LDA   TEMPPTR+1
+         SBC   PTR+1
+         BCS   :34
+:32      INX
+         INX
+         CPX   #40
+         BNE   :30
+:33      LDY   PTR
+         LDA   PTR+1
+         BNE   :38        ;Always
+:34      LDA   TEMPPTR
+         EOR   PTR
+         BNE   :36
+         LDA   PTR+1
+         EOR   TEMPPTR+1
+         BNE   :36
+         CPX   #38
+         BEQ   :36
+         LDA   PASDIRLOC+2,X
+         CLC
+         ADC   PASDFIX-2,Y
+         TAY
+         LDA   PASDIRLOC+3,X
+         ADC   #0
+         BNE   :38        ;Always
+:36      LDY   TEMPPTR
+         LDA   TEMPPTR+1
+:38      STY   WORKAREA
+         STA   WORKAREA+1
+         JSR   MOV2
+         JMP   EGETKY
+:CPM     STDB  PTR;WORKAREA
+         LDA   WORKAREA
+         AND   #$E0
+         CLC
+         ADC   #$20
+         STA   WORKAREA
+         BCC   :40
+         INC   WORKAREA+1
+:40      JSR   MOV2
+         JMP   EGETKY
+
+
+BK2HEAD  LDA   OSTYPE
+         BEQ   :PRO
+         CMP   #1
+         BNE   :1
+         JMP   :DOS
+:1       CMP   #3
+         BNE   :2
+         JMP   :PAS
+:2       CMP   #4
+         BNE   :3
+         JMP   :CPM
+:3       JMP   EGETKY     ;Must be in MEMORY
+:PRO     LDX   #12
+:10      LDA   PTR
+         CMP   PROOFLO,X
+         BEQ   :14
+         LDA   PTR+1
+         SBC   PROOFHI,X
+:11      BCS   :12
+         DEX
+         BPL   :10
+:11A     LDY   PTR
+         LDA   PTR+1
+         JMP   :16
+:12      LDY   PROOFLO,X
+         LDA   PROOFHI,X
+         JMP   :16
+:14      LDA   PTR+1
+         CMP   PROOFHI,X
+         BNE   :11
+         CPX   #0
+         BEQ   :11A
+         LDY   PROOFLO-1,X
+         LDA   PROOFHI-1,X
+:16      STY   WORKAREA
+         STA   WORKAREA+1
+         JSR   MOV2
+         JMP   EGETKY
+:DOS     LDX   #6
+:20      LDA   DOSDIRLOC,X
+         CMP   PTR
+         BCC   :23
+         BEQ   :22
+         DEX
+         BPL   :20
+:21      JMP   EGETKY
+:22      CPX   #0
+         BEQ   :21
+         LDA   DOSDIRLOC-1,X
+:23      STA   WORKAREA
+         LDA   PTR+1
+         STA   WORKAREA+1
+         JSR   MOV2
+         JMP   EGETKY
+:PAS     LDX   #38
+         LDY   BLOCK
+:30      LDA   PASDIRLOC,X
+         CLC
+         ADC   PASDFIX-2,Y
+         STA   TEMPPTR
+         LDA   PASDIRLOC+1,X
+         ADC   #0
+         STA   TEMPPTR+1
+         LDA   PTR
+         CMP   TEMPPTR
+         BEQ   :34
+         LDA   PTR+1
+         SBC   TEMPPTR+1
+:31      BCS   :32
+         DEX
+         DEX
+         BPL   :30
+:31A     LDY   PTR
+         LDA   PTR+1
+         JMP   :36
+:32      LDY   TEMPPTR
+         LDA   TEMPPTR+1
+         JMP   :36
+:34      LDA   PTR+1
+         CMP   TEMPPTR+1
+         BNE   :31
+         CPX   #0
+         BEQ   :31A
+         LDA   PASDIRLOC-2,X
+         CLC
+         ADC   PASDFIX-2,Y
+         TAY
+         LDA   PASDIRLOC-1,X
+         ADC   #0
+:36      STY   WORKAREA
+         STA   WORKAREA+1
+         JSR   MOV2
+         JMP   EGETKY
+:CPM     STDB  PTR;WORKAREA
+         LDA   WORKAREA
+         AND   #$1F
+         BEQ   :41
+         LDA   WORKAREA
+         AND   #$E0
+         STA   WORKAREA
+:40      JSR   MOV2
+         JMP   EGETKY
+:41      LDA   WORKAREA
+         SEC
+         SBC   #$20
+         STA   WORKAREA
+         BCS   :40
+         DEC   WORKAREA+1
+         BNE   :40        ;Always
+         BRK

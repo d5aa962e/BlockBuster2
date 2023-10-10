@@ -1,0 +1,116 @@
+ 100  REM  ****************************************************
+ 110  REM  *                                                  *
+ 120  REM  *           Appleworks Indexing Program            *
+ 130  REM  *                                                  *
+ 140  REM  *           For use with Block Buster's            *
+ 150  REM  *              Context-Sensitive Help              *
+ 160  REM  *                                                  *
+ 170  REM  *                 Code Repository                  *
+ 180  REM  *     https://github.com/d5aa962e/Block_Buster     *
+ 190  REM  *                                                  *
+ 200  REM  *              License: CC BY-SA 4.0               *
+ 210  REM  *      Creative Commons Attribution-ShareAlike     *
+ 220  REM  *  https://creativecommons.org/licenses/by-sa/4.0  *
+ 230  REM  *                                                  *
+ 240  REM  ****************************************************
+ 250  REM 
+ 260  REM  UN$ holds slot/drives; VN$ holds volume names
+ 270  DIM UN$(16),VN$(16)
+ 280 PN$ = "BB2.HLP"
+ 290 NM$ = "BB2.IDX"
+ 300  REM 
+ 310  REM  Load the indexing code
+ 320  PRINT  CHR$ (4);"BLOAD INDEXER.BIN"
+ 330  REM 
+ 340  REM  Address of AuxType in BI's GetFileInfo parameter list
+ 350 LA =  PEEK (48825) +  PEEK (48826) * 256
+ 355  HOME 
+ 360  REM  Get a list of volumes.
+ 370  GOSUB 740
+ 380  PRINT : PRINT 
+ 381  PRINT "About to index the Appleworks file:"
+ 382  PRINT : PRINT  TAB( 5);"/";VN$(LC);"/";PN$
+ 383  PRINT : PRINT "The SPACE bar pauses indexing."
+ 384  PRINT "The RETURN key resumes indexing."
+ 385  PRINT : PRINT "Press any key to start or ESC to quit: ";: GET A$
+ 389  PRINT : PRINT 
+ 430  IF A$ =  CHR$ (27) THEN  END 
+ 440  REM 
+ 450  REM  Address of the Pathname buffer
+ 460 PB =  PEEK (LA + 13) +  PEEK (LA + 14) * 256
+ 470  REM 
+ 480  REM  Address of the generated index buffer
+ 490 AD =  PEEK (LA + 15) +  PEEK (LA + 16) * 256
+ 500  REM 
+ 510  REM  Put the pathname into the buffer
+ 520  FOR I = 1 TO  LEN (PN$): POKE PB + I, ASC ( MID$ (PN$,I,1)): NEXT I
+ 530  POKE PB, LEN (PN$)
+ 540  REM 
+ 550  REM  Call the indexing code
+ 560  CALL LA
+ 570  REM 
+ 580  REM  Get the length of the index (count * 8 bytes per entry)
+ 590 LN = ( PEEK (AD) + 1) * 8
+ 600  REM 
+ 610  REM  Save the new Index file
+ 620  REM 
+ 622 N$ = "/" + VN$(LC) + "/" + NM$
+ 624  PRINT : PRINT "Save ";N$;" (y/n)? ";: GET A$
+ 626  IF A$ <  > "y" AND A$ <  > "Y" THEN  PRINT : PRINT : PRINT "Save cancelled.": END 
+ 630  PRINT "Saving ";N$;"...";
+ 640  PRINT  CHR$ (4);"bsave ";N$;", A";AD;", L";LN
+ 650  PRINT "All done!"
+ 660  END 
+ 670  REM  *********************************************
+ 680  REM 
+ 690  REM  This does a ProDOS ONLINE call to get a list
+ 700  REM  of mounted volumes.  The code then iterates
+ 710  REM  through the ONLINE parameter list and builds
+ 720  REM  an array of slots/drives/names.
+ 730  REM 
+ 740  CALL LA + 3
+ 750  REM 
+ 760  REM  DK holds the address of the ONLINE result buffer.
+ 770  REM 
+ 780 DK =  PEEK (LA + 19) +  PEEK (LA + 20) * 256
+ 790  REM 
+ 800  REM  UC is the Count of found Unit Numbers
+ 810  REM 
+ 820 UC = 0
+ 830  REM 
+ 840  REM  For each of the possible 16 mounted drives
+ 850  REM 
+ 860  FOR I = 0 TO 15
+ 870  REM 
+ 880  REM  UN - Unit Number (dsssnnnn)
+ 890  REM  NL - Volume Name Length
+ 900  REM  SD - Slot Number
+ 910  REM  DR - Drive Number
+ 920  REM 
+ 930 UN =  PEEK (DK + I * 16)
+ 940 NL = UN -  INT (UN / 16) * 16
+ 950 SD =  INT (UN / 16)
+ 960 SL = SD -  INT (SD / 8) * 8
+ 970 DR =  INT (SD / 8)
+ 980  REM  Skip empty drive/slots
+ 990  IF NL = 0 THEN  GOTO 1080
+ 1000 N$ = ""
+ 1010  REM  Build Volume name
+ 1020  FOR N = 1 TO NL:CH =  PEEK (DK + I * 16 + N)
+ 1030 N$ = N$ +  CHR$ (CH)
+ 1040  NEXT N
+ 1050 UC = UC + 1
+ 1060 UN$(UC) = "S" +  CHR$ (48 + SL) + ",D" +  CHR$ (48 + DR + 1) + " /" + N$
+ 1070 VN$(UC) = N$
+ 1080  NEXT I
+ 1090  REM 
+ 1100  REM  Print the list of found volumes
+ 1110  REM 
+ 1120  FOR I = 1 TO UC: PRINT I;")  ";UN$(I)
+ 1130  NEXT I
+ 1140  PRINT : PRINT "Where is ";PN$;" located(1-";UC;", 0=quit): ";: INPUT "";LC$
+ 1150  IF LC$ <  > "" THEN LC =  VAL (LC$)
+ 1160  IF LC > UC THEN  PRINT : PRINT : PRINT : GOTO 1120
+ 1170  IF LC = 0 THEN  END 
+ 1180  PRINT  CHR$ (4);"prefix /";VN$(LC)
+ 1190  RETURN 

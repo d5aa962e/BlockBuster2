@@ -1,0 +1,11 @@
+ 5  HOME 
+ 10  PRINT "1) Run Block Buster"
+ 20  PRINT 
+ 30  PRINT "2) Run Help Indexer"
+ 39  PRINT : PRINT "0) Quit to ProDOS"
+ 40  PRINT 
+ 50  PRINT "Choice (RETURN=Exit to Basic): ";
+ 55  GET N$
+ 73  IF N$ = "1" OR N$ = "b" THEN  PRINT  CHR$ (4);"-bb2.system"
+ 75  IF N$ = "2" OR N$ = "h" THEN  PRINT  CHR$ (4);"-awp.indexer"
+ 77  IF N$ = "0" OR N$ = "q" THEN  PRINT  CHR$ (4);"bye"
