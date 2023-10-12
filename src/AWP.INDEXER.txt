@@ -6,14 +6,15 @@
  150  REM  *              Context-Sensitive Help              *
  160  REM  *                                                  *
  170  REM  *                 Code Repository                  *
- 180  REM  *     https://github.com/d5aa962e/Block_Buster     *
+ 180  REM  *     https://github.com/d5aa962e/BlockBuster2     *
  190  REM  *                                                  *
- 200  REM  *              License: CC BY-SA 4.0               *
- 210  REM  *      Creative Commons Attribution-ShareAlike     *
- 220  REM  *  https://creativecommons.org/licenses/by-sa/4.0  *
- 230  REM  *                                                  *
- 240  REM  ****************************************************
- 250  REM 
+ 200  REM  *       BlockBuster2 by github.com/d5aa962e        *
+ 210  REM  *   is licensed under CC BY-SA 4.0. To view a      *
+ 220  REM  *          copy of this license, visit             *
+ 230  REM  *  https://creativecommons.org/licenses/by-sa/4.0  *
+ 240  REM  *                                                  *
+ 250  REM  ****************************************************
+ 255  REM 
  260  REM  UN$ holds slot/drives; VN$ holds volume names
  270  DIM UN$(16),VN$(16)
  280 PN$ = "BB2.HLP"
