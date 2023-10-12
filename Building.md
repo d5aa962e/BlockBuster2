@@ -2,13 +2,15 @@
 
 ## BB2.SYSTEM
 
-Block Buster is assembled with Merlin 8.  Load up the BB-SRC ProDOS volume, load BB2.S into the editor, and assemble.  If successful, BB2.SYSTEM will be saved to the disk.
+Block Buster is assembled with Merlin 8.  Load up the dist/BB2-SRC ProDOS volume, load BB2.S into the editor, and assemble.  If successful, BB2.SYSTEM will be saved to the disk.
 
-You'll need an 800k disk drive to mount BB-SRC.  The PUTs within the BB2.S main file can be easily modified to reference 140k drives if need be.
+You'll need an 800k disk drive to mount BB2-SRC.  The PUTs within the BB2.S main file can be easily modified to reference 140k drives if need be.
+
+**Note: The files in the src directory are more for reference than for compiling.  All files needed to build Block Buster can be found on the BB2-SRC disk image.**
 
 ## The Help System
 
-The help system is built around an Appleworks word processor file.  This AWP file is indexed by topic, and Block Buster then uses the index to load the relevant portion of the AWP file to memory.
+The help system is built around an AppleWorks word processor file.  This AWP file is indexed by topic, and Block Buster then uses the index to load the relevant portion of the AWP file to memory.
 
 In a nutshell, AWP Option Codes are use to describe the size of the help window for the particular topic.  Option Codes are as follows:
 
