@@ -1,1 +1,335 @@
-ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªª                                                 ªª                Âìïãë Âõóôåò ²®ø                 ªª        Ôèå Îåøô Çåîåòáôéïî Âìïãë Åäéôïò         ªª                                                 ªª            Ïòéçéîáììù ÷òéôôåî éî ôèå            ªª               ±¹¸µ­±¹¹² ôéíåæòáíå®              ªª                                                 ªª                 Ãïäå Òåðïóéôïòù                 ªª     èôôðóº¯¯çéôèõâ®ãïí¯äµáá¹¶²å¯ÂìïãëÂõóôåò²    ªª                                                 ªª       ÂìïãëÂõóôåò² âù çéôèõâ®ãïí¯äµáá¹¶²å       ªª    éó ìéãåîóåä õîäåò ÃÃ ÂÙ­ÓÁ ´®°® Ôï öéå÷ á    ªª           ãïðù ïæ ôèéó ìéãåîóå¬ öéóéô           ªª  èôôðº¯¯ãòåáôéöåãïííïîó®ïòç¯ìéãåîóåó¯âù­óá¯´®°¯ ªª                                                 ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªª                              ªª        Æéìåº ÅÄÉÔÂ®Ó         ªª                              ªª           Ãïîôåîôó           ªª           ­­­­­­­­           ªª ­ Ãïðù ¯ Ðáóôå Ìïçéã         ªª                              ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªª Ãïðù á ãèõîë ïæ âùôåóªËÏÐÙ ÃÔØ ÈÌÐááÃ ÊÓÒ ÓÁÖÃÕÒÌÏÃºÔÆ ÇÏÔÏ °»²³ ÊÓÒ ÃÌÒÅÏÌ ÐÒÁÔ °»²³»ËÐÙ ÐÏÉÎÔ ÃÈÐÔÒ»ÃÐ ÌÄØ £± ÊÓÒ ÃÈÏÏÓÅ ÂÅÑ ºÅ ÃÍÐ £± »Ãõô ÂÅÑ ºÃÕÔ ÊÍÐ ºÐÁÓÔÅ »ÐáóôåºÅ ÊÍÐ ºÅ³ºÃÕÔ ÌÄÁ ÏÐÆÌÁÇ ÂÅÑ ºÃ± ÇÏÔÏ °»²³ »Ïðãïäåó áãôéöå¬ äïî§ô ÊÓÒ ÃÌÒÅÏÌ »áììï÷ á ãõô ÊÓÒ ÂÕÚÚ » ¨ãáî§ô èéìéçèô ïðãïäåó© ÐÒÉÎÔ ÎïÏðÃÈéì » ùåô¡ ÃÔØ ÈÌÐÃìéðÈìð ÊÓÒ ÅÒÒÏÒ± ÊÍÐ ºÅ³ºÃ± ÊÓÒ ÌÉÔÅÃÈÎË »Çåô ãèõîë ôï ãïðù ÂÃÃ ºÅ »äïî§ô ôòù áçáéî¬ íõóô ÄÏÓÃÒÎ ÃÔØ ÈÌÐÃðù²Ãìéð ÊÓÒ ÓÁÖÃÕÒÌÏÃ ÌÄÁ ÐÔÒ«± »Äéä ÷å ôòù ôï ãïðù ÓÅÃ »¾ µ±² âùôåó¿ ÓÂÃ ÐÔÒ²«± ÃÍÐ £² ÂÃÃ ºÆ »Îï ÃÍÐ £¤ÆÅ ÂÃÓ ºÆ ÊÓÒ ÂÕÚÚ »Ùåó ÃÔØ ÈÌÐÃìéðÈìð ÐÒÁÔ °»²³»ÃÌÉÐÌÉÍ »Ðòéîô ìéíéô ÊÓÒ ×ÁÉÔ´ »®®® èéô á ëåù ÊÍÐ ºÅ³ºÆ ÓÔÄÂ ÐÔÒ»ÉÂÐÔÒ ÇÏÔÏ ¶»²³ ÊÓÒ ÃÌÒÅÏÌ ÐÏÉÎÔ ÃÈÐÔÒ»ÃÃÐ ÌÄØ £± ÊÓÒ ÃÈÏÏÓÅ »Ãõô¯Ëïðù ÂÅÑ ºÅ ÃÍÐ £± ÂÅÑ ºËÕÔ »Äåìåôå âìïãë äáôáºËÐÙ ÐÏÉÎÔ ÄÉÒÐÔÒ»ÃÌÉÐÂÒÄ ÐÕÓÈ ÐÔÒ² »ÐÕÓÈ ÐÔÒ ïòéçéîáììù ÌÄÙ £° ÓÔÙ ÉÂÃÏÕÎÔ ÓÔÙ ÉÂÃÏÕÎÔ«± ÊÓÒ ÃÍÐÐ× ÂÃÓ ºË±º´ ÌÄÁ ¨ÐÔÒ©¬Ù ÓÔÁ ¨ÄÉÒÐÔÒ©¬Ù »ÐÔÒ ¼ ÐÔÒ² ÌÄÁ ÐÔÒ«± ÃÍÐ ÐÔÒ²«± ÂÎÅ º´Á ÌÄÁ ÐÔÒ ÃÍÐ ÐÔÒ² ÂÅÑ º¹º´Á ÉÎÃ× ÉÂÃÏÕÎÔ ÉÎÃ× ÄÉÒÐÔÒºµÁ ÉÎÃ× ÐÔÒ ÂÎÅ º´ »Áì÷áùóºË± ÌÄÁ ¨ÐÔÒ²©¬Ù »ÐÔÒ ¾½ ÐÔÒ² ÓÔÁ ¨ÄÉÒÐÔÒ©¬Ù ÌÄÁ ÐÔÒ²«± ÃÍÐ ÐÔÒ«± ÂÎÅ º¶ ÌÄÁ ÐÔÒ² ÃÍÐ ÐÔÒ ÂÅÑ º¹º¶ ÉÎÃ× ÉÂÃÏÕÎÔº· ÉÎÃ× ÐÔÒ²º¸ ÉÎÃ× ÄÉÒÐÔÒ ÂÎÅ ºË± »Áì÷áùóº¹ ÊÍÐ ºÅ´ºËÕÔ ÐÏÉÎÔ ÄÉÒÐÔÒ»ÃÌÉÐÂÒÄ ÐÕÓÈ ÐÔÒ² »ÐÕÓÈ ÐÔÒ² ïòéçéîáììù ÌÄÙ £° ÓÔÙ ÉÂÃÏÕÎÔ ÓÔÙ ÉÂÃÏÕÎÔ«± ÊÓÒ ÃÍÐÐ× ÂÃÓ º±´Á ÓÔÄÂ ÐÔÒ²»ÉÂÐÔÒº±°Á ÉÎÃ× ÉÂÐÔÒº±° ÌÄÁ ¨ÐÔÒ©¬Ù ÓÔÁ ¨ÄÉÒÐÔÒ©¬Ù »ÐÔÒ ¼ ÐÔÒ² ÌÄÁ ¨ÉÂÐÔÒ©¬Ù ÓÔÁ ¨ÐÔÒ©¬Ù ÌÄÁ ÐÔÒ«± ÃÍÐ ÐÔÒ²«± ÂÎÅ º±± ÌÄÁ ÐÔÒ ÃÍÐ ÐÔÒ² ÂÎÅ º±± ÓÔÄÂ ÐÔÒ»ÐÔÒ² ÊÍÐ º±¹º±± ÉÎÃ× ÉÂÃÏÕÎÔº±³ ÉÎÃ× ÄÉÒÐÔÒº±´ ÉÎÃ× ÐÔÒ ÂÎÅ º±°Á »Áì÷áùóº±´Á ÓÔÄÂ ÐÔÒ»ÉÂÐÔÒº±´Â ÉÎÃ× ÉÂÐÔÒºË³ ÌÄÁ ¨ÐÔÒ²©¬Ù »ÐÔÒ ¾½ ÐÔÒ² ÓÔÁ ¨ÄÉÒÐÔÒ©¬Ù ÌÄÁ ¨ÉÂÐÔÒ©¬Ù ÓÔÁ ¨ÐÔÒ²©¬Ù ÌÄÁ ÐÔÒ²«± ÃÍÐ ÐÔÒ«± ÂÎÅ º±µ ÌÄÁ ÐÔÒ² ÃÍÐ ÐÔÒ ÂÅÑ º±¹Ãº±µ ÉÎÃ× ÉÂÃÏÕÎÔº±¶ ÉÎÃ× ÐÔÒ²º±¸ ÉÎÃ× ÄÉÒÐÔÒ ÂÎÅ º±´Â »Áì÷áùóº±¹ ÉÎÃ× ÉÂÐÔÒº±¹Á ÉÎÃ× ÐÔÒ²º±¹Â ÌÄÁ ÐÔÒ²«± ÃÍÐ ÂÕÆÅÎÄ ÂÎÅ º±¹Ã ÊÓÒ ÓåôÄéòôù ÊÍÐ ºÅ´º±¹Ã ÌÄÁ ¨ÉÂÐÔÒ©¬Ù ÓÔÁ ¨ÐÔÒ²©¬Ù ÊÍÐ º±¹ºÅ´ ÐÕÌÌ ×ÏÒËÁÒÅÁ »ÐÕÌÌ ÐÔÒ ÊÓÒ ÃÌÅÁÒ²³ ÊÓÒ ÒÅÓÔÃÌÏÃ ÊÓÒ ÍÏÖ² ÊÍÐ ÄÏÓÃÒÎºÅ³ ÊÓÒ ÃÌÅÁÒ²³ ÊÓÒ ÒÅÓÔÃÌÏÃ ÊÍÐ ÄÏÓÃÒÎºÅ² ÊÍÐ ºÅ±ºÐÁÓÔÅ ÐÏÉÎÔ ÃÈÐÔÒ»ÒÉ ÃÔØ ÈÌÐÃðùÆòíÃìéð ÌÄØ £± ÊÓÒ ÃÈÏÏÓÅ ÂÎÅ ºÐ± ÊÍÐ ºÔÆºÐ± ÐÈÁ ÊÓÒ ÃÌÒÅÏÌ ÊÓÒ ÒÅÓÔÃÌÏÃ ÐÌÁ ÂÅÑ ºÅ² ÃÍÐ £± »Òåðìáãå ÂÅÑ ºÒÅÐ ÌÄÁ £¤ÆÆ »Éîóåòô ÃÌÃ ÓÂÃ ÉÂÃÏÕÎÔ ÓÔÁ ÉÂÐÔÒ ÌÄÁ £¾ÂÌËÂÕÆ«¤±ÆÆ ÓÂÃ ÉÂÃÏÕÎÔ«± ÓÔÁ ÉÂÐÔÒ«± ÐÏÉÎÔ ÄÉÒÐÔÒ»ÂÌËÂÕÆ«¤±ÆÆ ÓÔÄÂ ÉÂÃÏÕÎÔ»ÄÉÒÃÏÕÎÔ ÌÄÙ £°º¹Á ÌÄÁ ¨ÉÂÐÔÒ©¬Ù ÓÔÁ ¨ÄÉÒÐÔÒ©¬Ù ÌÄÁ ÉÂÐÔÒ ÃÍÐ ÐÔÒ ÂÎÅ º¹Â ÌÄÁ ÉÂÐÔÒ«± ÃÍÐ ÐÔÒ«± ÂÅÑ ºÒÅÐº¹Â ÌÄÁ ÉÂÐÔÒ ÓÅÃ ÓÂÃ £± ÓÔÁ ÉÂÐÔÒ ÂÃÓ º¹Ã ÄÅÃ ÉÂÐÔÒ«±º¹Ã ÌÄÁ ÄÉÒÐÔÒ ÓÅÃ ÓÂÃ £± ÓÔÁ ÄÉÒÐÔÒ ÂÃÓ º¹Á ÄÅÃ ÄÉÒÐÔÒ«± ÂÎÅ º¹Á »Áì÷áùóºÒÅÐ ÓÔÄÂ ÉÂÃÏÕÎÔ»ÄÉÒÃÏÕÎÔ »Óáöå ïìä ãïõîô ÓÔÄÂ ÐÔÒ»ÉÂÐÔÒ ÐÏÉÎÔ ÄÉÒÐÔÒ»ÃÌÉÐÂÒÄ ÌÄÙ £°º²° ÌÄÁ ¨ÄÉÒÐÔÒ©¬Ù ÓÔÁ ¨ÉÂÐÔÒ©¬Ù ÉÎÃ× ÉÂÐÔÒº²± ÉÎÃ× ÄÉÒÐÔÒº²² ÄÅÃ ÄÉÒÃÏÕÎÔ ÌÄÁ ÄÉÒÃÏÕÎÔ ÃÍÐ £¤ÆÆ ÂÎÅ º²° ÄÅÃ ÄÉÒÃÏÕÎÔ«± ÌÄÁ ÄÉÒÃÏÕÎÔ«± ÃÍÐ £¤ÆÆ ÂÎÅ º²°ºÅ± ÊÓÒ ÓÁÖÃÕÒÌÏÃ ÊÓÒ ÃÌÅÁÒ²³ ÊÓÒ ÒÅÓÔÃÌÏÃ ÊÓÒ ÓåôÄéòôù ÊÍÐ ÄÏÓÃÒÎªª Ãïíðáòå ÐÔÒ ôï ÐÔÒ²ª Ãáòòù óåô   éæ ÐÔÒ² ¾½ ÐÔÒª       ãìåáò éæ ÐÔÒ² ¼ ÐÔÒªÃÍÐÐ× ÌÄÁ ÐÔÒ«± ÃÍÐ ÐÔÒ²«± ÂÃÃ º± ÂÎÅ º± ÌÄÁ ÐÔÒ ÃÍÐ ÐÔÒ²º± ÒÔÓÃÏÐÙÒÔ ÊÓÒ ÃÍÐÐ× ÂÃÃ º± ÊÓÒ ÉÎÖÂÙÔÅ ÊÓÒ ÒÉÇÈÔ ÒÔÓº± ÊÓÒ ÎÏÒÍÂÙÔÅ ÊÓÒ ÒÉÇÈÔ ÒÔÓÃÏÐÙÌÆÔ ÊÓÒ ÃÍÐÐ× ÂÅÑ º± ÂÃÓ º²º± ÊÓÒ ÉÎÖÂÙÔÅ ÊÓÒ ÌÅÆÔ ÒÔÓº² ÊÓÒ ÎÏÒÍÂÙÔÅ ÊÓÒ ÌÅÆÔ ÒÔÓÃÏÐÙÕÐ ÌÄÁ £¤ÆÆ ÓÔÁ Èéìéôîç ÌÄØ £¤²°º± ÊÓÒ ÃÏÐÙÌÆÔ ÄÅØ ÂÎÅ º± ÒÔÓÃÏÐÙÄÎ ÌÄÁ £± ÓÔÁ Èéìéôîç ÌÄØ £¤²°º± ÊÓÒ ÃÏÐÙÒÔ ÄÅØ ÂÎÅ º± ÒÔÓÌÉÔÅÃÈÎË ÐÒÉÎÔ ÈÌÔ ÃÔØ ÈÌÐÈéìéôå ÌÄÁ £° ÓÔÁ Èéìéôîç ÊÓÒ ÒÅÓÔÃÌÏÃ ÓÔÄÂ ÐÔÒ»ÐÔÒ²º° ÊÓÒ ÉÎÖÂÙÔÅ ÊÓÒ ÅÄÉÔËÅÙ ÐÈÁ ÊÓÒ ÎÏÒÍÂÙÔÅ ÐÌÁ ÃÍÐ £ÒÔÁÒÏ ÂÎÅ º² ÊÓÒ ÃÏÐÙÒÔ ÂÎÅ º³º² ÃÍÐ £ÌÆÔÁÒÏ ÂÎÅ º³ ÊÓÒ ÃÏÐÙÌÆÔ ÊÍÐ º°º³ ÃÍÐ £ÕÐÁÒÏ ÂÎÅ º³Á ÊÓÒ ÃÏÐÙÕÐ ÂÅÑ º°º³Á ÃÍÐ £ÄÎÁÒÏ ÂÎÅ ºÃÒ ÊÓÒ ÃÏÐÙÄÎ ÂÅÑ º°ºÃÒ ÃÍÐ £¤¸Ä ÂÅÑ ºµ »Ãáòòù éó óåô éæ ÏË ÃÍÐ £¤¹Â »Åóãáðå ÂÎÅ º° ÊÓÒ ÓÁÖÃÕÒÌÏÃ ÇÏÔÏ °»²² ÊÓÒ ÃÌÒÅÏÌ ÊÓÒ ÒÅÓÔÃÌÏÃ ÃÌÃ »Ãáòòù óåô éæ åóãáðåäºµ ÐÈÐ ÌÄÁ £° ÓÔÁ Èéìéôîç ÐÌÐ ÒÔÓÈéìéôîç ÄÓ ± »Úåòï éæ èéìéçèôéîç á ãèõîë
+***************************************************
+*                                                 *
+*                Block Buster 2.x                 *
+*        The Next Generation Block Editor         *
+*                                                 *
+*            Originally written in the            *
+*               1985-1992 timeframe.              *
+*                                                 *
+*                 Code Repository                 *
+*     https://github.com/d5aa962e/BlockBuster2    *
+*                                                 *
+*       BlockBuster2 by github.com/d5aa962e       *
+*    is licensed under CC BY-SA 4.0. To view a    *
+*           copy of this license, visit           *
+*  http://creativecommons.org/licenses/by-sa/4.0/ *
+*                                                 *
+***************************************************
+
+********************************
+*                              *
+*        File: EDITB.S         *
+*                              *
+*           Contents           *
+*           --------           *
+* - Copy / Paste Logic         *
+*                              *
+********************************
+
+*
+* Copy a chunk of bytes
+*
+
+KOPY	CTX	HLPaaC
+	JSR	SAVCURLOC
+:TF	GOTO	0;23
+	JSR	CLREOL
+	PRAT	0;23;KPY
+	POINT	CHPTR;CP
+	LDX	#1
+	JSR	CHOOSE
+	BEQ	:E
+	CMP	#1	;Cut
+	BEQ	:CUT
+	JMP	:PASTE	;Paste
+:E	JMP	:E3
+:CUT	LDA	OPFLAG
+	BEQ	:C1
+	GOTO	0;23	;Opcodes active, don't
+	JSR	CLREOL	;allow a cut
+	JSR	BUZZ	; (can't hilight opcodes)
+	PRINT	NoOpCHil	; yet!
+	CTX	HLPClipHlp
+	JSR	ERROR1
+	JMP	:E3
+:C1	JSR	LITECHNK	;Get chunk to copy
+	BCC	:E	;don't try again, must DOSCRN
+	CTX	HLPCpy2Clip
+	JSR	SAVCURLOC
+	LDA	PTR+1	;Did we try to copy
+	SEC	;> 512 bytes?
+	SBC	PTR2+1
+	CMP	#2
+	BCC	:F	;No
+	CMP	#$FE
+	BCS	:F
+	JSR	BUZZ	;Yes
+	CTX	HLPClipHlp
+	PRAT	0;23;CLIPLIM	;Print limit
+	JSR	WAIT4	;... hit a key
+	JMP	:E3
+:F	STDB	PTR;IBPTR
+	GOTO	6;23
+	JSR	CLREOL
+	POINT	CHPTR;CCP
+	LDX	#1
+	JSR	CHOOSE	;Cut/Kopy
+	BEQ	:E
+	CMP	#1
+	BEQ	:KUT	;Delete block data
+:KPY	POINT	DIRPTR;CLIPBRD
+	PUSH	PTR2	;PUSH PTR originally
+	LDY	#0
+	STY	IBCOUNT
+	STY	IBCOUNT+1
+	JSR	CMPPW
+	BCS	:K1
+:4	LDA	(PTR),Y
+	STA	(DIRPTR),Y	;PTR < PTR2
+	LDA	PTR+1
+	CMP	PTR2+1
+	BNE	:4A
+	LDA	PTR
+	CMP	PTR2
+	BEQ	:9
+:4A	INCW	IBCOUNT
+	INCW	DIRPTR
+:5A	INCW	PTR
+	BNE	:4	;Always
+:K1	LDA	(PTR2),Y	;PTR >= PTR2
+	STA	(DIRPTR),Y
+	LDA	PTR2+1
+	CMP	PTR+1
+	BNE	:6
+	LDA	PTR2
+	CMP	PTR
+	BEQ	:9
+:6	INCW	IBCOUNT
+:7	INCW	PTR2
+:8	INCW	DIRPTR
+	BNE	:K1	;Always
+:9	JMP	:E4
+
+:KUT	POINT	DIRPTR;CLIPBRD
+	PUSH	PTR2	;PUSH PTR2 originally
+	LDY	#0
+	STY	IBCOUNT
+	STY	IBCOUNT+1
+	JSR	CMPPW
+	BCS	:14A
+	STDB	PTR2;IBPTR
+:10A	INCW	IBPTR
+:10	LDA	(PTR),Y
+	STA	(DIRPTR),Y	;PTR < PTR2
+	LDA	(IBPTR),Y
+	STA	(PTR),Y
+	LDA	PTR+1
+	CMP	PTR2+1
+	BNE	:11
+	LDA	PTR
+	CMP	PTR2
+	BNE	:11
+	STDB	PTR;PTR2
+	JMP	:19
+
+:11	INCW	IBCOUNT
+:13	INCW	DIRPTR
+:14	INCW	PTR
+	BNE	:10A	;Always
+
+:14A	STDB	PTR;IBPTR
+:14B	INCW	IBPTR
+:K3	LDA	(PTR2),Y	;PTR >= PTR2
+	STA	(DIRPTR),Y
+	LDA	(IBPTR),Y
+	STA	(PTR2),Y
+	LDA	PTR2+1
+	CMP	PTR+1
+	BNE	:15
+	LDA	PTR2
+	CMP	PTR
+	BEQ	:19C
+:15	INCW	IBCOUNT
+:16	INCW	PTR2
+:18	INCW	DIRPTR
+	BNE	:14B	;Always
+:19	INCW	IBPTR
+:19A	INCW	PTR2
+:19B	LDA	PTR2+1
+	CMP	BUFEND
+	BNE	:19C
+	JSR	SetDirty
+	JMP	:E4
+:19C	LDA	(IBPTR),Y
+	STA	(PTR2),Y
+	JMP	:19
+
+:E4	PULL	WORKAREA	;PULL PTR
+	JSR	CLEAR23
+	JSR	RESTCLOC
+	JSR	MOV2
+	JMP	DOSCRN
+:E3	JSR	CLEAR23
+	JSR	RESTCLOC
+	JMP	DOSCRN
+:E2	JMP	:E1
+
+:PASTE	POINT	CHPTR;RI
+	CTX	HLPCpyFrmClip
+	LDX	#1
+	JSR	CHOOSE
+	BNE	:P1
+	JMP	:TF
+:P1	PHA
+	JSR	CLREOL
+	JSR	RESTCLOC
+	PLA
+	BEQ	:E2
+	CMP	#1	;Replace
+	BEQ	:REP
+	LDA	#$FF	;Insert
+	CLC
+	SBC	IBCOUNT
+	STA	IBPTR
+	LDA	#>BLKBUF+$1FF
+	SBC	IBCOUNT+1
+	STA	IBPTR+1
+	POINT	DIRPTR;BLKBUF+$1FF
+	STDB	IBCOUNT;DIRCOUNT
+	LDY	#0
+:9A	LDA	(IBPTR),Y
+	STA	(DIRPTR),Y
+	LDA	IBPTR
+	CMP	PTR
+	BNE	:9B
+	LDA	IBPTR+1
+	CMP	PTR+1
+	BEQ	:REP
+:9B	LDA	IBPTR
+	SEC
+	SBC	#1
+	STA	IBPTR
+	BCS	:9C
+	DEC	IBPTR+1
+:9C	LDA	DIRPTR
+	SEC
+	SBC	#1
+	STA	DIRPTR
+	BCS	:9A
+	DEC	DIRPTR+1
+	BNE	:9A	;Always
+
+:REP	STDB	IBCOUNT;DIRCOUNT	;Save old count
+	STDB	PTR;IBPTR
+	POINT	DIRPTR;CLIPBRD
+	LDY	#0
+:20	LDA	(DIRPTR),Y
+	STA	(IBPTR),Y
+	INCW	IBPTR
+:21	INCW	DIRPTR
+:22	DEC	DIRCOUNT
+	LDA	DIRCOUNT
+	CMP	#$FF
+	BNE	:20
+	DEC	DIRCOUNT+1
+	LDA	DIRCOUNT+1
+	CMP	#$FF
+	BNE	:20
+:E1	JSR	SAVCURLOC
+	JSR	CLEAR23
+	JSR	RESTCLOC
+	JSR	SetDirty
+	JMP	DOSCRN
+
+*
+* Compare PTR to PTR2
+* Carry set   if PTR2 >= PTR
+*       clear if PTR2 < PTR
+*
+
+CMPPW	LDA	PTR+1
+	CMP	PTR2+1
+	BCC	:1
+	BNE	:1
+	LDA	PTR
+	CMP	PTR2
+:1	RTS
+
+COPYRT	JSR	CMPPW
+	BCC	:1
+	JSR	INVBYTE
+	JSR	RIGHT
+	RTS
+:1	JSR	NORMBYTE
+	JSR	RIGHT
+	RTS
+
+COPYLFT	JSR	CMPPW
+	BEQ	:1
+	BCS	:2
+:1	JSR	INVBYTE
+	JSR	LEFT
+	RTS
+:2	JSR	NORMBYTE
+	JSR	LEFT
+	RTS
+
+COPYUP	LDA	#$FF
+	STA	Hilitng
+	LDX	#$20
+:1	JSR	COPYLFT
+	DEX
+	BNE	:1
+	RTS
+
+COPYDN	LDA	#1
+	STA	Hilitng
+	LDX	#$20
+:1	JSR	COPYRT
+	DEX
+	BNE	:1
+	RTS
+
+LITECHNK	PRINT	HLT
+	CTX	HLPHilite
+	LDA	#0
+	STA	Hilitng
+	JSR	RESTCLOC
+	STDB	PTR;PTR2
+:0	JSR	INVBYTE
+	JSR	EDITKEY
+	PHA
+	JSR	NORMBYTE
+	PLA
+	CMP	#RTARO
+	BNE	:2
+	JSR	COPYRT
+	BNE	:3
+:2	CMP	#LFTARO
+	BNE	:3
+	JSR	COPYLFT
+	JMP	:0
+:3	CMP	#UPARO
+	BNE	:3A
+	JSR	COPYUP
+	BEQ	:0
+:3A	CMP	#DNARO
+	BNE	:CR
+	JSR	COPYDN
+	BEQ	:0
+:CR	CMP	#$8D
+	BEQ	:5	;Carry is set if OK
+	CMP	#$9B	;Escape
+	BNE	:0
+	JSR	SAVCURLOC
+	GOTO	0;22
+	JSR	CLREOL
+	JSR	RESTCLOC
+	CLC	;Carry set if escaped
+:5	PHP
+	LDA	#0
+	STA	Hilitng
+	PLP
+	RTS
+
+Hilitng	DS	1	;Zero if hilighting a chunk

@@ -1,1 +1,1343 @@
-ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªª                                                 ªª                Âìïãë Âõóôåò ²®ø                 ªª        Ôèå Îåøô Çåîåòáôéïî Âìïãë Åäéôïò         ªª                                                 ªª            Ïòéçéîáììù ÷òéôôåî éî ôèå            ªª               ±¹¸µ­±¹¹² ôéíåæòáíå®              ªª                                                 ªª                 Ãïäå Òåðïóéôïòù                 ªª    èôôðóº¯¯çéôèõâ®ãïí¯äµáá¹¶²å¯ÂìïãëÂõóôåò²     ªª                                                 ªª       ÂìïãëÂõóôåò² âù çéôèõâ®ãïí¯äµáá¹¶²å       ªª    éó ìéãåîóåä õîäåò ÃÃ ÂÙ­ÓÁ ´®°® Ôï öéå÷ á    ªª           ãïðù ïæ ôèéó ìéãåîóå¬ öéóéô           ªª  èôôðº¯¯ãòåáôéöåãïííïîó®ïòç¯ìéãåîóåó¯âù­óá¯´®°¯ ªª                                                 ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªª                              ªª       Æéìåº ÃÏÍÍÏÎ®²®Ó       ªª                              ªª           Ãïîôåîôó           ªª           ­­­­­­­­           ªª                              ªª ­ Íïòå Ðòïçòáí ôåøô          ªª ­ ×éîäï÷éîç Ìïçéã            ªª ­ Ãïîôåøô Óåîóéôéöå          ªª   Èåìð Ìïçéã                 ªª ­ ×ïòä ×òáððéîç ìïçéã        ªª ­ Á×Ð Èåìðåò Ìïçéã           ªª                              ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªª Æéìå îáíå ðáòóéîç òïõôéîå®  Ïî åîôòù¬ ÔÅÍÐÐÔÒ ðïéîôóª ôï ôèå æéìå îáíå®  Ïî åøéô¬ ã½± éæ éîöáìéä ðáôèîáíå óùîôáøª ã½° éæ öáìéä®  Áìóï¬ ôèå Á­òåçéóôåò éó áó æïììï÷óª Èé îéââìå ­ õîéô îõíâåò ïæ ôèå ðáòóåä æéìåîáíå áîäª Ìï îéââìå ¨âéôó °­±©ºª      ± ½ ÄÏÓ æéìåîáíåª      ² ½ ÐÁÓÃÁÌ æéìåîáíåª      ³ ½ ÃÐ¯Í æéìåîáíåª ÆÎÏæóåô ½ òåìáôéöå ïææóåô éîôï ôèå æéìåîáíå ÷èåòåª           ôèå áãôõáì æéìå îáíå óôáòôó ¨é®å® áæôåòª           áîù öïìõíå óðåãéæéåòóªÆÎÐáòóå ÊÓÒ ÉóÄÏÓ »Éó éô á ÄÏÓ Îáíå¿ ÂÃÃ º·ºµ ÊÓÒ ÉóÐÁÓÃÁÌ ÂÃÃ º·º¶ ÊÓÒ ÉóÃÐÍº· ÓÔÙ ÆÎÏæóåô ÒÔÓÉóÄÏÓ ÌÄÙ £± ÌÄÁ ¨ÔÅÍÐÐÔÒ©¬Ù ÁÎÄ £¤·Æ ÃÍÐ £§®§ »±óô ãèáò ® ½ ÄÏÓ æéìåîáíå ÂÎÅ ºÎïôÄÏÓ »Îïô ÄÏÓ ³®³ îáíå ÉÎÙ »Ù½±¬ çåô óìïô ÌÄÁ ¨ÔÅÍÐÐÔÒ©¬Ù ÁÎÄ £¤·Æ ÅÏÒ £¤³° ÂÅÑ ºÎïÓÄ »Îï Óìïô¯Äòéöå çéöåî ¨ïò îïô öáìéä© ÃÍÐ £¤¸ »Óìïô £ ±­· öáìéä ïîìù ÂÃÓ ºÎïÓÄ ÁÓÌ ÁÓÌ ÁÓÌ ÁÓÌ ÓÔÁ ×ïòëÕîéô ÌÄØ £° ÉÎÙ »Ù½²¬ çåô äòéöå ÌÄÁ ¨ÔÅÍÐÐÔÒ©¬Ù ÁÎÄ £¤·Æ ÃÍÐ £§±§ ÂÅÑ º² ÌÄØ £¤¸° ÃÍÐ £§²§ ÂÎÅ ºÎïÓÄº² ÔØÁ ÏÒÁ ×ïòëÕîéô ÓÔÁ ×ïòëÕîéô ÉÎÙ »Ù½³¬ çåô ôòáéìéîç ðåòéïä ÌÄÁ ¨ÔÅÍÐÐÔÒ©¬Ù ÁÎÄ £¤·Æ ÃÍÐ £§®§ »Óìïô¯Äòéöå íõóô âå ôåòíéîáôåä ÂÎÅ ºÎïÓÄ »÷éôè á ðåòéïä ÉÎÙº´ ÃÌÃ ÌÄÁ ×ïòëÕîéô ÏÒÁ £± ÒÔÓºÎïÓÄ ÌÄÁ ÄÏÓÌáóô ÌÄÙ £² ÂÎÅ º´ »Áì÷áùóºÎïôÄÏÓ ÓÅÃ ÒÔÓÉóÐÁÓÃÁÌ ÌÄÙ £° ÌÄÁ ¨ÔÅÍÐÐÔÒ©¬Ù ÓÔÁ ºÐÁÓôåíðº± ÉÎÙ ÌÄÁ ¨ÔÅÍÐÐÔÒ©¬Ù ÁÎÄ £¤·Æ ÃÍÐ £§º§ ÂÅÑ º² ÃÐÙ ºÐÁÓôåíð ÂÎÅ º± ÂÅÑ ºÎïôÐÁÓº² ÉÎÙ ÓÔÁ ÐÁÓÌáóô ÏÒÁ £² »Éîäéãáôå ÐÁÓÃÁÌ äåöéãå ÃÌÃ ÒÔÓºÎïôÐÁÓ ÓÅÃ ÒÔÓºÐÁÓôåíð ÄÓ ±ÉóÃÐÍ ÌÄÙ £± ÌÄÁ ¨ÔÅÍÐÐÔÒ©¬Ù ÁÎÄ £¤·Æ ÃÍÐ £§¾§ »Õóå ìáóô áããåóóåä äòéöå ÂÅÑ º³ ÓÅÃ ÓÂÃ £§Á§ »Íáø öáìéä äòéöåó¬ Á­Ê ÃÍÐ ÄÅÖÃÎÔ ÂÃÃ º´ ÂÅÑ º´ºÎïôÃÐÍ ÓÅÃ ÒÔÓº´ ÔÁØ ÉÎÙ ÌÄÁ ¨ÔÅÍÐÐÔÒ©¬Ù ÁÎÄ £¤·Æ ÃÍÐ £§¾§ ÂÎÅ ºÎïôÃÐÍ ÌÄÁ ÄÅÖÃÎÔ«±¬Øº² ÉÎÙ ÓÔÁ ÃÐÍÌáóô ÏÒÁ £³ »Éîäéãáôå ÃÐ¯Í äåöéãå ÃÌÃ ÒÔÓº³ ÌÄÁ ÃÐÍÌáóô ÂÎÅ º² »Áì÷áùóÄÏÓÌáóô ÄÓ ±ÐÁÓÌáóô ÄÓ ±ÃÐÍÌáóô ÄÓ ±×ïòëÕîéô ÄÓ ±ÆÎÏæóåô ÄÓ ± »Ïææóåô æòïí ðáôèîáíå ïæ æéìåîáíåÑÕÉÔÂÂ ÐÒÉÎÔ ÂÂÑõéô ÊÍÐ ÄÏÑÕÉÔ²ÄÏÑÕÉÔ ÐÒÉÎÔ ÁÙÓÄÏÑÕÉÔ² ÊÓÒ ÙÅÓÎÏÓÅÔ ÂÅÑ º± ÃÍÐ £² ÂÅÑ º² »Ùåó¬ Ñõéôº± ÒÔÓº² ÐÌÁ ÐÌÁ ÇÏÔÏ °»²³ ÊÓÒ ÃÌÒÅÏÌ ÓÔÁ ¤Ã°¸± ÍÌÉ ÑÕÉÔ»ÐÑÕÉÔ ÂÒË »ÂÒË éæ åòòïòÅÒÒÏÒ ÐÈÁ ÊÓÒ ÂÕÚÚ ÐÌÁ ÊÓÒ ÂÕÚÌÅÓÓ ÌÄÁ £¤Á° ÊÓÒ ÃÏÕÔ ÌÄÁ £¢¨¢ ÊÓÒ ÃÏÕÔ ÌÄÁ £¢¤¢ ÊÓÒ ÃÏÕÔ ÌÄÁ ¤ÂÆ¹Ã »Ìáóô ÍÌÉ ãáìì òåôõòî áääòåóó ÓÅÃ ÓÂÃ £¶ »Íáëå éô ôèå áääòåóó ïæ ôèå ãáìì ÐÈÁ ÌÄÁ ¤ÂÆ¹Ä ÓÂÃ £° ÊÓÒ ÐÒÂÙÔ ÐÌÁ ÊÓÒ ÐÒÂÙÔ ÌÄÁ £¢©¢ ÊÓÒ ÃÏÕÔ ÒÔÓÂÕÚÌÅÓÓ ÌÄØ ÎÕÍÏÆÅÒÓº± ÃÍÐ ÅÒÃÏÄÅÓ¬Ø ÂÅÑ º³ ÄÅØ ÂÐÌ º± ÐÈÁ ÐÒÉÎÔ ÍÌÉÅÒ ÐÌÁ ÊÓÒ ÐÒÂÙÔ ÃÔØ ÈÌÐÍÌÉÅòòº² ÒÔÓº³ ÌÄÁ ÅÒÒÈÌÐ¬Ø ÓÔÁ ÍÙÃÔØ ÌÄÁ ÅÒÏÆÓÔ¬Ø ÃÌÃ ÁÄÃ £¼ÅÒÒÔØÔ ÓÔÁ ÐÐÁÒÍÓ ÌÄÁ £¾ÅÒÒÔØÔ ÁÄÃ £° ÓÔÁ ÐÐÁÒÍÓ«± ÊÓÒ ÐÒÔØÔ² ÒÔÓ×ÁÉÔ´ÅÒÒÏÒ± ÐÒÉÎÔ ÅÒÒÈÉÔ ÊÓÒ ÍÙËÅÙÉÎ ÒÔÓªª Æìáçó áîä ïôèåò äáôáªÓÔÁÃËÔÏÐ ÄÓ ± »Óáöå áòåá æïò óôáãë ðïéîôåòÅÏÆÌÁÇ ÄÓ ± »Åîä ïæ Æéìå¯Æïòíáô ÆìáçËÅÙÓÁÖ ÄÓ ±ÌÁÓÔÒÄÌÅÎ ÄÓ ±ÓÒÃÅÕÎÉÔ ÄÓ ± »Óïõòãå óìïô¯äéòöå æïò öïìõíå ãïðùÄÅÓÔÕÎÉÔ ÄÓ ± »Äåóôéîáôéïî óìïô¯äéòöå æïò öïìõíå ãïðùÔÒÁÃË ÄÓ ± »Èïìäó ÄÏÓ ³®³ ôòáãë £ÓÅÃÔÏÒ ÄÓ ± »Èïìäó ÄÏÓ ³®³ óåãôïò £ÉÄÂÙÔÅ ÄÓ ±ÂÉÇÂÌÏÃË ÄÓ ² »² âùôåóÃÐÍÃÎÔ ÄÓ ± »£ ïæ óåãôïòó éî ÃÐ¯Í âéç âìïãëÉÂÃÏÕÎÔ ÄÓ ² »Îõíâåò ïæ éîäåø âìïãëó æïõîäÄÉÒÃÏÕÎÔ ÄÓ ² »Îõíâåò ïæ äéòåãôïòéåó æïõîä×ÌÅÆÔ ÄÓ ± »×éîäï÷ äáôá×ÉÄÔÈ ÄÓ ±×ÔÏÐ ÄÓ ±×ÌÉÎÅÓ ÄÓ ±ÁãôéöåÔõô ÄÓ ± »°½Ôõôïò áãôéöåÒÂõæÓáöå ÄÓ ² »Óáöå áòåá æïò Òåáä Âõææåò ðïéîôåòÍÌÉÅÒ ÁÓÃ ¢ÍÌÉ Å¢±¶ ÁÓÚ ¢ ¤¢ÅÒÒÈÉÔ ÁÓÚ ¢¬ èéô á ëåù ¢ÅÒÃÏÄÅÓ ÈÅØ ²·¬²¸¬²Â¬´° ÈÅØ ´Å¬µ²¬´´¬´¶ ÈÅØ ´µ¬´·¬´¸¬´¹ ÈÅØ ´Á¬´Ã¬´Ä¬µ± ÈÅØ µÁ¬µ°ÎÕÍÏÆÅÒÓ ÄÆÂ ª­ÅÒÃÏÄÅÓ­±ÅÒÏÆÓÔ ÄÆÂ ÉÏÅÒÒ­ÅÒÒÔØÔ¬ÎÄÃ­ÅÒÒÔØÔ¬×Ð­ÅÒÒÔØÔ¬ÉÎÖÐÎ­ÅÒÒÔØÔ ÄÆÂ ÁÃÓÅÒ­ÅÒÒÔØÔ¬ÎÐÖ­ÅÒÒÔØÔ¬ÄÉÒÎÆ­ÅÒÒÔØÔ¬ÆÎÆ­ÅÒÒÔØÔ ÄÆÂ ÖÎÍ­ÅÒÒÔØÔ¬ÆÁÅ­ÅÒÒÔØÔ¬ÄÆÌ­ÅÒÒÔØÔ¬ÖÄÆÌ­ÅÒÒÔØÔ ÄÆÂ ÉÆÖ­ÅÒÒÔØÔ¬ÅÏÄ­ÅÒÒÔØÔ¬ÐÓÔÅÏÆ­ÅÒÒÔØÔ¬ÂÆÃ­ÅÒÒÔØÔ ÄÆÂ ÂÂÍ­ÅÒÒÔØÔ¬ÆÁÏ­ÅÒÒÔØÔÅÒÒÈÌÐ ÄÆÂ ÈÌÐÐòïÅòò±¬ÈÌÐÐòïÅòò±¬ÈÌÐÐòïÅòò±¬ÈÌÐÐòïÅòò³ ÄÆÂ ÈÌÐÐòïÅòò±¬ÈÌÐÐòïÅòò²¬ÈÌÐÍÌÉÅòò¬ÈÌÐÐòïÅòò³ ÄÆÂ ÈÌÐÐòïÅòò³¬ÈÌÐÐòïÅòò´¬ÈÌÐÐòïÅòòµ¬ÈÌÐÐòïÅòòµ ÄÆÂ ÈÌÐÐòïÅòò´¬ÈÌÐÐòïÅòòµ¬ÈÌÐÐòïÅòòµ¬ÈÌÐÐòïÅòò² ÄÆÂ ÈÌÐÐòïÅòò²¬ÈÌÐÐòïÅòò´ÅÒÒÔØÔÉÏÅÒÒ ÁÓÃ ¢É¯Ï Å¢±¶°°ÎÄÃ ÁÓÚ ¢Îï äåöéãå ãïîîåãôåä¢×Ð ÁÓÚ ¢×òéôå ðòïôåãôåä¢ÉÎÖÐÎ ÁÓÚ ¢Éîöáìéä ðáôèîáíå óùîôáø¢ÁÃÓÅÒ ÁÓÃ ¢Áããåóó å¢±¶°°ÎÐÖ ÁÓÚ ¢Îïô á ÐòïÄÏÓ äéóë¢ÄÉÒÎÆ ÁÓÃ ¢Ä¢¬°±°²°¶°° »Äéòåãôïòù îïô æïõîäÆÎÆ ÁÓÃ ¢Æ¢°³°²°¶°° »Æéìå îïô æïõîäÖÎÍ ÈÅØ °¸°² »Öïìõíå îïô íïõîôåä ÁÓÚ ¢íïõîôåä¢ÆÁÅ ÁÓÃ ¢Æ¢°³ »Æéìå áìòåáäù åøéóôó ÁÓÚ ¢áìòåáäù åøéóôó  ¢ÄÆÌ ÁÓÚ ¢Äéóë Æõìì¢ÖÄÆÌ ÈÅØ °¸ ÁÓÃ ¢Ä¢°± »Öïìõíå Äéòåãôïòù Æõìì ÁÓÚ ¢Æõìì¢ÉÆÖ ÁÓÃ ¢Éîãïíðáôáâìå æ¢°³ ÁÓÃ ¢ö¢°¹°°ÅÏÄ ÁÓÚ ¢Åîä ïæ Äáôá¢ÐÓÔÅÏÆ ÁÓÃ ¢Ð¢°á ÁÓÚ ¢ ðáóô ÅÏÆ¢ÂÆÃ ÁÓÃ ¢Âáä æ¢°³ ÁÓÚ ¢ ãïõîô¢ÂÂÍ ÁÓÚ ¢Âáä Âéôíáð¢ÆÁÏ ÁÓÃ ¢Ãáî§ô ãïðù æ¢°³ ÁÓÚ ¢ôï éôóåìæ¢ÐÒ×ÂÌË ÈÅØ °³ÕÎÉÔÎÕÍ ÈÅØ ¶°Ò×ÂÕÆ Ä× ÄÉÒÂÕÆÂÌÏÃË ÄÓ ²ÐÐÆØ ÈÅØ °±ÐÆØÐÎ ÄÁ ÐÆØÁÄÒÐÄÅÓÔÒÏÙ ÈÅØ °±ÄÅÓÐÎ ÄÁ ÐÎÁÍÅÐÒÅÎÁÍÅ ÈÅØ °²ÒÅÎÐÎ ÄÁ ÐÎÁÍÅÒÅÎÐÎ² ÄÁ ÐÎÁÍÅ²ÐÏÎÌÉÎÅ ÈÅØ °²ÏÌÕÎÉÔ ÈÅØ °°ÏÌÂÕÆ ÄÁ ÏÌÌÉÓÔÐÃÒÅÁÔÅ ÈÅØ °·ÃÒÅÐÎ ÄÁ ÐÎÁÍÅÃÒÁÃÓ ÄÓ ±ÃÒÅÔÙÐ ÄÓ ±ÃÒÅÁÕØ ÄÓ ²ÃÒÅÓÔÏÒ ÄÓ ±ÃÒÅÄÁÔ ÄÓ ²ÃÒÅÔÉÍ ÄÓ ²ÐÏÐÅÎ ÈÅØ °³ÏÐÅÎÐÎ ÄÁ ÐÎÁÍÅÏÐÅÎÂÕÆ ÄÁ ÐÒÉÂÕÆÏÐÅÎÒÅÆ ÄÓ ±ÐÃÌÏÓÅ ÈÅØ °±ÃÌÏÓÅÒÅÆ ÄÓ ±ÐÒÅÁÄ ÈÅØ °´ÒÅÁÄÒÅÆ ÄÓ ±ÒÅÁÄÂÕÆ ÄÁ ÄÉÒÂÕÆÒÅÁÄÌÅÎ Ä× ¤°°°°ÒÅÁÄÁÃÔ Ä× ¤°°°°Ð×ÒÉÔÅ ÈÅØ °´×ÒÉÔÅÒÅÆ ÄÓ ±×ÒÉÔÅÂÕÆ ÄÁ ÄÉÒÂÕÆ×ÒÉÔÅÌÅÎ Ä× ¤°°°°×ÒÉÔÅÁÃÔ ÄÓ ²ÐÆÉÌÉÎÆÏ ÈÅØ °·ÆÉÐÎ ÄÁ ÐÎÁÍÅÆÉÁÃÃ ÄÓ ±ÆÉÔÙÐ ÄÓ ±ÆÉÁÕØ ÄÓ ²ÆÉÓÔÏÒ ÄÓ ±ÆÉÂÌËÓ ÄÓ ²ÆÉÄÁÔÍ ÄÓ ²ÆÉÔÉÍÍ ÄÓ ²ÆÉÃÒÄÁÔ ÄÓ ²ÆÉÃÒÔÉÍ ÄÓ ²ÐÇÓÅÏÆ ÈÅØ °²ÅÏÆÒÅÆ ÄÓ ±ÆÉÅÏÆ ÄÓ ³ÐÇÓÍÁÒË ÈÅØ °²ÍÁÒËÒÅÆ ÄÓ ±ÆÉÍÁÒË ÄÓ ³ÐÑÕÉÔ ÈÅØ °´ ÄÓ ± ÄÓ ² ÄÓ ± ÄÓ ²ÍÏÎÔÈÓ ÁÓÃ ¢¿¿¿ÊÁÎÆÅÂÍÁÒÁÐÒÍÁÙ¢ ÁÓÚ ¢ÊÕÎÊÕÌÁÕÇÓÅÐÏÃÔÎÏÖÄÅÃ¢ÎÏÎÐÄÄÓË ÁÓÚ ¢ÎÏÎ­ÐòïÄÏÓ ÄÉÓË¢ÄÉÓÔ ÁÓÚ ¢Äéóôòïù ¢ÄÁÔ ÄÆÂ ±¸ ÁÓÚ ¢º ¢ÂÆ ÁÓÃ ¢Â¢°· »Âìïãëó Æòåå ÁÓÚ ¢ó Æòååº ¢ÔÏÔÂÌËÓ ÁÓÃ ¢     Ôïôáì Â¢°· »Ôïôáì Âìïãëóº ¢ ÁÓÚ ¢óº ¢ÎÏÄÁÔÅ ÁÓÚ ¢ûÎï Äáôåý¢ÎÏÎÅ ÁÓÚ ¢îïîå¢ÐÒÔÒÔØÔ ÁÓÚ ¢Ðòéîôåòº ¢ ÄÏ ÁÓÍÅÄÉÔ ÅÌÓÅÂÉÕ ÁÓÃ ¢Â¢°· »Âìïãëó Õóåä ÁÓÚ ¢ó Õóåä¢ ÆÉÎÂÂÑõéô ÁÓÚ ¢Ñõéô Âìïãë Âõóôåò¿ ¢ÁÙÓ ÁÓÚ ¢Áòå ùïõ óõòå¿ ¢ÓÌÏÔ ÁÓÃ ¢Óìïôº ¨ ©¢¸¸¸¸°°ÁÎÄÍÁÓË ÈÅØ ·Æ¬ÂÆ¬ÄÆ¬ÅÆ¬Æ·¬ÆÂ¬ÆÄ¬ÆÅÏÒÍÁÓË ÈÅØ ¸°¬´°¬²°¬±°¬°¸¬°´¬°²¬°±ÄÓËÆÉÌ ÈÅØ °² ÁÓÚ ¢Äéóëó¢ ÁÓÚ ¢Æéìåó¢ÙÎ ÈÅØ °² ÁÓÚ ¢Îï¢ ÁÓÚ ¢Ùåó¢ ÁÓÚ ¢Òõî Óåôõð¢ÐÁËÌÏÃ ÄÆÂ Ð±­ÐÁËÔØÔ¬Ð²­ÐÁËÔØÔ¬Ð³­ÐÁËÔØÔ¬Ð´­ÐÁËÔØÔ ÄÆÂ Ðµ­ÐÁËÔØÔ¬Ð¶­ÐÁËÔØÔ¬Ð·­ÐÁËÔØÔ¬Ð¸­ÐÁËÔØÔ ÄÆÂ Ð¹­ÐÁËÔØÔ¬Ð±°­ÐÁËÔØÔ¬Ð±±­ÐÁËÔØÔ¬Ð±²­ÐÁËÔØÔ ÄÆÂ Ð±³­ÐÁËÔØÔ¬Ð±´­ÐÁËÔØÔ¬Ð±µ­ÐÁËÔØÔ¬Ð±¶­ÐÁËÔØÔ ÄÆÂ Ð±·­ÐÁËÔØÔ¬Ð±¸­ÐÁËÔØÔ¬Ð±¹­ÐÁËÔØÔ¬Ð²°­ÐÁËÔØÔ ÄÆÂ Ð²±­ÐÁËÔØÔ¬Ð²²­ÐÁËÔØÔ¬Ð²³­ÐÁËÔØÔÐÁËÔØÔÐ± ÁÓÚ ¢éòåãôïòù ¢Ð² ÁÓÚ ¢îïô ¢Ð³ ÁÓÚ ¢éìå ¢Ð´ ÁÓÚ ¢Ðáòåîô ¢Ðµ ÁÓÚ ¢îôòù ¢Ð¶ ÁÓÚ ¢æïõîä¢Ð· ÁÓÚ ¢ìïãë¢Ð¸ ÁÓÚ ¢Öïìõíå ¢Ð¹ ÁÓÚ ¢åòóéïî¢Ð±° ÁÓÚ ¢ïóéôéïî¢Ð±± ÁÓÚ ¢Åíðôù¢Ð±² ÁÓÚ ¢äåìåôåä¢Ð±³ ÁÓÚ ¢Ôùðå¢Ð±´ ÁÓÚ ¢Îáíå¢Ð±µ ÁÓÚ ¢åãôïò¢Ð±¶ ÁÓÚ ¢òáãë¢Ð±· ÁÓÚ ¢Õîõóåä¢Ð±¸ ÁÓÚ ¢Äáôå¢Ð±¹ ÁÓÚ ¢Íéîéíõí ¢Ð²° ÁÓÚ ¢Áääòåóó¢Ð²± ÁÓÚ ¢Óùóôåí ¢Ð²² ÁÓÚ ¢òòïò¢Ð²³ ÁÓÚ ¢Äåöéãå ¢ÆÔÙÐÅÓ ÈÅØ °°¬°±¬°²¬°³¬°´¬°µ¬°¶¬°Æ¬±¹¬±Á¬±Â¬²±¬Å°¬ÅÆ ÈÅØ Æ°¬Æ±¬Æ²¬Æ³¬Æ´¬Æµ¬Æ¶¬Æ·¬Æ¸¬ÆÁ¬ÆÂ¬ÆÃ¬ÆÄ¬ÆÅ ÈÅØ ÆÆÔÙÐÅÓ ÁÓÃ ¢ÎÏÔÂÁÄÐÃÄÐÔØÔØÔÐÄÁÂÉÎÄÉÒÁÄÂÁ×ÐÁÓÐÉÐ ÌÂÒÐÁÓ¢ ÁÓÃ ¢ÃÍÄÕÒ±ÕÒ²ÕÒ³ÕÒ´ÕÒµÕÒ¶ÕÒ·ÕÒ¸ÉÎÔÉÖÒÂÁÓÖÁÒÒÅÌ¢ ÁÓÃ ¢ÓÙÓ¢ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªª                              ªª          ×éîäï÷éîç           ªª  áîä Ãïîôåøô Óåîóéôéöå Èåìð  ªª           Òïõôéîåó           ªª                              ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªÃÔØÈÅÌÐ ÓÔÁ ºÃôøÁÓáö ÓÔØ ºÃôøØÓáö ÓÔÙ ºÃôøÙÓáö ÌÄÁ £¤ÆÆ ÓÔÁ ×ÉÎÎÕÍ ÓÔÄÂ ÒÅÁÄÂÕÆ»ÒÂõæÓáöå ÓÔÁ ÁãôéöåÔõô »Óáù ôõôïòéáì îïô áãôéöå ÐÏÉÎÔ ×éîÂõæ»×ÓÁÖÂÕÆ ÌÄÁ ÏÕÒÃÈ ÓÔÁ ºÃÔØÃÈ ÌÄÁ ÏÕÒÃÖ ÓÔÁ ºÃÔØÃÖ ÓÔÄÂ ÂÁÓÌ»ºÃÔØÂÁÓÌ ÊÓÒ ÓÁÖÅ×ÉÎ ÊÓÒ ÓÅÔÔØÔ ÌÄÁ ÍÙÃÔØ ÊÓÒ ÃÔØÈÌÐ ÂÃÃ º° ×ÉÎ °»²µ»¹»³²»µ »Ãáî§ô æéîä èåìð æéìåó ÊÓÒ ÓÅÔÎÏÒÍ »Óï ôåìì õóåò ÐÏÉÎÔ ×ÐÔÒ»ÈåìðÌåóó ÊÓÒ ÔØÔÏÕÔ ÊÓÒ Ë×ÁÉÔ ÊÍÐ º±º° ÊÓÒ Ë×ÁÉÔ ÔÁÙ ÌÄÁ ÏÁÐÐÌÅ ÏÒÁ ÃÁÐÐÌÅ ÂÍÉ º³Áº°Á ÌÄØ ÍÙÃÔØ ÓÔØ ÆÉÒÓÔÆÌÇ ÃÐØ £ÈÌÐÆãîËåùó ÂÎÅ º°Â ÊÍÐ º´º°Â ÃÐØ £ÈÌÐÔéôìå ÂÅÑ º±²º± ÊÓÒ ËéììÁììºÅÒÒ ÊÓÒ ÒÅÓÔ×ÉÎ ÌÄÁ £¤ÆÆ ÓÔÁ ÁãôéöåÔõô ÌÄÁ ºÃÔØÃÈ ÊÓÒ ÓÅÔÃÈ ÌÄÁ ºÃÔØÃÖ ÊÓÒ ÓÅÔÃÖ ÓÔÄÂ ºÃÔØÂÁÓÌ»ÂÁÓÌ ÓÔÄÂ ÒÂõæÓáöå»ÒÅÁÄÂÕÆ ÌÄÁ ºÃôøÁÓáö ÌÄØ ºÃôøØÓáö ÌÄÙ ºÃôøÙÓáö ÒÔÓº±² ÃÐÙ £¢¿¢ ÂÅÑ º±³ ÃÐÙ £¢¯¢ ÂÅÑ º±³ ÊÍÐ º±º±³ ÌÄÁ £ÈÌÐÁâïõô ÓÔÁ ÒÅÁÌÃÔØ ÊÓÒ ÃÔØÈÌÐ² ÊÍÐ º°º³Á ÃÐÙ £ÄÎÁÒÏ »Ãèåãë æïò ÁÁ­Õð¯Äï÷î ÂÎÅ º³Â »Éæ óï¬ îåøô¯ðòåö ôïðéã ÊÓÒ ËéììÁììº³Á² ÌÄÁ ÈÌÐÓôáôó ÃÍÐ ÒÅÁÌÃÔØ ÂÅÑ º³á± ÉÎÃ ÒÅÁÌÃÔØ ÂÎÅ º³±Á »Áì÷áùóº³á± ÌÄÁ £± ÓÔÁ ÒÅÁÌÃÔØº³±Á ÊÓÒ ÃÔØÈÌÐ² ÊÍÐ º°º³Â ÃÐÙ £ÕÐÁÒÏ ÂÎÅ º³Ã ÊÓÒ ËéììÁììº³Â² ÄÅÃ ÒÅÁÌÃÔØ ÂÎÅ º³±Á ÌÄÁ ÈÌÐÓôáôóº³Â³ ÓÔÁ ÒÅÁÌÃÔØ ÂÎÅ º³±Á »Áì÷áùóº³Ã ÃÐÙ £¢¯¢ ÂÅÑ º³Ä ÃÐÙ £¢¿¢ ÂÎÅ º³Ã² ÌÄÁ £ÈÌÐÔéôìå ÂÎÅ º³Â³º³Ã² ÊÓÒ ËéììÁìì ÌÄÁ £ÈÌÐÆãîËåùó ÂÎÅ º³Â³ »Áì÷áùóº³Ã± ÊÍÐ º±º³Ä ÊÓÒ ËéììÁìì ÌÄÁ ÁãôéöåÔõô ÂÎÅ º³Ä± ÊÍÐ º°º³Ä± ÌÄÁ £° ÓÔÁ ÁãôéöåÔõô »Óáù ôõôïòéáì éó áãôéöå ÌÄÁ £ÈÌÐÔõôïò ÂÎÅ º³Â³º´ ÔÙÁ ÃÍÐ £¤Å° ÂÃÃ º´Á ÁÎÄ £¤ÄÆ »Ãïîöåòô ôï Õððåòãáóåº´Á ÓÔÁ ºÔÍÐ ÌÄØ £°ºµ ÌÄÁ ºÆÃÔÎÓ¬Ø ÂÅÑ º¶ »Áìì äïîå ÃÍÐ ºÔÍÐ ÂÅÑ º±° ÉÎØ ÂÎÅ ºµ »Áì÷áùóº¶ ÊÍÐ º± »Õîëîï÷î ëåùó äï îïôèéîç æïò îï÷º±° ÌÄÁ ºÆÃÔØ¬Ø ÐÈÁ ÊÓÒ ËéììÁìì ÐÌÁ ÊÓÒ ÃÔØÈÌÐ ÊÍÐ º°ºÃÔØÂÁÓÌ ÄÓ ²ºÃÔØÃÖ ÄÓ ±ºÃÔØÃÈ ÄÓ ±ºÔÍÐ ÄÓ ±ºÃôøÁÓáö ÄÓ ±ºÃôøØÓáö ÄÓ ±ºÃôøÙÓáö ÄÓ ±ºÆÃÔÎÓ ÁÓÃ ¢ÁÂÃÄÅ¢ ÁÓÃ ¢ÆÇÈÉÊ¢ ÁÓÃ ¢ËÌÍÎÏ¢ ÁÓÃ ¢ÐÑÒÓÔ¢ ÁÓÃ ¢ÕÖ×ØÙ¢ ÁÓÃ ¢Ú¬® ¢ ÁÓÃ ¢¿¯¬¢ ÄÆÂ ÕÐÁÒÏ¬ÄÎÁÒÏ¬ÌÆÔÁÒÏ ÄÆÂ ÒÔÁÒÏ¬ÔÁÂ¬°ºÆÃÔØ ÄÆÂ ÈÌÐááÁ¬ÈÌÐááÂ¬ÈÌÐááÃ¬ÈÌÐááÄ¬ÈÌÐááÅ ÄÆÂ ÈÌÐááÆ¬ÈÌÐááÇ¬ÈÌÐááÈ¬ÈÌÐááÉ¬ÈÌÐááÊ ÄÆÂ ÈÌÐááË¬ÈÌÐááÌ¬ÈÌÐááÍ¬ÈÌÐááÎ¬ÈÌÐááÏ ÄÆÂ ÈÌÐááÐ¬ÈÌÐááÑ¬ÈÌÐááÒ¬ÈÌÐááÓ¬ÈÌÐááÔ ÄÆÂ ÈÌÐááÕ¬ÈÌÐááÖ¬ÈÌÐáá×¬ÈÌÐááØ¬ÈÌÐááÙ ÄÆÂ ÈÌÐááÚ¬ÈÌÐÉîãÄåã¬ÈÌÐÉîãÄåã¬ÈÌÐÅäéôËåùó ÄÆÂ ÈÌÐÁâïõô¬ÈÌÐÁâïõô¬ÈÌÐÃõòóïò¬ÈÌÐÃõòóïò ÄÆÂ ÈÌÐÃõòóïò¬ÈÌÐÃõòóïò¬ÈÌÐÃõòóïò ÄÆÂ ÈÌÐÃõòóïò¬ÈÌÐÃõòóïòË×ÁÉÔ ÓÔÁ ÓÔÒÂº± ÌÄÁ ËÂÄ ÂÐÌ º± ÓÔÁ ÓÔÒÂ ÃÍÐ £¤¸± ÂÎÅ º² ÊÍÐ ¤ÆÆ¶¹º² ÃÍÐ £¢È¢ ÂÎÅ º³ ÃÍÐ £¢è¢ ÂÎÅ º³ ÊÓÒ ÄÕÍÐ ÊÍÐ Ë×ÁÉÔº³ ÒÔÓËéììÁìì ÊÓÒ ËÉÌÌ×ÉÎ ÂÐÌ ËéììÁìì ÒÔÓËÉÌÌ×ÉÎ ÌÄÁ ×ÉÎÎÕÍ ÂÐÌ º° ÒÔÓº° ÁÓÌ ÁÓÌ ÁÓÌ »ª¸ ÐÈÁ ÔÁØ ÌÄÁ ×éîÌéóô¬Ø ÓÔÁ ×éîÂõæ ÌÄÁ ×éîÌéóô«±¬Ø ÓÔÁ ×éîÂõæ«± ÌÄÙ £°º± ÌÄÁ ×éîÌéóô«²¬Ø ÓÔÁ ÐÐÁÒÍÓ«±¬Ù ÉÎØ ÉÎÙ ÃÐÙ £´ ÂÎÅ º± ÊÓÒ ÓåôÔøô ÌÄÁ £² ÓÔÁ ÐÐÁÒÍÓ ÊÓÒ ×ÓÔÕÆÆ² »Òåóôïòå óãòååî ÐÌÁ ÔÁØ ÌÄÁ ×éîÌéóô¬Ø ÓÔÁ ×éîÂõæ ÌÄÁ ×éîÌéóô«±¬Ø ÓÔÁ ×éîÂõæ«± ÄÅÃ ×ÉÎÎÕÍ ÒÔÓÎÅ××ÉÎ ÌÄÙ £µ ÊÓÒ ÇÅÔÐÁÒÍÓ ÌÄÁ ÐÐÁÒÍÓ ÓÔÁ ºÆÍÔ ÉÎÃ ×ÉÎÎÕÍ ÌÄÁ ×ÉÎÎÕÍ ÁÓÌ ÁÓÌ ÁÓÌ »ª¸ ÔÁØ ÌÄÁ ×éîÂõæ ÓÔÁ ×éîÌéóô¬Ø ÌÄÁ ×éîÂõæ«± ÓÔÁ ×éîÌéóô«±¬Ø ÌÄÙ £°º´ ÌÄÁ ÐÐÁÒÍÓ«±¬Ù ÓÔÁ ×éîÌéóô«²¬Ø ÉÎØ ÉÎÙ ÃÐÙ £´ ÂÎÅ º´ ÊÓÒ ÓåôÔøô» ÌÄÁ £±» ÓÔÁ ÐÐÁÒÍÓ» ÊÓÒ ×ÓÔÕÆÆ² »Óáöå âáãëçòïõîä» ÌÄÁ £³» ÓÔÁ ÐÐÁÒÍÓ» ÊÓÒ ×ÓÔÕÆÆ² »Ãìåáò âáãëòïõîä ÌÄÁ £´ »Óáöå áîä ãìåáò âáãëçòïõîä ÓÔÁ ÐÐÁÒÍÓ ÊÓÒ ×ÓÔÕÆÆ² ÌÄÙ ÔïðÌåæôÙ »Ôïð ïæ Âïø ÊÓÒ ×ÉÎÓÅÔÃÖ ÌÄÁ £¤²° ÌÄÙ ÔïðÌåæôØº± ÉÎÙ ÊÓÒ ÓÔÏÒÃÈÁÒ ÉÎÙ ÃÐÙ ÂïôÒôØ ÄÅÙ ÂÃÃ º± »Áì÷áùó ÌÄÙ ÂïôÒôÙ »Âïôôïí ïæ Âïø ÊÓÒ ×ÉÎÓÅÔÃÖ ÌÄÁ £¤²° ÌÄÙ ÔïðÌåæôØº² ÉÎÙ ÊÓÒ ÓÔÏÒÃÈÁÒ ÉÎÙ ÃÐÙ ÂïôÒôØ ÄÅÙ ÂÃÃ º² ÌÄÙ ÔïðÌåæôÙ »Óéäåó ïæ ×éîäï÷ ÓÔÙ ºÔÍÐ ÉÎÃ ºÔÍÐº³ ÌÄÙ ºÔÍÐ ÊÓÒ ×ÉÎÓÅÔÃÖ ÌÄÙ ÔïðÌåæôØ ÌÄÁ £§Ú§ ÊÓÒ ÓÔÏÒÃÈÁÒ ÌÄÙ ÂïôÒôØ ÌÄÁ £§ß§ ÊÓÒ ÓÔÏÒÃÈÁÒ ÉÎÃ ºÔÍÐ ÌÄÁ ºÔÍÐ ÃÍÐ ÂïôÒôÙ ÂÃÃ º³ ÒÔÓºÔÍÐ ÄÓ ±ºÆÍÔ ÄÓ ±ÓåôÔøô ÌÄÁ ÔïðÌåæôØ ÓÔÁ ×ÌÅÆÔ ÉÎÃ ×ÌÅÆÔ ÉÎÃ ×ÌÅÆÔ ÌÄÁ ÂïôÒôØ ÓÅÃ ÓÂÃ ÔïðÌåæôØ ÓÔÁ ×ÉÄÔÈ ÄÅÃ ×ÉÄÔÈ ÄÅÃ ×ÉÄÔÈ ÌÄÁ ÔïðÌåæôÙ ÓÔÁ ×ÔÏÐ ÉÎÃ ×ÔÏÐ ÌÄÁ ÂïôÒôÙ ÓÅÃ ÓÂÃ ÔïðÌåæôÙ ÓÔÁ ×ÌÉÎÅÓ ÄÅÃ ×ÌÉÎÅÓ ÒÔÓ×ÉÎÎÕÍ ÄÓ ± »Èéçèåóô ÷éîäï÷ £×éîÌéóô ÄÓ ±°ªµ »µ âùôåó ðåò ÷éîäï÷ÂÏØÉÔ² ÌÄØ ÐÐÁÒÍÓ ÌÄÙ ÐÐÁÒÍÓ«± ÄÅÙ ÊÓÒ ×ÉÎØÙ ÊÓÒ ÍÏÕÓÅÏÎ ÌÄØ ÐÐÁÒÍÓ«² ÌÄÁ £¢Ì¢ »Ôïð ÊÓÒ ÃÏÕÔ²Â ÌÄÁ ÐÐÁÒÍÓ«³ ÃÌÃ ÁÄÃ ÐÐÁÒÍÓ«± ÔÁÙ ÌÄØ ÐÐÁÒÍÓ ÊÓÒ ×ÉÎØÙ ÌÄØ ÐÐÁÒÍÓ«² ÌÄÁ £¢Ì¢ »Âïôôïí ÊÓÒ ÃÏÕÔ²Â ÌÄÙ ÐÐÁÒÍÓ«± ÄÅÙ ÓÔÙ ÏÕÒÃÖ ÓÔÙ ÃÖº² ÊÓÒ ÖÔÁÂ ÌÄØ ÐÐÁÒÍÓ ÄÅØ ÓÔØ ÃÈ ÓÔØ ÏÕÒÃÈ ÌÄÁ £¢Ú¢ »Ìåæô óéäå ïæ âïø ÊÓÒ ÃÏÕÔ ÌÄÁ ÐÐÁÒÍÓ«² ÃÌÃ ÁÄÃ ÐÐÁÒÍÓ ÔÁØ ÓÔØ ÃÈ ÓÔØ ÏÕÒÃÈ ÌÄÁ £¢ß¢ »Òéçèô óéäå ïæ âïø ÊÓÒ ÃÏÕÔ ÌÄÁ ÐÐÁÒÍÓ«³ ÃÍÐ £²² ÂÎÅ º²Á ÌÄÙ ÃÖ ÄÅÙ ÃÐÙ ÐÐÁÒÍÓ«³ ÂÎÅ º² ÂÅÑ º°º²Á ÉÎÃ ÃÖ ÉÎÃ ÏÕÒÃÖ ÃÌÃ ÁÄÃ ÐÐÁÒÍÓ«± ÃÍÐ ÃÖ ÂÎÅ º²º° ÊÓÒ ÍÏÕÓÅÏÆÆ ÒÔÓ×ÉÎØÙ ÊÓÒ ×ÉÎÓÅÔÃÖ ÓÔØ ÃÈ ÓÔØ ÏÕÒÃÈ ÒÔÓ×ÉÎÓÅÔÃÖ ÓÔÙ ÃÖ ÓÔÙ ÏÕÒÃÖ ÊÓÒ ÖÔÁÂ ÒÔÓ×ÓÔÕÆÆ ÌÄÙ £µ ÊÓÒ ÇÅÔÐÁÒÍÓ×ÓÔÕÆÆ² ÌÄÁ ÐÐÁÒÍÓ ÁÓÌ ÔÁØ ÌÄÁ ÂÏØÌÏÃÓ­²¬Ø ÓÔÁ ºÂÏØÓÕÂ«± ÌÄÁ ÂÏØÌÏÃÓ­±¬Ø ÓÔÁ ºÂÏØÓÕÂ«² ÌÄØ ÂïôÒôÙº± ÃÐØ ÔïðÌåæôÙ ÂÃÃ º¹ ÔØÁ ÁÓÌ ÔÁÙ ÌÄÁ ÂÁÓÌÓ¬Ù ÓÔÁ ÄÅÓÔÂÁÓÌ ÌÄÁ ÂÁÓÌÓ«±¬Ù ÓÔÁ ÄÅÓÔÂÁÓÌ«± ÌÄÙ ÔïðÌåæôØº´ ÔÙÁ ÐÈÁ ÌÓÒ ÓÔÁ ×éîÙÓáö ÔÁÙ ÌÄÁ ÔØÔÐÁÇÅ² ÂÃÃ ºÂÏØÓÕÂ ÌÄÁ ÔØÔÐÁÇÅ±ºÂÏØÓÕÂ ÊÓÒ ¤°°°°º¶ ÌÄÁ ÔØÔÐÁÇÅ± ÐÌÁ ÔÁÙ ÉÎÙ ÃÐÙ ÂïôÒôØ ÂÃÃ º´ ÂÅÑ º´ ÄÅØ ÂÐÌ º±º¹ ÒÔÓÂÏØÌÏÃÓ ÄÁ ÓÁÖÅÂÏØ¬ÒÅÓÔÂÏØ¬ÃÌÒÂÏØ¬ÓáöåÎÃìòÒÅÓÔÂÏØ ÌÄÙ £° ÌÄÁ ¨×éîÂõæ©¬Ù ÌÄÙ ×éîÙÓáö ÓÔÁ ¨ÄÅÓÔÂÁÓÌ©¬Ù ÉÎÃ× ×éîÂõæº± ÒÔÓÓÁÖÅÂÏØ ÌÄÁ ¨ÄÅÓÔÂÁÓÌ©¬Ù ÌÄÙ £° ÓÔÁ ¨×éîÂõæ©¬Ù ÉÎÃ× ×éîÂõæº± ÒÔÓÃÌÒÂÏØ ÌÄÁ £¤Á° ÓÔÁ ¨ÄÅÓÔÂÁÓÌ©¬Ù ÒÔÓÓáöåÎÃìò ÌÄÁ ¨ÄÅÓÔÂÁÓÌ©¬Ù ÐÈÁ ÌÄÁ £¤Á° ÓÔÁ ¨ÄÅÓÔÂÁÓÌ©¬Ù ÌÄÙ £° ÐÌÁ ÓÔÁ ¨×éîÂõæ©¬Ù ÉÎÃ× ×éîÂõæ ÒÔÓ×éîÙÓáö ÄÓ ±ÂÁÓÌÓ ÄÁ ¤´°°¬¤´¸°¬¤µ°°¬¤µ¸°¬¤¶°°¬¤¶¸°¬¤·°°¬¤·¸° ÄÁ ¤´²¸¬¤´Á¸¬¤µ²¸¬¤µÁ¸¬¤¶²¸¬¤¶Á¸¬¤·²¸¬¤·Á¸ ÄÁ ¤´µ°¬¤´Ä°¬¤µµ°¬¤µÄ°¬¤¶µ°¬¤¶Ä°¬¤·µ°¬¤·Ä°ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªª                              ªª         ×ïòä ×òáððéîç        ªª      Ðòéîôéîç Æõîãôéïîó      ªª                              ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªª Æïòíáô æïò ãáììéîçªª        ÐÏÉÎÔ ×ÐÔÒ»ÍåóóáçåÔåøôª        ÊÓÒ   ÔØÔÏÕÔªª Ãáìì ×ÒÁÐÉÔ ôï ðòéîô æòïí ãõòóïò ðïóéôéïîªÔØÔÏÕÔ ÌÄÙ ×ÔÏÐ ÊÓÒ ×ÉÎÓÅÔÃÖ ÊÓÒ ×ÒÁÐÉÔ ÒÔÓ×ÒÁÐÉÔ ÌÄÁ ×ÌÅÆÔ ÓÔÁ ÏÕÒÃÈ ÓÔÁ ÃÈº° ÌÄÙ £°º± ÌÄÁ ¨×ÐÔÒ©¬Ù ÂÅÑ ºÄÏÎÅ ÃÍÐ £¢ ¢ ÂÅÑ ºÓÐ ÃÍÐ £¤¸Ä ÂÅÑ ºÓÐ ÉÎÙ ÔÙÁ ÃÌÃ ÁÄÃ ÏÕÒÃÈ ÓÅÃ ÓÂÃ ×ÌÅÆÔ ÃÍÐ ×ÉÄÔÈ ÂÃÃ º± ÊÓÒ ÎÌºÓÐ ÊÓÒ ÐÒ×ÏÒÄ ÊÍÐ º±ºÄÏÎÅ ÊÓÒ ÐÒ×ÏÒÄº´ ÒÔÓÎÌ ÉÎÃ ÏÕÒÃÖ ÌÄÁ ÏÕÒÃÖ ÔÁÙ ÓÂÃ ×ÔÏÐ ÃÍÐ ×ÌÉÎÅÓ ÂÃÓ ºµ ÊÓÒ ×ÉÎÓÅÔÃÖ ÌÄÁ ×ÌÅÆÔ ÓÔÁ ÏÕÒÃÈ ÃÌÃºµ ÒÔÓÐÒ×ÏÒÄ ÌÄÙ £°º± ÌÄÁ ¨×ÐÔÒ©¬Ù ÂÅÑ º³ ÃÍÐ £¢ ¢ ÂÅÑ º² ÃÍÐ £¤¸Ä ÂÎÅ º±Á ÊÓÒ ÎÌ ÊÍÐ º²Áº±Á ÊÓÒ ÃÏÕÔº±Â ÉÎÃ ×ÐÔÒ ÂÎÅ º± ÉÎÃ ×ÐÔÒ«± ÂÎÅ º± »Áì÷áùóº² ÊÓÒ ÃÏÕÔº²Á ÉÎÃ ×ÐÔÒ ÂÎÅ º³ ÉÎÃ ×ÐÔÒ«±º³ ÒÔÓªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªª                              ªª       Ãïîôåøô Óåîóéôéöå      ªª         Á×Ð Èåìð Æéìå        ªª      Ðòéîôéîç Æõîãôéïîó      ªª                              ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªÃÔØÈÌÐ ÓÔÁ ÒÅÁÌÃÔØÃÔØÈÌÐ² ÐÏÉÎÔ ÏÐÅÎÐÎ»ÉÄØÐÎ ÐÏÉÎÔ ÏÐÅÎÂÕÆ»ÈÌÐÂÕÆ ÍÌÉ ÏÐÅÎ»ÐÏÐÅÎ ÂÃÃ º± ÒÔÓ »Åòòïòº± ÌÄÁ £° ÓÔÁ ÆÉÍÁÒË«² ÓÔÁ ÒÅÁÄÌÅÎ«± ÓÔÄÂ ÒÅÁÄÂÕÆ»ÒÂõæÓáöå ÐÏÉÎÔ ÒÅÁÄÂÕÆ»ÈÌÐÓôáôó ÌÄÁ £¸ ÓÔÁ ÒÅÁÄÌÅÎ ÌÄÁ ÏÐÅÎÒÅÆ ÓÔÁ ÃÌÏÓÅÒÅÆ ÓÔÁ ÒÅÁÄÒÅÆ ÓÔÁ ÍÁÒËÒÅÆ ÍÌÉ ÒÅÁÄ»ÐÒÅÁÄ »Òåáä Èåìð Éîäåø Óôáô ¨¸ âùôåó© ÂÃÓ ºÅ ÐÏÉÎÔ ÒÅÁÄÂÕÆ»ÃÔØÐÁÒÍÓ ÌÄÁ £° ÓÔÁÔ ÆÉÍÁÒË«± ÌÄÁ ÒÅÁÌÃÔØ ÓÔÁ ÆÉÍÁÒË ÁÓÌ ÆÉÍÁÒË » Ãïîôåøô ª ¸ ÒÏÌ ÆÉÍÁÒË«± ÁÓÌ ÆÉÍÁÒË ÒÏÌ ÆÉÍÁÒË«± ÁÓÌ ÆÉÍÁÒË ÒÏÌ ÆÉÍÁÒË«± ÍÌÉ ÓÅÔÍÁÒË»ÐÇÓÍÁÒË ÂÃÓ ºÅº² ÍÌÉ ÒÅÁÄ»ÐÒÅÁÄ ÂÃÓ ºÅ ÓÔÄÂ ÃÔØÁÄÒ»ÆÉÍÁÒË ÓÔÄÂ ÃÔØÌÅÎ»ÒÅÁÄÌÅÎ ÍÌÉ ÃÌÏÓÅ»ÐÃÌÏÓÅ ÂÃÃ º³ ÂÃÓ ºÅÒÒºÅ ÐÈÁ ÍÌÉ ÃÌÏÓÅ»ÐÃÌÏÓÅ ÐÌÁºÅÒÒ ÓÅÃ ÒÔÓº³ ÐÏÉÎÔ ÏÐÅÎÐÎ»ÈÅÌÐÐÎ ÐÏÉÎÔ ÒÅÁÄÂÕÆ»ÈÌÐÂÕÆ² ÍÌÉ ÏÐÅÎ»ÐÏÐÅÎ ÂÃÓ ºÅÒÒ ÌÄÁ ÏÐÅÎÒÅÆ ÓÔÁ ÒÅÁÄÒÅÆ ÓÔÁ ÃÌÏÓÅÒÅÆ ÓÔÁ ÍÁÒËÒÅÆ ÍÌÉ ÓÅÔÍÁÒË»ÐÇÓÍÁÒË ÂÃÓ ºÅ ÍÌÉ ÒÅÁÄ»ÐÒÅÁÄ ÂÃÓ ºÅ ÍÌÉ ÃÌÏÓÅ»ÐÃÌÏÓÅ ÂÃÓ ºÅÒÒ ÉÎÃ ÃÔØÃÏÌ ÉÎÃ ÃÔØÃÏÌ ÉÎÃ ÃÔØÃÏÌ ÌÄÁ ÃÔØØ ÁÎÄ ÃÔØÙ ÃÍÐ £¤ÆÆ ÂÅÑ º±° »Ãáìãõìáôå Ø ¦ Ù æïò ãåîôåòåä ÷éîäï÷ ÌÄÁ ÃÔØØ ÓÔÁ ºØ ÌÄÁ ÃÔØÙ ÓÔÁ ºÙ ÊÍÐ º±±º±° ÌÄÁ £²´ ÓÅÃ ÓÂÃ ÃÔØÒÏ× ÌÓÒ ÓÔÁ ºÙ ÌÄÁ £¸° ÓÅÃ ÓÂÃ ÃÔØÃÏÌ ÌÓÒ ÓÔÁ ºØº±± ÃÌÃ ÌÄÁ ºØ ÁÄÃ ÃÔØÃÏÌ ÓÔÁ º× ÃÌÃ ÌÄÁ ºÙ ÁÄÃ ÃÔØÒÏ× ÓÔÁ ºÈ ÊÓÒ ÎÅ××ÉÎ ÄÓ ± »ÆïòíáôºØ ÄÓ ± »ÃïìõíîóºÙ ÄÓ ± »Òï÷óº× ÄÓ ± »×éäôèºÈ ÄÓ ± »ÈåéçèôÁ×ÐÍÓÇ ÓÔÄÂ ÒÅÁÄÂÕÆ»×ÐÔÒ ÌÄÁ £° ÓÔÁ ºÍÓÔÁÔº°° ÌÄÙ ×ÔÏÐº° ÊÓÒ ×ÉÎÓÅÔÃÖº°Â ÌÄÁ ×ÌÅÆÔ ÓÔÁ ÏÕÒÃÈ ÓÔÁ ÃÈ ÌÄÙ £± ÌÄÁ ¨×ÐÔÒ©¬Ù ÂÅÑ º°Á ÊÍÐ º±° »Äï ðáçå æïòíáôôéîç ãïííáîäóº°Á ÌÄÙ £° ÌÄÁ ¨×ÐÔÒ©¬Ù ÓÔÁ ºÌÅÎ ÉÎÃ ºÌÅÎ ÌÄÙ £² ÌÄÁ ¨×ÐÔÒ©¬Ù ÁÎÄ £¤·Æ ÂÅÑ º³ ÔÁØ ÊÓÒ ÐÒÂÌ²º³ ÌÄÙ £³º± ÉÎÙ ÌÄÁ ¨×ÐÔÒ©¬Ù ÃÍÐ £¤²° ÂÃÃ º±² »Ãïîôòïì ãèáò¬ äï íïõóåôåøô ÌÄØ ºÍÓÔÁÔ ÂÅÑ º¶ »Îï ÍïõóåÔåøô ÃÍÐ £§À§ ÂÃÃ º¶ ÃÍÐ £§ß§«± ÂÃÓ º¶ ÐÈÁ ÊÓÒ ÍÏÕÓÅÏÎ ÐÌÁ ÊÓÒ ÃÏÕÔ ÊÓÒ ÍÏÕÓÅÏÆÆ ÊÍÐ º·º¶ ÏÒÁ £¤¸° ÊÓÒ ÃÏÕÔº· ÃÐÙ ºÌÅÎ ÂÃÃ º± ÉÎÙ ÔÙÁº¸ ÃÌÃ ÁÄÃ ×ÐÔÒ ÓÔÁ ×ÐÔÒ ÂÃÃ º² ÉÎÃ ×ÐÔÒ«±º² ÉÎÃ ÏÕÒÃÖ ÌÄÁ ÏÕÒÃÖ ÔÁÙ ÓÅÃ ÓÂÃ ×ÔÏÐ ÃÍÐ ×ÌÉÎÅÓ ÂÃÃ º° ÃÌÃ ÒÔÓº±° ÔÁØ »Ðáçå æïòíáôôéîç ãïííáîäó ÌÄÁ £² ÃÐØ £¤Ä° ÂÅÑ º¸ ÃÌÃ ÁÄÃ ×ÐÔÒ ÓÔÁ ×ÐÔÒ ÂÃÃ º±± ÉÎÃ ×ÐÔÒ«±º±± ÃÐØ £¤ÅÃ »Ðáçå èåáäåò ÂÅÑ º³° ÊÍÐ º°Âº±² ÃÍÐ £± ÂÅÑ º±¶ »Âïìä ïî ÃÍÐ £² ÂÅÑ º±· »Âïìä ïææ ÃÍÐ £· ÂÅÑ º²° »Õîäåòìéîå ïî ¨ÍÏÕÓÅ ÏÎ© ÃÍÐ £¸ ÂÅÑ º²µ »Õîäåòìéîå ïææ ¨ÍÏÕÓÅ ÏÆÆ© ÃÍÐ £±¶ ÂÅÑ º²¶ »Óðåãéáì Ãïäå ±º±²á ÐÈÁ ÊÓÒ ÍÏÕÓÅÏÎ ÐÌÁ ÌÄØ £ÍóÁ×ËÓ­ÍóÃè­±º±³ ÃÍÐ ÍóÁ×ËÓ¬Ø ÂÅÑ º±´ ÄÅØ ÂÐÌ º±³ ÊÍÐ º±´Â ÂÒËº±´ ÌÄÁ ÍóÃè¬Ø ÊÓÒ ÃÏÕÔº±´Â ÊÓÒ ÍÏÕÓÅÏÆÆº±µ ÊÍÐ º·º±¶ ÌÄÁ £° ÓÔÁ º¶«± ÂÅÑ º±µº±· ÌÄÁ £¤¸° ÓÔÁ º¶«± ÂÎÅ º±µº²° ÌÄÁ £± ÓÔÁ ºÍÓÔÁÔ »ÍïõóåÔåøô ïî ÊÍÐ º·º²µ ÌÄÁ £° »ÍïõóåÔåøô ïææ ÓÔÁ ºÍÓÔÁÔ ÊÍÐ º·º²¶ ÌÄÁ ÂÂÖÅÒÎÕÍ ÊÓÒ ÐÖÅÒ ÊÍÐ º·º³° ÌÄÙ ×ÔÏÐ ÄÅÙ ÊÓÒ ×ÉÎÓÅÔÃÖ ÌÄÙ £° ÌÄÁ ¨×ÐÔÒ©¬Ù ÓÔÁ ºÌÅÎ ÉÎÃ ºÌÅÎ ÌÄÙ £³º³± ÉÎÙ ÌÄÁ ¨×ÐÔÒ©¬Ù ÊÓÒ ÃÏÕÔ ÃÐÙ ºÌÅÎ ÂÃÃ º³± ÉÎÙ ÔÙÁ ÃÌÃ ÁÄÃ ×ÐÔÒ ÓÔÁ ×ÐÔÒ ÂÃÃ º³² ÉÎÃ ×ÐÔÒ«±º³² ÊÍÐ º°°ºÌÉÎÅÓ ÄÓ ±ºÌÅÎ ÄÓ ±ºÍÓÔÁÔ ÄÓ ± »ÍïõóåÔåøô óôáôõóÍóÃè ÁÓÃ ¢Á¢ÍóÁ×ËÓ ÈÅØ °ÁÍÙÃÔØ ÄÓ ±ÒÅÁÌÃÔØ ÄÓ ±ÍÙÂÒË ÐÈÁ »Óáöå Á ÐÈÐ »Óáöå Ð ÌÄÁ ÂÒËÆÌÁÇ ÂÎÅ º² ÐÌÐ ÐÌÁ ÊÍÐ ÄÉÅ »Âòïëå ÷èéìå äïéîç ÂÒË¬ äéåº² ÔØÁ ÐÈÁ »Óáöå Ø ÔÙÁ ÐÈÁ »Óáöå Ù ÔÓØ ÔØÁ »Ðòéîô ÓÐ ÌÄØ £²µ ÃÌÃ ÁÄÃ £´ »ÓÐ « ´ ÊÓÒ ÂÒËÂÙÔÅ ÐÌÁ »Çåô Ù æòïí óôáãë ÌÄØ £±¹ ÊÓÒ ÂÒËÂÙÔÅ ÐÌÁ »Çåô Ø æòïí óôáãë ÌÄØ £±´ ÊÓÒ ÂÒËÂÙÔÅ ÐÌÁ »Çåô Ð æòïí óôáãë ÌÄØ £³° ÊÓÒ ÂÒËÂÙÔÅ ÐÌÁ »Çåô Á æòïí óôáãë ÌÄØ £¹ ÊÓÒ ÂÒËÂÙÔÅ ÌÄÁ £° »Óáù ÷å§òå äïéîç á ÂÒË ÓÔÁ ÂÒËÆÌÁÇ ÌÄÁ ÏÕÒÃÈ ÓÔÁ ºÂÒËÃÈ ÌÄÁ ÏÕÒÃÖ ÓÔÁ ºÂÒËÃÖ ÓÔÄÂ ÂÁÓÌ»ºÂÒËÂÁÓÌ ÊÓÒ ÓÁÖÅ×ÉÎ ÊÓÒ ÓÅÔÔØÔ ÌÄØ £° ÊÓÒ ÇÅÔÂÒËÐÃ ×ÉÎ °»±µ»´»µ°»±° ÊÓÒ ÓÅÔÎÏÒÍ ÐÏÉÎÔ ×ÐÔÒ»ÂÒËÍÓÇ ÊÓÒ ÔØÔÏÕÔ ÊÓÒ Ë×ÁÉÔ ÊÓÒ ËÉÌÌ×ÉÎ ÊÓÒ ÒÅÓÔ×ÉÎ ÌÄÁ ºÂÒËÃÈ ÊÓÒ ÓÅÔÃÈ ÌÄÁ ºÂÒËÃÖ ÊÓÒ ÓÅÔÃÖ ÓÔÄÂ ºÂÒËÂÁÓÌ»ÂÁÓÌ ÌÄÁ £¤ÆÆ ÓÔÁ ÂÒËÆÌÁÇ ÊÍÐ ¨ºÒÔÎ©ºÂÒËÃÖ ÄÓ ±ºÂÒËÃÈ ÄÓ ±ºÂÒËÂÁÓÌ ÄÓ ²ºÒÔÎÂÒËÒÔÎ ÄÓ ² »Æéììåä éî ìáôåòÏÒÉÇÂÒË ÄÓ ² »Ïòéçéîáì ÂÒË öåãôïòÂÒËÆÌÁÇ ÄÓ ± »Úåòï éæ èáîäìéîç á ÂÒËÇÅÔÂÒËÐÃ ÌÄÁ ÐÃÌ ÓÅÃ ÓÂÃ £² »Óåô ÐÃÌ¯È ôï ðïéîô ôï ÓÔÁ ÐÃÌ »ôï áãôõáì ðïéîô ÌÄÁ ÐÃÈ »ïæ ôèå ÂÒË éîóôòõãôéïî ÓÂÃ £° ÓÔÁ ÐÃÈ ÊÓÒ ÂÒËÂÙÔÅ »Ðõô áääòåóó éîôï ÌÄÁ ÐÃÌÂÒËÂÙÔÅ ÐÈÁ ÌÓÒ ÌÓÒ ÌÓÒ ÌÓÒ ÊÓÒ ºÃÈ ÐÌÁºÃÈ ÁÎÄ £¤Æ ÏÒÁ £¤Â° ÃÍÐ £¤ÂÁ ÂÃÃ º± ÁÄÃ £¶º± ÓÔÁ ÂÒËÌÏÃ¬Ø ÉÎØ ÒÔÓÄÉÅ ÊÓÒ ÓÅÔÔØÔ ÊÓÒ ÈÏÍÅ ÌÄØ £ÄÅÁÔÈÌÏÃ­ÂÒËÌÏÃ ÊÓÒ ÇÅÔÂÒËÐÃ ÐÒÁÔ ²°»±°»ÄÅÁÔÈ ÐÒÁÔ ²¶»¹»ÄÅÁÔÈ²º± ÊÍÐ º±ÂÒËÍÓÇ ÈÅØ ¸Ä ÁÓÃ ¢É áí åøðåòéåîãéîç ôåãèîéãáì äéææéãõìôéåó áô ¤¢ÂÒËÌÏÃ ÁÓÃ ¢°°°°®  Á½°° Ø½°° Ù½°° ÓÐ½°° Ð½°° ¢ ÁÓÃ ¢Ðìåáóå òåðïòô ôèå åòòïò¬ ùïõò íáãèéîå ¢ ÁÓÃ ¢áîä ïôèåò èáòä÷áòå ùïõ ÷åòå õóéîç®  ¢ ÁÓÃ ¢Áìóï¬ ðìåáóå åøðìáéî ôèå óôåðó ¢ ÁÓÃ ¢ôï òåãòåáôå éô®¢¸ä¸ä ÁÓÃ ¢      Ôèáîë Ùïõ¬  Ôèå Íáîáçåíåîô¢ ÈÅØ °°ÄÅÁÔÈ ÁÓÃ ¢×å óååí ôï èáöå á óåòéïõó ðòïâìåí áô ¤¢ÄÅÁÔÈÌÏÃ ÁÓÚ ¢°°°°®¢ÄÅÁÔÈ² ÁÓÚ ¢Ðìåáóå ïðåî áî Éóóõå ïî ôèå ÇéôÈõâ ðòïêåãô ðáçå®¢ÈåìðÌåóó ÈÅØ ¸Ä ÁÃÒ ¢Çåôôéîç åòòïòó ôòùéîç ôï òåáä¢ ÁÓÚ ¢   éîäåø áîä¯ïò èåìð æéìå®¢
+***************************************************
+*                                                 *
+*                Block Buster 2.x                 *
+*        The Next Generation Block Editor         *
+*                                                 *
+*            Originally written in the            *
+*               1985-1992 timeframe.              *
+*                                                 *
+*                 Code Repository                 *
+*    https://github.com/d5aa962e/BlockBuster2     *
+*                                                 *
+*       BlockBuster2 by github.com/d5aa962e       *
+*    is licensed under CC BY-SA 4.0. To view a    *
+*           copy of this license, visit           *
+*  http://creativecommons.org/licenses/by-sa/4.0/ *
+*                                                 *
+***************************************************
+
+********************************
+*                              *
+*       File: COMMON.2.S       *
+*                              *
+*           Contents           *
+*           --------           *
+*                              *
+* - More Program text          *
+* - Windowing Logic            *
+* - Context Sensitive          *
+*   Help Logic                 *
+* - Word Wrapping logic        *
+* - AWP Helper Logic           *
+*                              *
+********************************
+
+*
+* File name parsing routine.  On entry, TEMPPTR points
+* to the file name.  On exit, c=1 if invalid pathname syntax
+* c=0 if valid.  Also, the A-register is as follows
+* Hi nibble - unit number of the parsed filename and
+* Lo nibble (bits 0-1):
+*      1 = DOS filename
+*      2 = PASCAL filename
+*      3 = CP/M filename
+* FNOfset = relative offset into the filename where
+*           the actual file name starts (i.e. after
+*           any volume specifiers
+*
+
+FNParse	JSR	IsDOS	;Is it a DOS Name?
+	BCC	:7
+:5	JSR	IsPASCAL
+	BCC	:7
+:6	JSR	IsCPM
+:7	STY	FNOfset
+	RTS
+
+IsDOS	LDY	#1
+	LDA	(TEMPPTR),Y
+	AND	#$7F
+	CMP	#'.'	;1st char . = DOS filename
+	BNE	:NotDOS	;Not DOS 3.3 name
+	INY	;Y=1, get slot
+	LDA	(TEMPPTR),Y
+	AND	#$7F
+	EOR	#$30
+	BEQ	:NoSD	;No Slot/Drive given (or not valid)
+	CMP	#$8	;Slot # 1-7 valid only
+	BCS	:NoSD
+	ASL
+	ASL
+	ASL
+	ASL
+	STA	WorkUnit
+	LDX	#0
+	INY	;Y=2, get drive
+	LDA	(TEMPPTR),Y
+	AND	#$7F
+	CMP	#'1'
+	BEQ	:2
+	LDX	#$80
+	CMP	#'2'
+	BNE	:NoSD
+:2	TXA
+	ORA	WorkUnit
+	STA	WorkUnit
+	INY	;Y=3, get trailing period
+	LDA	(TEMPPTR),Y
+	AND	#$7F
+	CMP	#'.'	;Slot/Drive must be terminated
+	BNE	:NoSD	;with a period
+	INY
+:4	CLC
+	LDA	WorkUnit
+	ORA	#1
+	RTS
+:NoSD	LDA	DOSLast
+	LDY	#2
+	BNE	:4	;Always
+:NotDOS	SEC
+	RTS
+
+IsPASCAL	LDY	#0
+	LDA	(TEMPPTR),Y
+	STA	:PAStemp
+:1	INY
+	LDA	(TEMPPTR),Y
+	AND	#$7F
+	CMP	#':'
+	BEQ	:2
+	CPY	:PAStemp
+	BNE	:1
+	BEQ	:NotPAS
+:2	INY
+	STA	PASLast
+	ORA	#2	;Indicate PASCAL device
+	CLC
+	RTS
+:NotPAS	SEC
+	RTS
+:PAStemp	DS	1
+
+IsCPM	LDY	#1
+	LDA	(TEMPPTR),Y
+	AND	#$7F
+	CMP	#'>'	;Use last accessed drive
+	BEQ	:3
+	SEC
+	SBC	#'A'	;Max valid drives, A-J
+	CMP	DEVCNT
+	BCC	:4
+	BEQ	:4
+:NotCPM	SEC
+	RTS
+:4	TAX
+	INY
+	LDA	(TEMPPTR),Y
+	AND	#$7F
+	CMP	#'>'
+	BNE	:NotCPM
+	LDA	DEVCNT+1,X
+:2	INY
+	STA	CPMLast
+	ORA	#3	;Indicate CP/M device
+	CLC
+	RTS
+:3	LDA	CPMLast
+	BNE	:2	;Always
+
+DOSLast	DS	1
+PASLast	DS	1
+CPMLast	DS	1
+WorkUnit	DS	1
+FNOfset	DS	1	;Offset from pathname of filename
+
+
+QUITBB	PRINT	BBQuit
+	JMP	DOQUIT2
+
+DOQUIT	PRINT	AYS
+DOQUIT2	JSR	YESNOSET
+	BEQ	:1
+	CMP	#2
+	BEQ	:2	;Yes, Quit
+:1	RTS
+:2	PLA
+	PLA
+	GOTO	0;23
+	JSR	CLREOL
+	STA	$C081
+	MLI	QUIT;PQUIT
+	BRK	;BRK if error
+
+ERROR	PHA
+	JSR	BUZZ
+	PLA
+	JSR	BUZLESS
+	LDA	#$A0
+	JSR	COUT
+	LDA	#"("
+	JSR	COUT
+	LDA	#"$"
+	JSR	COUT
+	LDA	$BF9C	;Last MLI call return address
+	SEC
+	SBC	#6	;Make it the address of the call
+	PHA
+	LDA	$BF9D
+	SBC	#0
+	JSR	PRBYT
+	PLA
+	JSR	PRBYT
+	LDA	#")"
+	JSR	COUT
+	RTS
+
+BUZLESS	LDX	NUMOFERS
+:1	CMP	ERCODES,X
+	BEQ	:3
+	DEX
+	BPL	:1
+	PHA
+	PRINT	MLIER
+	PLA
+	JSR	PRBYT
+	CTX	HLPMLIErr
+:2	RTS
+:3	LDA	ERRHLP,X
+	STA	MYCTX
+	LDA	EROFST,X
+	CLC
+	ADC	#<ERRTXT
+	STA	PPARMS
+	LDA	#>ERRTXT
+	ADC	#0
+	STA	PPARMS+1
+	JSR	PRTXT2
+	RTS
+
+WAIT4
+ERROR1	PRINT	ERRHIT
+	JSR	MYKEYIN
+	RTS
+
+*
+* Flags and other data
+*
+
+STACKTOP	DS	1	;Save area for stack pointer
+EOFLAG	DS	1	;End of File/Format Flag
+KEYSAV	DS	1
+LASTRDLEN	DS	1
+SRCEUNIT	DS	1	;Source slot/dirve for volume copy
+DESTUNIT	DS	1	;Destination slot/dirve for volume copy
+TRACK	DS	1	;Holds DOS 3.3 track #
+SECTOR	DS	1	;Holds DOS 3.3 sector #
+IDBYTE	DS	1
+BIGBLOCK	DS	2	;2 bytes
+CPMCNT	DS	1	;# of sectors in CP/M big block
+IBCOUNT	DS	2	;Number of index blocks found
+DIRCOUNT	DS	2	;Number of directories found
+WLEFT	DS	1	;Window data
+WIDTH	DS	1
+WTOP	DS	1
+WLINES	DS	1
+ActiveTut	DS	1	;0=Tutor active
+RBufSave	DS	2	;Save area for Read Buffer pointer
+
+MLIER	ASC	"MLI E"16
+	ASZ	" $"
+ERRHIT	ASZ	", hit a key "
+
+ERCODES	HEX	27,28,2B,40
+	HEX	4E,52,44,46
+	HEX	45,47,48,49
+	HEX	4A,4C,4D,51
+	HEX	5A,50
+NUMOFERS	DFB	*-ERCODES-1
+
+EROFST	DFB	IOERR-ERRTXT,NDC-ERRTXT,WP-ERRTXT,INVPN-ERRTXT
+	DFB	ACSER-ERRTXT,NPV-ERRTXT,DIRNF-ERRTXT,FNF-ERRTXT
+	DFB	VNM-ERRTXT,FAE-ERRTXT,DFL-ERRTXT,VDFL-ERRTXT
+	DFB	IFV-ERRTXT,EOD-ERRTXT,PSTEOF-ERRTXT,BFC-ERRTXT
+	DFB	BBM-ERRTXT,FAO-ERRTXT
+
+ERRHLP	DFB	HLPProErr1,HLPProErr1,HLPProErr1,HLPProErr3
+	DFB	HLPProErr1,HLPProErr2,HLPMLIErr,HLPProErr3
+	DFB	HLPProErr3,HLPProErr4,HLPProErr5,HLPProErr5
+	DFB	HLPProErr4,HLPProErr5,HLPProErr5,HLPProErr2
+	DFB	HLPProErr2,HLPProErr4
+
+ERRTXT
+IOERR	ASC	"I/O E"1600
+NDC	ASZ	"No device connected"
+WP	ASZ	"Write protected"
+INVPN	ASZ	"Invalid pathname syntax"
+ACSER	ASC	"Access e"1600
+NPV	ASZ	"Not a ProDOS disk"
+DIRNF	ASC	"D",01020600 ;Directory not found
+FNF	ASC	"F"03020600 ;File not found
+VNM	HEX	0802	;Volume not mounted
+	ASZ	"mounted"
+FAE	ASC	"F"03 ;File already exists
+	ASZ	"already exists  "
+DFL	ASZ	"Disk Full"
+VDFL	HEX	08
+	ASC	"D"01 ;Volume Directory Full
+	ASZ	"Full"
+IFV	ASC	"Incompatable f"03
+	ASC	"v"0900
+EOD	ASZ	"End of Data"
+PSTEOF	ASC	"P"0a
+	ASZ	" past EOF"
+BFC	ASC	"Bad f"03
+	ASZ	" count"
+BBM	ASZ	"Bad Bitmap"
+FAO	ASC	"Can't copy f"03
+	ASZ	"to itself"
+
+PRWBLK	HEX	03
+UNITNUM	HEX	60
+RWBUF	DW	DIRBUF
+BLOCK	DS	2
+
+PPFX	HEX	01
+PFXPN	DA	PFXADR
+
+PDESTROY	HEX	01
+DESPN	DA	PNAME
+
+PRENAME	HEX	02
+RENPN	DA	PNAME
+RENPN2	DA	PNAME2
+
+PONLINE	HEX	02
+OLUNIT	HEX	00
+OLBUF	DA	OLLIST
+
+PCREATE	HEX	07
+CREPN	DA	PNAME
+CRACS	DS	1
+CRETYP	DS	1
+CREAUX	DS	2
+CRESTOR	DS	1
+CREDAT	DS	2
+CRETIM	DS	2
+
+POPEN	HEX	03
+OPENPN	DA	PNAME
+OPENBUF	DA	PRIBUF
+OPENREF	DS	1
+
+PCLOSE	HEX	01
+CLOSEREF	DS	1
+
+PREAD	HEX	04
+READREF	DS	1
+READBUF	DA	DIRBUF
+READLEN	DW	$0000
+READACT	DW	$0000
+
+PWRITE	HEX	04
+WRITEREF	DS	1
+WRITEBUF	DA	DIRBUF
+WRITELEN	DW	$0000
+WRITEACT	DS	2
+
+PFILINFO	HEX	07
+FIPN	DA	PNAME
+FIACC	DS	1
+FITYP	DS	1
+FIAUX	DS	2
+FISTOR	DS	1
+FIBLKS	DS	2
+FIDATM	DS	2
+FITIMM	DS	2
+FICRDAT	DS	2
+FICRTIM	DS	2
+
+PGSEOF	HEX	02
+EOFREF	DS	1
+FIEOF	DS	3
+
+PGSMARK	HEX	02
+MARKREF	DS	1
+FIMARK	DS	3
+
+PQUIT	HEX	04
+	DS	1
+	DS	2
+	DS	1
+	DS	2
+
+MONTHS	ASC	"???JANFEBMARAPRMAY"
+	ASZ	"JUNJULAUGSEPOCTNOVDEC"
+NONPDDSK	ASZ	"NON-ProDOS DISK"
+DIST	ASZ	"Distroy "
+DAT	DFB	18
+	ASZ	": "
+BF	ASC	"B"07 ;Blocks Free
+	ASZ	"s Free: "
+TOTBLKS	ASC	"     Total B"07 ;Total Blocks: "
+	ASZ	"s: "
+NODATE	ASZ	"{No Date}"
+NONE	ASZ	"none"
+PRTRTXT	ASZ	"Printer: "
+	DO	ASMEDIT
+	ELSE
+BIU	ASC	"B"07 ;Blocks Used
+	ASZ	"s Used"
+	FIN
+BBQuit	ASZ	"Quit Block Buster? "
+AYS	ASZ	"Are you sure? "
+SLOT	ASC	"Slot: ( )"888800
+
+ANDMASK	HEX	7F,BF,DF,EF,F7,FB,FD,FE
+ORMASK	HEX	80,40,20,10,08,04,02,01
+
+DSKFIL	HEX	02
+	ASZ	"Disks"
+	ASZ	"Files"
+
+YN	HEX	02
+	ASZ	"No"
+	ASZ	"Yes"
+	ASZ	"Run Setup"
+
+PAKLOC	DFB	P1-PAKTXT,P2-PAKTXT,P3-PAKTXT,P4-PAKTXT
+	DFB	P5-PAKTXT,P6-PAKTXT,P7-PAKTXT,P8-PAKTXT
+	DFB	P9-PAKTXT,P10-PAKTXT,P11-PAKTXT,P12-PAKTXT
+	DFB	P13-PAKTXT,P14-PAKTXT,P15-PAKTXT,P16-PAKTXT
+	DFB	P17-PAKTXT,P18-PAKTXT,P19-PAKTXT,P20-PAKTXT
+	DFB	P21-PAKTXT,P22-PAKTXT,P23-PAKTXT
+
+PAKTXT
+P1	ASZ	"irectory "
+P2	ASZ	"not "
+P3	ASZ	"ile "
+P4	ASZ	"Parent "
+P5	ASZ	"ntry "
+P6	ASZ	"found"
+P7	ASZ	"lock"
+P8	ASZ	"Volume "
+P9	ASZ	"ersion"
+P10	ASZ	"osition"
+P11	ASZ	"Empty"
+P12	ASZ	"deleted"
+P13	ASZ	"Type"
+P14	ASZ	"Name"
+P15	ASZ	"ector"
+P16	ASZ	"rack"
+P17	ASZ	"Unused"
+P18	ASZ	"Date"
+P19	ASZ	"Minimum "
+P20	ASZ	"Address"
+P21	ASZ	"System "
+P22	ASZ	"rror"
+P23	ASZ	"Device "
+
+FTYPES	HEX	00,01,02,03,04,05,06,0F,19,1A,1B,21,E0,EF
+	HEX	F0,F1,F2,F3,F4,F5,F6,F7,F8,FA,FB,FC,FD,FE
+	HEX	FF
+
+TYPES	ASC	"NOTBADPCDPTXTXTPDABINDIRADBAWPASPIP LBRPAS"
+	ASC	"CMDUR1UR2UR3UR4UR5UR6UR7UR8INTIVRBASVARREL"
+	ASC	"SYS"
+
+
+********************************
+*                              *
+*          Windowing           *
+*  and Context Sensitive Help  *
+*           Routines           *
+*                              *
+********************************
+
+
+CTXHELP	STA	:CtxASav
+	STX	:CtxXSav
+	STY	:CtxYSav
+	LDA	#$FF
+	STA	WINNUM
+	STDB	READBUF;RBufSave
+	STA	ActiveTut	;Say tutorial not active
+	POINT	WinBuf;WSAVBUF
+	LDA	OURCH
+	STA	:CTXCH
+	LDA	OURCV
+	STA	:CTXCV
+	STDB	BASL;:CTXBASL
+	JSR	SAVEWIN
+	JSR	SETTXT
+	LDA	MYCTX
+	JSR	CTXHLP
+	BCC	:0
+	WIN	0;25;9;32;5	;Can't find help files
+	JSR	SETNORM	;So tell user
+	POINT	WPTR;HelpLess
+	JSR	TXTOUT
+	JSR	KWAIT
+	JMP	:1
+
+:0	JSR	KWAIT
+	TAY
+	LDA	OAPPLE
+	ORA	CAPPLE
+	BMI	:3A
+:0A	LDX	MYCTX
+	STX	FIRSTFLG
+	CPX	#HLPFcnKeys
+	BNE	:0B
+	JMP	:4
+:0B	CPX	#HLPTitle
+	BEQ	:12
+:1	JSR	KillAll
+:ERR	JSR	RESTWIN
+	LDA	#$FF
+	STA	ActiveTut
+	LDA	:CTXCH
+	JSR	SETCH
+	LDA	:CTXCV
+	JSR	SETCV
+	STDB	:CTXBASL;BASL
+	STDB	RBufSave;READBUF
+	LDA	:CtxASav
+	LDX	:CtxXSav
+	LDY	:CtxYSav
+	RTS
+
+:12	CPY	#"?"
+	BEQ	:13
+	CPY	#"/"
+	BEQ	:13
+	JMP	:1
+:13	LDA	#HLPAbout
+	STA	REALCTX
+	JSR	CTXHLP2
+	JMP	:0
+
+:3A	CPY	#DNARO	;Check for AA-Up/Down
+	BNE	:3B	;If so, next/prev topic
+	JSR	KillAll
+:3A2	LDA	HLPStats
+	CMP	REALCTX
+	BEQ	:3a1
+	INC	REALCTX
+	BNE	:31A	;Always
+:3a1	LDA	#1
+	STA	REALCTX
+:31A	JSR	CTXHLP2
+	JMP	:0
+
+:3B	CPY	#UPARO
+	BNE	:3C
+	JSR	KillAll
+:3B2	DEC	REALCTX
+	BNE	:31A
+	LDA	HLPStats
+:3B3	STA	REALCTX
+	BNE	:31A	;Always
+:3C	CPY	#"/"
+	BEQ	:3D
+	CPY	#"?"
+	BNE	:3C2
+	LDA	#HLPTitle
+	BNE	:3B3
+:3C2	JSR	KillAll
+	LDA	#HLPFcnKeys
+	BNE	:3B3	;Always
+:3C1	JMP	:1
+:3D	JSR	KillAll
+	LDA	ActiveTut
+	BNE	:3D1
+	JMP	:0
+:3D1	LDA	#0
+	STA	ActiveTut	;Say tutorial is active
+	LDA	#HLPTutor
+	BNE	:3B3
+
+:4	TYA
+	CMP	#$E0
+	BCC	:4A
+	AND	#$DF	;Convert to Uppercase
+:4A	STA	:TMP
+	LDX	#0
+:5	LDA	:FCTNS,X
+	BEQ	:6	;All done
+	CMP	:TMP
+	BEQ	:10
+	INX
+	BNE	:5	;Always
+:6	JMP	:1	;Unknown keys do nothing for now
+:10	LDA	:FCTX,X
+	PHA
+	JSR	KillAll
+	PLA
+	JSR	CTXHLP
+	JMP	:0
+
+:CTXBASL	DS	2
+:CTXCV	DS	1
+:CTXCH	DS	1
+:TMP	DS	1
+:CtxASav	DS	1
+:CtxXSav	DS	1
+:CtxYSav	DS	1
+
+:FCTNS	ASC	"ABCDE"
+	ASC	"FGHIJ"
+	ASC	"KLMNO"
+	ASC	"PQRST"
+	ASC	"UVWXY"
+	ASC	"Z,. "
+	ASC	"?/,"
+	DFB	UPARO,DNARO,LFTARO
+	DFB	RTARO,TAB,0
+
+:FCTX	DFB	HLPaaA,HLPaaB,HLPaaC,HLPaaD,HLPaaE
+	DFB	HLPaaF,HLPaaG,HLPaaH,HLPaaI,HLPaaJ
+	DFB	HLPaaK,HLPaaL,HLPaaM,HLPaaN,HLPaaO
+	DFB	HLPaaP,HLPaaQ,HLPaaR,HLPaaS,HLPaaT
+	DFB	HLPaaU,HLPaaV,HLPaaW,HLPaaX,HLPaaY
+	DFB	HLPaaZ,HLPIncDec,HLPIncDec,HLPEditKeys
+	DFB	HLPAbout,HLPAbout,HLPCursor,HLPCursor
+	DFB	HLPCursor,HLPCursor,HLPCursor
+	DFB	HLPCursor,HLPCursor
+
+KWAIT	STA	STRB
+:1	LDA	KBD
+	BPL	:1
+	STA	STRB
+	CMP	#$81
+	BNE	:2
+	JMP	$FF69
+:2	CMP	#"H"
+	BNE	:3
+	CMP	#"h"
+	BNE	:3
+	JSR	DUMP
+	JMP	KWAIT
+:3	RTS
+
+KillAll	JSR	KILLWIN
+	BPL	KillAll
+	RTS
+
+KILLWIN
+	LDA	WINNUM
+	BPL	:0
+	RTS
+:0	ASL
+	ASL
+	ASL	;*8
+	PHA
+	TAX
+	LDA	WinList,X
+	STA	WinBuf
+	LDA	WinList+1,X
+	STA	WinBuf+1
+	LDY	#0
+:1	LDA	WinList+2,X
+	STA	PPARMS+1,Y
+	INX
+	INY
+	CPY	#4
+	BNE	:1
+	JSR	SetTxt
+	LDA	#2
+	STA	PPARMS
+	JSR	WSTUFF2	;Restore screen
+	PLA
+	TAX
+	LDA	WinList,X
+	STA	WinBuf
+	LDA	WinList+1,X
+	STA	WinBuf+1
+	DEC	WINNUM
+	RTS
+
+NEWWIN
+	LDY	#5
+	JSR	GETPARMS
+	LDA	PPARMS
+	STA	:FMT
+	INC	WINNUM
+	LDA	WINNUM
+	ASL
+	ASL
+	ASL	;*8
+	TAX
+	LDA	WinBuf
+	STA	WinList,X
+	LDA	WinBuf+1
+	STA	WinList+1,X
+	LDY	#0
+:4	LDA	PPARMS+1,Y
+	STA	WinList+2,X
+	INX
+	INY
+	CPY	#4
+	BNE	:4
+	JSR	SetTxt
+; LDA #1
+; STA PPARMS
+; JSR WSTUFF2 ;Save background
+; LDA #3
+; STA PPARMS
+; JSR WSTUFF2 ;Clear backround
+	LDA	#4	;Save and clear background
+	STA	PPARMS
+	JSR	WSTUFF2
+	LDY	TopLeftY	;Top of Box
+	JSR	WINSETCV
+	LDA	#$20
+	LDY	TopLeftX
+:1	INY
+	JSR	STORCHAR
+	INY
+	CPY	BotRtX
+	DEY
+	BCC	:1	;Always
+
+	LDY	BotRtY	;Bottom of Box
+	JSR	WINSETCV
+	LDA	#$20
+	LDY	TopLeftX
+:2	INY
+	JSR	STORCHAR
+	INY
+	CPY	BotRtX
+	DEY
+	BCC	:2
+
+	LDY	TopLeftY	;Sides of Window
+	STY	:TMP
+	INC	:TMP
+:3	LDY	:TMP
+	JSR	WINSETCV
+	LDY	TopLeftX
+	LDA	#'Z'
+	JSR	STORCHAR
+	LDY	BotRtX
+	LDA	#'_'
+	JSR	STORCHAR
+	INC	:TMP
+	LDA	:TMP
+	CMP	BotRtY
+	BCC	:3
+	RTS
+:TMP	DS	1
+:FMT	DS	1
+
+SetTxt
+	LDA	TopLeftX
+	STA	WLEFT
+	INC	WLEFT
+	INC	WLEFT
+	LDA	BotRtX
+	SEC
+	SBC	TopLeftX
+	STA	WIDTH
+	DEC	WIDTH
+	DEC	WIDTH
+	LDA	TopLeftY
+	STA	WTOP
+	INC	WTOP
+	LDA	BotRtY
+	SEC
+	SBC	TopLeftY
+	STA	WLINES
+	DEC	WLINES
+	RTS
+
+WINNUM	DS	1	;Highest window #
+WinList	DS	10*5	;5 bytes per window
+
+
+BOXIT2	LDX	PPARMS
+	LDY	PPARMS+1
+	DEY
+	JSR	WINXY
+	JSR	MOUSEON
+	LDX	PPARMS+2
+	LDA	#"L"	;Top
+	JSR	COUT2B
+	LDA	PPARMS+3
+	CLC
+	ADC	PPARMS+1
+	TAY
+	LDX	PPARMS
+	JSR	WINXY
+	LDX	PPARMS+2
+	LDA	#"L"	;Bottom
+	JSR	COUT2B
+	LDY	PPARMS+1
+	DEY
+	STY	OURCV
+	STY	CV
+:2	JSR	VTAB
+	LDX	PPARMS
+	DEX
+	STX	CH
+	STX	OURCH
+	LDA	#"Z"	;Left side of box
+	JSR	COUT
+	LDA	PPARMS+2
+	CLC
+	ADC	PPARMS
+	TAX
+	STX	CH
+	STX	OURCH
+	LDA	#"_"	;Right side of box
+	JSR	COUT
+	LDA	PPARMS+3
+	CMP	#22
+	BNE	:2A
+	LDY	CV
+	DEY
+	CPY	PPARMS+3
+	BNE	:2
+	BEQ	:0
+:2A	INC	CV
+	INC	OURCV
+	CLC
+	ADC	PPARMS+1
+	CMP	CV
+	BNE	:2
+:0	JSR	MOUSEOFF
+	RTS
+
+WINXY	JSR	WINSETCV
+	STX	CH
+	STX	OURCH
+	RTS
+
+WINSETCV	STY	CV
+	STY	OURCV
+	JSR	VTAB
+	RTS
+
+WSTUFF
+	LDY	#5
+	JSR	GETPARMS
+WSTUFF2	LDA	PPARMS
+	ASL
+	TAX
+	LDA	BOXLOCS-2,X
+	STA	:BOXSUB+1
+	LDA	BOXLOCS-1,X
+	STA	:BOXSUB+2
+	LDX	BotRtY
+:1	CPX	TopLeftY
+	BCC	:9
+	TXA
+	ASL
+	TAY
+	LDA	BASLS,Y
+	STA	DESTBASL
+	LDA	BASLS+1,Y
+	STA	DESTBASL+1
+	LDY	TopLeftX
+:4	TYA
+	PHA
+	LSR
+	STA	WinYSav
+	TAY
+	LDA	TXTPAGE2
+	BCC	:BOXSUB
+	LDA	TXTPAGE1
+:BOXSUB	JSR	$0000
+:6	LDA	TXTPAGE1
+	PLA
+	TAY
+	INY
+	CPY	BotRtX
+	BCC	:4
+	BEQ	:4
+	DEX
+	BPL	:1
+:9	RTS
+
+BOXLOCS	DA	SAVEBOX,RESTBOX,CLRBOX,SaveNClr
+
+RESTBOX	LDY	#0
+	LDA	(WinBuf),Y
+	LDY	WinYSav
+	STA	(DESTBASL),Y
+	INCW	WinBuf
+:1	RTS
+
+SAVEBOX	LDA	(DESTBASL),Y
+	LDY	#0
+	STA	(WinBuf),Y
+	INCW	WinBuf
+:1	RTS
+
+CLRBOX	LDA	#$A0
+	STA	(DESTBASL),Y
+	RTS
+
+SaveNClr	LDA	(DESTBASL),Y
+	PHA
+	LDA	#$A0
+	STA	(DESTBASL),Y
+	LDY	#0
+	PLA
+	STA	(WinBuf),Y
+	INCW	WinBuf
+	RTS
+
+WinYSav	DS	1
+
+BASLS	DA	$400,$480,$500,$580,$600,$680,$700,$780
+	DA	$428,$4A8,$528,$5A8,$628,$6A8,$728,$7A8
+	DA	$450,$4D0,$550,$5D0,$650,$6D0,$750,$7D0
+
+
+********************************
+*                              *
+*         Word Wrapping        *
+*      Printing Functions      *
+*                              *
+********************************
+
+*
+* Format for calling
+*
+*        POINT WPTR;MessageText
+*        JSR   TXTOUT
+*
+* Call WRAPIT to print from cursor position
+*
+
+TXTOUT	LDY	WTOP
+	JSR	WINSETCV
+	JSR	WRAPIT
+	RTS
+
+WRAPIT	LDA	WLEFT
+	STA	OURCH
+	STA	CH
+:0	LDY	#0
+:1	LDA	(WPTR),Y
+	BEQ	:DONE
+	CMP	#" "
+	BEQ	:SP
+	CMP	#$8D
+	BEQ	:SP
+	INY
+	TYA
+	CLC
+	ADC	OURCH
+	SEC
+	SBC	WLEFT
+	CMP	WIDTH
+	BCC	:1
+	JSR	NL
+:SP	JSR	PRWORD
+	JMP	:1
+:DONE	JSR	PRWORD
+:4	RTS
+
+NL	INC	OURCV
+	LDA	OURCV
+	TAY
+	SBC	WTOP
+	CMP	WLINES
+	BCS	:5
+	JSR	WINSETCV
+	LDA	WLEFT
+	STA	OURCH
+	CLC
+:5	RTS
+
+PRWORD	LDY	#0
+:1	LDA	(WPTR),Y
+	BEQ	:3
+	CMP	#" "
+	BEQ	:2
+	CMP	#$8D
+	BNE	:1A
+	JSR	NL
+	JMP	:2A
+:1A	JSR	COUT
+:1B	INC	WPTR
+	BNE	:1
+	INC	WPTR+1
+	BNE	:1	;Always
+:2	JSR	COUT
+:2A	INC	WPTR
+	BNE	:3
+	INC	WPTR+1
+:3	RTS
+
+********************************
+*                              *
+*       Context Sensitive      *
+*         AWP Help File        *
+*      Printing Functions      *
+*                              *
+********************************
+
+CTXHLP	STA	REALCTX
+CTXHLP2	POINT	OPENPN;IDXPN
+	POINT	OPENBUF;HLPBUF
+	MLI	OPEN;POPEN
+	BCC	:1
+	RTS	;Error
+:1	LDA	#0
+	STA	FIMARK+2
+	STA	READLEN+1
+	STDB	READBUF;RBufSave
+	POINT	READBUF;HLPStats
+	LDA	#8
+	STA	READLEN
+	LDA	OPENREF
+	STA	CLOSEREF
+	STA	READREF
+	STA	MARKREF
+	MLI	READ;PREAD	;Read Help Index Stat (8 bytes)
+	BCS	:E
+	POINT	READBUF;CTXPARMS
+	LDA	#0
+	STAT	FIMARK+1
+	LDA	REALCTX
+	STA	FIMARK
+	ASL	FIMARK	; Context * 8
+	ROL	FIMARK+1
+	ASL	FIMARK
+	ROL	FIMARK+1
+	ASL	FIMARK
+	ROL	FIMARK+1
+	MLI	SETMARK;PGSMARK
+	BCS	:E
+:2	MLI	READ;PREAD
+	BCS	:E
+	STDB	CTXADR;FIMARK
+	STDB	CTXLEN;READLEN
+	MLI	CLOSE;PCLOSE
+	BCC	:3
+	BCS	:ERR
+:E	PHA
+	MLI	CLOSE;PCLOSE
+	PLA
+:ERR	SEC
+	RTS
+:3	POINT	OPENPN;HELPPN
+	POINT	READBUF;HLPBUF2
+	MLI	OPEN;POPEN
+	BCS	:ERR
+	LDA	OPENREF
+	STA	READREF
+	STA	CLOSEREF
+	STA	MARKREF
+	MLI	SETMARK;PGSMARK
+	BCS	:E
+	MLI	READ;PREAD
+	BCS	:E
+	MLI	CLOSE;PCLOSE
+	BCS	:ERR
+	INC	CTXCOL
+	INC	CTXCOL
+	INC	CTXCOL
+	LDA	CTXX
+	AND	CTXY
+	CMP	#$FF
+	BEQ	:10	;Calculate X & Y for centered window
+	LDA	CTXX
+	STA	:X
+	LDA	CTXY
+	STA	:Y
+	JMP	:11
+:10	LDA	#24
+	SEC
+	SBC	CTXROW
+	LSR
+	STA	:Y
+	LDA	#80
+	SEC
+	SBC	CTXCOL
+	LSR
+	STA	:X
+
+:11	CLC
+	LDA	:X
+	ADC	CTXCOL
+	STA	:W
+	CLC
+	LDA	:Y
+	ADC	CTXROW
+	STA	:H
+	JSR	NEWWIN
+	DS	1	;Format
+:X	DS	1	;Columns
+:Y	DS	1	;Rows
+:W	DS	1	;Width
+:H	DS	1	;Height
+
+AWPMSG	STDB	READBUF;WPTR
+	LDA	#0
+	STA	:MSTAT
+:00	LDY	WTOP
+:0	JSR	WINSETCV
+:0B	LDA	WLEFT
+	STA	OURCH
+	STA	CH
+	LDY	#1
+	LDA	(WPTR),Y
+	BEQ	:0A
+	JMP	:10	;Do page formatting commands
+:0A	LDY	#0
+	LDA	(WPTR),Y
+	STA	:LEN
+	INC	:LEN
+	LDY	#2
+	LDA	(WPTR),Y
+	AND	#$7F
+	BEQ	:3
+	TAX
+	JSR	PRBL2
+:3	LDY	#3
+:1	INY
+	LDA	(WPTR),Y
+	CMP	#$20
+	BCC	:12	;Control char, do mousetext
+	LDX	:MSTAT
+	BEQ	:6	;No MouseText
+	CMP	#'@'
+	BCC	:6
+	CMP	#'_'+1
+	BCS	:6
+	PHA
+	JSR	MOUSEON
+	PLA
+	JSR	COUT
+	JSR	MOUSEOFF
+	JMP	:7
+:6	ORA	#$80
+	JSR	COUT
+:7	CPY	:LEN
+	BCC	:1
+	INY
+	TYA
+:8	CLC
+	ADC	WPTR
+	STA	WPTR
+	BCC	:2
+	INC	WPTR+1
+:2	INC	OURCV
+	LDA	OURCV
+	TAY
+	SEC
+	SBC	WTOP
+	CMP	WLINES
+	BCC	:0
+	CLC
+	RTS
+:10	TAX	;Page formatting commands
+	LDA	#2
+	CPX	#$D0
+	BEQ	:8
+	CLC
+	ADC	WPTR
+	STA	WPTR
+	BCC	:11
+	INC	WPTR+1
+:11	CPX	#$EC	;Page header
+	BEQ	:30
+	JMP	:0B
+:12	CMP	#1
+	BEQ	:16	;Bold on
+	CMP	#2
+	BEQ	:17	;Bold off
+	CMP	#7
+	BEQ	:20	;Underline on (MOUSE ON)
+	CMP	#8
+	BEQ	:25	;Underline off (MOUSE OFF)
+	CMP	#16
+	BEQ	:26	;Special Code 1
+:12a	PHA
+	JSR	MOUSEON
+	PLA
+	LDX	#MsAWKS-MsCh-1
+:13	CMP	MsAWKS,X
+	BEQ	:14
+	DEX
+	BPL	:13
+	JMP	:14B
+	BRK
+:14	LDA	MsCh,X
+	JSR	COUT
+:14B	JSR	MOUSEOFF
+:15	JMP	:7
+:16	LDA	#0
+	STA	:6+1
+	BEQ	:15
+:17	LDA	#$80
+	STA	:6+1
+	BNE	:15
+
+:20	LDA	#1
+	STA	:MSTAT	;MouseText on
+	JMP	:7
+:25	LDA	#0	;MouseText off
+	STA	:MSTAT
+	JMP	:7
+:26	LDA	BBVERNUM
+	JSR	PVER
+	JMP	:7
+
+:30	LDY	WTOP
+	DEY
+	JSR	WINSETCV
+	LDY	#0
+	LDA	(WPTR),Y
+	STA	:LEN
+	INC	:LEN
+	LDY	#3
+:31	INY
+	LDA	(WPTR),Y
+	JSR	COUT
+	CPY	:LEN
+	BCC	:31
+	INY
+	TYA
+	CLC
+	ADC	WPTR
+	STA	WPTR
+	BCC	:32
+	INC	WPTR+1
+:32	JMP	:00
+
+:LINES	DS	1
+:LEN	DS	1
+:MSTAT	DS	1	;MouseText status
+
+MsCh	ASC	"A"
+MsAWKS	HEX	0A
+
+MYCTX	DS	1
+REALCTX	DS	1
+
+MYBRK
+	PHA	;Save A
+	PHP	;Save P
+	LDA	BRKFLAG
+	BNE	:2
+	PLP
+	PLA
+	JMP	DIE	;Broke while doing BRK, die
+:2	TXA
+	PHA	;Save X
+	TYA
+	PHA	;Save Y
+	TSX
+	TXA	;Print SP
+	LDX	#25
+	CLC
+	ADC	#4	;SP + 4
+	JSR	BRKBYTE
+	PLA	;Get Y from stack
+	LDX	#19
+	JSR	BRKBYTE
+	PLA	;Get X from stack
+	LDX	#14
+	JSR	BRKBYTE
+	PLA	;Get P from stack
+	LDX	#30
+	JSR	BRKBYTE
+	PLA	;Get A from stack
+	LDX	#9
+	JSR	BRKBYTE
+
+	LDA	#0	;Say we're doing a BRK
+	STA	BRKFLAG
+	LDA	OURCH
+	STA	:BRKCH
+	LDA	OURCV
+	STA	:BRKCV
+	STDB	BASL;:BRKBASL
+	JSR	SAVEWIN
+	JSR	SETTXT
+
+	LDX	#0
+	JSR	GETBRKPC
+
+	WIN	0;15;4;50;10
+	JSR	SETNORM
+	POINT	WPTR;BRKMSG
+	JSR	TXTOUT
+	JSR	KWAIT
+	JSR	KILLWIN
+	JSR	RESTWIN
+	LDA	:BRKCH
+	JSR	SETCH
+	LDA	:BRKCV
+	JSR	SETCV
+	STDB	:BRKBASL;BASL
+	LDA	#$FF
+	STA	BRKFLAG
+	JMP	(:RTN)
+
+:BRKCV	DS	1
+:BRKCH	DS	1
+:BRKBASL	DS	2
+
+:RTN
+BRKRTN	DS	2	;Filled in later
+ORIGBRK	DS	2	;Original BRK vector
+BRKFLAG	DS	1	;Zero if handling a BRK
+
+
+GETBRKPC	LDA	PCL
+	SEC
+	SBC	#2	;Set PCL/H to point to
+	STA	PCL	;to actual point
+	LDA	PCH	;of the BRK instruction
+	SBC	#0
+	STA	PCH
+	JSR	BRKBYTE	;Put address into
+	LDA	PCL
+
+BRKBYTE	PHA
+	LSR
+	LSR
+	LSR
+	LSR
+	JSR	:CH
+	PLA
+
+:CH	AND	#$F
+	ORA	#$B0
+	CMP	#$BA
+	BCC	:1
+	ADC	#6
+:1	STA	BRKLOC,X
+	INX
+	RTS
+
+DIE	JSR	SETTXT
+	JSR	HOME
+	LDX	#DEATHLOC-BRKLOC
+	JSR	GETBRKPC
+	PRAT	20;10;DEATH
+	PRAT	26;9;DEATH2
+:1	JMP	:1
+
+BRKMSG	HEX	8D
+	ASC	"I am experiencing technical difficulties at $"
+BRKLOC	ASC	"0000.  A=00 X=00 Y=00 SP=00 P=00 "
+	ASC	"Please report the error, your machine "
+	ASC	"and other hardware you were using.  "
+	ASC	"Also, please explain the steps "
+	ASC	"to recreate it."8d8d
+	ASC	"      Thank You,  The Management"
+	HEX	00
+
+DEATH	ASC	"We seem to have a serious problem at $"
+DEATHLOC	ASZ	"0000."
+DEATH2	ASZ	"Please open an Issue on the GitHub project page."
+
+HelpLess	HEX	8D
+	ACR	"Getting errors trying to read"
+	ASZ	"   index and/or help file."

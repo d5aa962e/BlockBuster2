@@ -1,1 +1,1506 @@
-ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªª                                                 ªª                Âìïãë Âõóôåò ²®ø                 ªª        Ôèå Îåøô Çåîåòáôéïî Âìïãë Åäéôïò         ªª                                                 ªª            Ïòéçéîáììù ÷òéôôåî éî ôèå            ªª               ±¹¸µ­±¹¹² ôéíåæòáíå®              ªª                                                 ªª                 Ãïäå Òåðïóéôïòù                 ªª    èôôðóº¯¯çéôèõâ®ãïí¯äµáá¹¶²å¯ÂìïãëÂõóôåò²     ªª                                                 ªª       ÂìïãëÂõóôåò² âù çéôèõâ®ãïí¯äµáá¹¶²å       ªª    éó ìéãåîóåä õîäåò ÃÃ ÂÙ­ÓÁ ´®°® Ôï öéå÷ á    ªª           ãïðù ïæ ôèéó ìéãåîóå¬ öéóéô           ªª  èôôðº¯¯ãòåáôéöåãïííïîó®ïòç¯ìéãåîóåó¯âù­óá¯´®°¯ ªª                                                 ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªª                              ªª        Æéìåº ÅÄÉÔÃ®Ó         ªª                              ªª           Ãïîôåîôó           ªª           ­­­­­­­­           ªª                              ªª ­ Æéîä Îåøô Éîäåø Âìïãë      ªª   ïò Ôòáãë¯Óåãôïò Ìéóô       ªª ­ ÏðÃïäå Ìéóôéîç             ªª ­ Óåáòãè Æõîãôéïîáìéôù       ªª ­ ÁÓÃÉÉ Íïäå Ôïççìå          ªª                              ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªª Æéîä îåøô Éîäåø Âìïãë ïò Ôòáãë¯Óåãôïò Ìéóôª Ìáóô Ô¯Ó ðáéò ïò ìáóô âìïãë ïî öïìõíå éî ÆÉÁÕØªÉÎÄÅØÂÌË ÃÔØ ÈÌÐááÉ ÌÄÁ ÆÉÌÆÌÇ ÂÍÉ º° ÊÓÒ ÓÁÖÃÕÒÌÏÃ »Ãáî§ô æéîä ÉÂ§ó ïò Ô¯ÓÌ§ó ÐÒÁÔ °»²³»ÎÆÉÌÁÃÔ » ÷èåî æéìå ïðåî ÊÍÐ ºÎÃÄ²º° ÌÄÁ ÏÓÔÙÐÅ ÂÅÑ ºÉÂ »ÐòïÄÏÓ¬ æéîä Éîäåø Âìïãëó ÃÍÐ £± ÂÎÅ ºÉÂ ÊÍÐ ºÔÓÌºÎÃÄ ÊÓÒ ÓÁÖÃÕÒÌÏÃ ÐÒÁÔ °»²³»ÃÁÎÔÄÏ »Ãáî ïîìù äï æïò ÄÏÓ ¦ ÐòïÄÏÓºÎÃÄ² ÊÓÒ ÃÌÒÅÏÌ ÃÔØ ÈÌÐÐÄÎïôåó ÊÓÒ ÂÕÚÚ ÊÓÒ ×ÁÉÔ´ ÊÓÒ ÃÌÅÁÒ²³ ÊÓÒ ÒÅÓÔÃÌÏÃ ÊÍÐ ÅÇÅÔËÙºÉÂ ÌÄÁ £° ÓÔÁ ÅÎÔÆÌÇ »Ôõòî ïææ åîôòù æìáç ÐÏÉÎÔ ÏÌÂÕÆ»ÏÌÌÉÓÔ ÌÄÁ ÕÎÉÔÎÕÍ ÓÔÁ ÏÌÕÎÉÔ ÍÌÉ ÏÎÌÉÎÅ»ÐÏÎÌÉÎÅ ÂÃÓ ºÅÒÒÏÒ ÌÄÁ ÏÌÌÉÓÔ ÂÅÑ ºÎÃÄ »Îïô á ÐòïÄÏÓ öïìõíå ÁÎÄ £¤Æ ÔÁØ ÉÎØ ÓÔØ ÏÌÌÉÓÔ­± ÌÄÁ £§¯§ ÓÔÁ ÏÌÌÉÓÔ ÐÏÉÎÔ ÆÉÐÎ»ÏÌÌÉÓÔ­± ÌÄÁ £¤Á ÓÔÁ ÐÆÉÌÉÎÆÏ ÍÌÉ ÇÆÉÌÉÎÆÏ»ÐÆÉÌÉÎÆÏ ÂÃÓ ºÅÒÒÏÒ ÐÏÉÎÔ ÔÅÍÐÐÔÒ»ÂÌËÂÕÆº± ÊÓÒ ÉÎÃÒÂÌË ÌÄÁ ÂÌÏÃË«± ÃÍÐ ÆÉÂÌËÓ«± ÂÎÅ º³ ÌÄÁ ÂÌÏÃË ÃÍÐ ÆÉÂÌËÓ ÂÅÑ º´ »Åîä ïæ öïìõíå òåáãèåäº³ ÊÓÒ ÐÒÂÌËÎÕÍ ÊÓÒ ËÂÄÅÄÉÔ ÃÍÐ £¤¹Â ÂÅÑ ºÙÅÓ ÊÓÒ ÂÌËÒÅÁÄ ÂÃÓ ºÅÒÒÏÒ ÊÓÒ ÉÓÉÂ »Éó éô áîä éîäåø âìïãë¿ ÂÅÑ ºÙÅÓ ÂÎÅ º± »Áì÷áùóºÙÅÓ ÊÓÒ ÂÁËÕÐ ÓÔÁ ÓÔÒÂ ÊÍÐ ÄÏÓÃÒÎºÅÒÒÏÒ ÊÓÒ ÅÄÉÔÅÒÒ ÊÍÐ ÅÇÅÔËÙºÔÓÌ ÌÄÁ £° ÓÔÁ ÅÎÔÆÌÇ »Ôõòî ïææ åîôòù æìáç ÊÓÒ ÒÄÖÔÏÃ ÂÃÓ ºÅÒÒÏÒ ÌÄÁ ÖÔÏÃÂÕÆ«¤³´ ÓÔÁ ÆÉÁÕØ »Ôòáãëó ðåò äéóë ÌÄÁ ÖÔÏÃÂÕÆ«¤³µ ÓÔÁ ÆÉÁÕØ«± »Óåãôïòó ðåò ôòáãë ÐÏÉÎÔ ÔÅÍÐÐÔÒ»ÂÌËÂÕÆº² ÊÓÒ ÉÎÃÒÂÌË ÊÓÒ ÐÒÂÌËÎÕÍ ÊÓÒ ËÂÄÅÄÉÔ ÃÍÐ £¤¹Â ÂÅÑ ºÙÅÓ ÊÓÒ ÒÄÓÅÃÔ ÂÃÓ ºÅÒÒÏÒ ÊÓÒ ÉÓÔÓÌ ÂÅÑ ºÙÅÓ ÂÎÅ º² »Áì÷áùóº´ ÊÓÒ ÓÁÖÃÕÒÌÏÃ ÐÒÁÔ ³¸»²³»ÅÏÖÒ ÊÓÒ ÂÕÚÚ ÃÔØ ÈÌÐÅîäïÓãè ÊÓÒ ÍÙËÅÙÉÎ ÇÏÔÏ ³¸»²³ ÊÓÒ ÃÌÒÅÏÌ ÊÓÒ ÒÅÓÔÃÌÏÃ ÊÓÒ ÄÅÃÒÂÌË ÊÓÒ ÐÒÂÌËÎÕÍ ÊÍÐ ÅÇÅÔËÙªª Êõíð ôï á âìïãë¬ äáôá âìïãë¬ª ïò æéìå âùôåªÊÕÍÐ² ÊÓÒ ÓÁÖÃÕÒÌÏÃ ÃÔØ ÈÌÐááÊ ÐÒÁÔ °»²³»Ê² ÊÓÒ ÃÌÒÅÏÌ ÐÏÉÎÔ ÃÈÐÔÒ»ÂÄÆ ÌÄØ £± ÊÓÒ ÃÈÏÏÓÅ ÐÈÁ ÊÓÒ ÃÌÅÁÒ²³ ÊÓÒ ÒÅÓÔÃÌÏÃ ÐÌÁ ÂÅÑ º´ ÃÍÐ £± »ÐÔÒ¬ ÐÔÒ«± ÂÅÑ ºÂÌË ÃÍÐ £² »ÐÔÒ¬ ÐÔÒ«¤±°° ÂÅÑ ºÄÂÌË ÃÍÐ £³ ÂÅÑ ºÆÉÌÐÏÓ »Áóë æïò ìïãáôéïî ÊÍÐ ºÅÏÆ »Åîä ïæ æéìå¯öïìõíåºÂÌË ÌÄÙ £° »Òåáä âìïãë ÓÔÙ ÂÉÇÂÌÏÃË«± ÌÄÁ ¨ÐÔÒ©¬Ù »ïò Ôòáãë¯Óåãôïò áô ÐÔÒ¬ ÐÔÒ«± ÓÔÁ ÂÌÏÃË ÓÔÁ ÔÒÁÃË ÓÔÁ ÂÉÇÂÌÏÃË ÉÎÙ ÌÄÁ ¨ÐÔÒ©¬Ù ÓÔÁ ÂÌÏÃË«± ÓÔÁ ÓÅÃÔÏÒ ÊÍÐ ÂÌËÒÄºÄÂÌË ÌÄÁ ÐÔÒ«± »Íõóô âå éî ±óô èáìæ ïæ âìïãë ÓÅÃ ÓÂÃ £¾ÂÌËÂÕÆ ÂÅÑ ºÄÂÌË± ÊÓÒ ÂÕÚÚ ÃÔØ ÈÌÐÊíðÏðôº´ ÊÍÐ ÅÇÅÔËÙºÄÂÌË± ÌÄÙ £° »Òåáä äáôá âìïãë ÌÄÁ ¨ÐÔÒ©¬Ù »é®å® ôèå âìïãë áô ÓÔÁ ÂÌÏÃË »ÐÔÒ¬ ÐÔÒ«¤±°° ÉÎÃ ÐÔÒ«± ÌÄÁ ¨ÐÔÒ©¬Ù ÓÔÁ ÂÌÏÃË«± ÄÅÃ ÐÔÒ«± ÊÍÐ ÂÌËÒÄºÆÉÌÐÏÓ ÌÄÁ ÆÉÌÆÌÇ »Áâóïìõôå æéìå ðïóéôéïî ÂÐÌ º¶ »Ùåó¬ æïììï÷éîç á æéìåºÎÏÆÉÌ ÊÓÒ ÓÁÖÃÕÒÌÏÃ ÐÒÁÔ °»²³»ÎÅÅÄÆÉÌ ÊÓÒ ÃÌÒÅÏÌ ÊÓÒ ÂÕÚÚ ÃÔØ ÈÌÐÊíðÏðô ÊÓÒ ÅÒÒÏÒ± ÊÓÒ ÃÌÅÁÒ²³ ÊÓÒ ÒÅÓÔÃÌÏÃ ÊÍÐ ÅÇÅÔËÙº¶ ÊÓÒ ÓÁÖÃÕÒÌÏÃ ÊÓÒ ÃÌÅÁÒ²³ ÐÒÁÔ °»²³»×ÈÁÔÐÏÓ ÊÓÒ ÏÎÅÂÙÔÅ ÐÈÐ ÊÓÒ ÃÌÅÁÒ²³ ÊÓÒ ÒÅÓÔÃÌÏÃ ÐÌÐ ÂÃÓ º·ºÓÅÔ ÌÄÁ ÎÕÍ«± ÁÎÄ £¤ÆÅ ÓÔÁ ÆÉÍÁÒË«± ÌÄÁ ÎÕÍ«² ÓÔÁ ÆÉÍÁÒË«² ÍÌÉ ÓÅÔÍÁÒË»ÐÇÓÍÁÒË ÂÃÓ ºÅÒÒ ÍÌÉ ÒÅÁÄ»ÐÒÅÁÄ ÂÃÃ º± ÊÓÒ ÅÄÉÔÅÒÒ ÊÍÐ ÅÇÅÔËÙº± ÌÄÁ ÆÉÍÁÒË«² ÌÓÒ ÓÔÁ ÂÌÏÃË«± ÌÄÁ ÆÉÍÁÒË«± ÒÏÒ ÓÔÁ ÂÌÏÃË ÊÓÒ ÎÅØÔÆÉÌ± ÌÄÁ ÎÕÍ ÓÔÁ ×ÏÒËÁÒÅÁ ÌÄÁ ÎÕÍ«± ÁÎÄ £± ÃÌÃ ÁÄÃ £¾ÂÌËÂÕÆ ÓÔÁ ×ÏÒËÁÒÅÁ«± ÊÓÒ ÍÏÖ² ÊÓÒ ÂÁËÕÐ ÊÍÐ ÄÏÓÃÒÎº· ÌÄÁ ÉÎÂÕÆ ÂÎÅ º¸ ÊÍÐ ÄÏÓÃÒÎºµ ÊÍÐ ÅÇÅÔËÙºÅÒÒ ÊÓÒ ÅÄÉÔÅÒÒ ÊÍÐ ÅÇÅÔËÙº¸ ÊÓÒ ÓÁÖÃÕÒÌÏÃ ÐÒÁÔ °»²³»×ÈÁÔÐÏÓ ÐÒÉÎÔ ÂáäÄéçéô«µ ÊÓÒ ×ÁÉÔ´ ÊÓÒ ÒÅÓÔÃÌÏÃ ÊÍÐ ÅÇÅÔËÙºÅÏÆ ÌÄÁ ÆÉÌÆÌÇ ÂÐÌ ºæéìå »Æïììï÷éîç á æéìå ÊÍÐ ºÎÏÆÉÌºæéìå ÍÌÉ ÇÅÔÅÏÆ»ÐÇÓÅÏÆ ÂÃÓ ºÅÒÒ ÌÄØ £²º±° ÌÄÁ ÆÉÅÏÆ¬Ø ÓÔÁ ÎÕÍ¬Ø ÄÅØ ÂÐÌ º±° ÌÄÁ ÎÕÍ ÂÎÅ º±± ÌÄÁ ÎÕÍ«± ÂÎÅ º±² ÄÅÃ ÎÕÍ«²º±² ÄÅÃ ÎÕÍ«±º±± ÄÅÃ ÎÕÍ ÊÍÐ ºÓÅÔÏÐÃÏÄÅ ÌÄÁ ÏÐÆÌÁÇ »Ìéóô ïðãïäåó ÅÏÒ £¤ÆÆ ÓÔÁ ÏÐÆÌÁÇ ÊÓÒ ÐÒÉÍÓÉÚÅ ÊÍÐ ÄÏÓÃÒÎÐÒÉÍÓÉÚÅ ÃÔØ ÈÌÐááÏ ÊÓÒ ÓÁÖÃÕÒÌÏÃ »Ïðãïäåó öéóéâìå ÉÎÃ ×ÎÄ×ÄÔÈ ÇÏÔÏ ·¶»²° ÌÄÁ ÏÐÆÌÁÇ ÂÎÅ º³ ÌÄØ £´ ÊÓÒ ÐÒÂÌ² ÊÍÐ º´º³ ÌÄÁ £¢í¢ ÊÓÒ ÃÏÕÔ ÌÄØ £¢°¢ ÌÄÁ ÉÍÍÓÉÚÅ ÁÎÄ £² ÂÎÅ º± ÉÎØº± ÔØÁ ÊÓÒ ÃÏÕÔ ÌÄÁ £¢ø¢ ÊÓÒ ÃÏÕÔ ÌÄØ £¢°¢ ÌÄÁ ÉÍÍÓÉÚÅ ÒÏÒ ÂÃÓ ºµ ÉÎØºµ ÔØÁ ÊÓÒ ÃÏÕÔ ÌÄÁ ÅÍÏÄÅ ÂÐÌ º´ ÌÄÁ £¤´° »Æïòãå ìï áóãéé ÷èåî ÓÔÁ ÅÍÏÄÅ »÷å ôõòî ïî ôèå ïðãïäåóº´ ÊÓÒ ÒÅÓÔÃÌÏÃº² ÒÔÓÐÒ¸ÏÐÓ ÓÔÄÂ ÐÔÒ»¤³Á »Ðòéîô ¸ éîóôòõãôéïîó ÊÓÒ ÓÁÖÃÕÒÌÏÃ ÌÄÁ ×ÎÄ×ÄÔÈ ÐÈÁ ÌÄÁ £·² ÓÔÁ ×ÎÄ×ÄÔÈ ÇÏÔÏ °»± ÌÄÁ £¸º± ÐÈÁ ÊÓÒ ÃÒÏÕÔ ÌÄØ £±µ ÊÓÒ ÐÒÂÌ² ÊÓÒ ÉÎÓÔÄÓÐ ÊÓÒ ¤Æ¹µ³ ÓÔÁ ¤³Á ÓÔÙ ¤³Â ÊÓÒ ÃÌÒÅÏÌ ÐÌÁ ÓÅÃ ÓÂÃ £± ÂÎÅ º± ÐÌÁ ÓÔÁ ×ÎÄ×ÄÔÈ ÊÓÒ ÒÅÓÔÃÌÏÃ ÒÔÓÉÎÓÔÄÓÐ ÊÓÒ ÉÎÓÄÓ± ÌÄÙ £°º± ÌÄÁ ¨ÐÃÌ©¬Ù ÊÓÒ ÐÒÂÙÔ ÌÄØ £± »Ðòéîô ± âìáîëº² ÊÓÒ ÐÒÂÌ² ÃÐÙ ÌÅÎÇÔÈ ÉÎÙ ÂÃÃ º± ÌÄØ £³ ÃÐÙ £´ ÂÃÃ º² ÊÓÒ ÐÒÂÌ² ÌÄØ £³ªª Ðòéîô Íîåíïîéãª ÌÄÙ £³º³ ÌÄÁ £¶º´ ÁÓÌ ÒÍÎÅÍ ÒÏÌ ÌÍÎÅÍ ÒÏÌ ÂÐÌ º´ ÊÓÒ ÃÏÕÔ ÄÅÙ ÂÎÅ º³ ÌÄÙ ÌÅÎÇÔÈ ÂÅÑ º¸ »Óéîçìå âùôå ïðãïäå ÌÄÁ ÆÏÒÍÁÔÌ ÁÎÄ £¤°´ ÂÎÅ º¹ »Ùåó¬ íïöåó ïò òåìáôéöåóªª Ðòéîô îïòíáì ïðåòáîäóª ÌÄØ £³ ÊÓÒ ÐÒÂÌ² ÌÄØ £±± »±² æïòíáô âéôóºµ ÁÓÌ ÆÏÒÍÁÔÌ ÒÏÌ ÆÏÒÍÁÔÈ ÂÃÃ º· ÌÄÁ ÆÍÔÓÔÒ¬Ø ÊÓÒ ÃÏÕÔ ÃÍÐ £¢£¢ ÂÎÅ ºµµ ÂÉÔ ÉÍÍÓÉÚÅ ÂÐÌ º· ÊÓÒ ÃÏÕÔ »Ðòéîôó á ££ æïò ìïîç îõíâåòóºµµ ÃÍÐ £¢¤¢ ÂÎÅ º·º¶ ÌÄÁ ¨ÐÃÌ©¬Ù ÊÓÒ ÐÒÂÙÔ ÄÅÙ ÂÎÅ º¶º· ÄÅØ ÂÐÌ ºµº¸ ÒÔÓªª Óðåãéáì ãáóåóªº¹ ÌÄØ £³ ÊÓÒ ÐÒÂÌ² ÌÄÁ £¢¤¢ ÊÓÒ ÃÏÕÔ ÌÄÁ ÆÏÒÍÁÔÌ ÁÎÄ £¤°¸ »îå÷ ÂÎÅ º±± »îå÷» ÂÍÉ º±± »ÍÖÎ ¦ ÍÖÐ ÄÅÙ »Äéóôéîçõéóè òåìáôéöåó ÂÎÅ º±° »±¶­âéô òåìáôéöåªª ¸­âéô òåìáôéöåª ÉÎÙ »¸­âéô òåìáôéöå ÌÄÁ ¨ÐÃÌ©¬Ù »Çåô ¸­âéô ïææóåôª Ôèå éó ÒÅÌÁÄÒ æòïí ôèå íïîéôïò ÌÄØ ÆÉÌÆÌÇ ÂÍÉ º¹¹ ÐÈÁ »Äïéîç á æéìå ÓÅÃ ÌÄÁ ÐÃÈ ÓÂÃ £¾ÂÌËÂÕÆ ÒÏÒ ÐÈÐ ÌÄÁ ÂÌÏÃË ÁÓÌ ÐÌÐ ÁÄÃ ÆÉÁÕØ«± »Äïéîç æéìå¬ õóå ìïáä áääòåóó ÊÍÐ º¹Æº¹¹ ÌÄØ ÏÓÔÙÐÅ ÃÐØ £² »Íåíïòù¿ ÂÎÅ º¹Á »Îï ÌÄÙ ÍÅÍÐÁÇÅ«± »Ùåó¬ õóå ôèéó ðáçå ÊÍÐ º¹Âº¹Á ÐÈÁ ÌÄÁ ÐÃÈ ÓÅÃ ÓÂÃ £¾ÂÌËÂÕÆº¹Æ ÔÁÙ ÐÌÁ ÓÅÃº¹Â ÔÁØ ÂÐÌ º¹Ã ÄÅÙº¹Ã ÁÄÃ ÐÃÌ ÂÃÃ º¹Ä ÉÎÙº¹Ä ÔÁØ ÉÎØ ÂÎÅ º¹Å ÉÎÙº¹Å ÔÙÁ ÊÓÒ ÐÒÂÙÔ ÔØÁ ÊÍÐ ÐÒÂÙÔªª ±¶­âéô òåìáôéöåªº±° ÌÄÁ ¨ÐÃÌ©¬Ù »Ìï÷ âùôå ïæ ïææóåô ÓÔÁ ÆÏÒÍÁÔÌ ÉÎÙ ÌÄÁ ¨ÐÃÌ©¬Ù »Èé âùôå ïæ ïææóåô ÓÔÁ ÆÏÒÍÁÔÈ ÊÓÒ ÐÃÁÄÊ ÃÌÃ ÁÄÃ ÆÏÒÍÁÔÌ ÔÁØ ÔÙÁ ÁÄÃ ÆÏÒÍÁÔÈ ÊÍÐ ÐÒÎÔÁØªª ÍÖÎ ¦ ÍÖÐªº±± ÌÄÁ ¨ÐÃÌ©¬Ù ÊÓÒ ÐÒÂÙÔ ÌÄÁ £¤ÁÃ »Ãïííá ¨ñõïôåä ãïííá äïåóî§ô ÷ïòë éî Íåòìéî³²© ÊÓÒ ÃÏÕÔ ÌÄÁ £¢¤¢ ÊÓÒ ÃÏÕÔ ÄÅÙ ÌÄÁ ¨ÐÃÌ©¬Ù ÊÍÐ ÐÒÂÙÔÉÎÓÄÓ± ÌÄÁ ÍÅÍÐÁÇÅ«± ÌÄÙ ÏÓÔÙÐÅ ÃÐÙ £² »Äïéîç íåíïòù¿ ÂÅÑ º± »Ùåó ÌÄÁ ÆÉÌÆÌÇ »Äïéîç á æéìå¿ ÂÍÉ º° »Îï ÓÅÃ ÌÄÁ ÐÃÈ ÓÂÃ £¾ÂÌËÂÕÆ ÒÏÒ »Ðéãë õð âéô ° ÐÈÐ »áîä óáöå éô ÌÄÁ ÂÌÏÃË ÁÓÌ ÐÌÐ »Õóå ãáòòù âéô ÁÄÃ ÆÉÁÕØ«± »Äïéîç æéìå¬ õóå ìïáä áääòåóó ÊÍÐ º±º° ÌÄÁ ÐÃÈ ÓÅÃ ÓÂÃ £¾ÂÌËÂÕÆº± ÊÓÒ ÐÒÂÙÔ ÌÄÁ ÐÃÌ ÊÓÒ ÐÒÂÙÔ ÌÄÁ £¢­¢ ÊÓÒ ÃÏÕÔ ÌÄÁ £¢ ¢ ÊÓÒ ÃÏÕÔ ÌÄÙ £° ÌÄÁ ¨ÐÃÌ©¬Ù »Çåô ïðãïäåÉÎÓÄÓ² ÔÁÙ »Óáöå éî Ù­Òåç ÌÄÁ ÏÐÉÎÄÅØ¬Ù ÁÓÌ ÔÁØ ÂÃÃ º± »Îïô óéîçìå âùôå ïðãïäå ÌÄÁ ÏÐÎÁÍÅÓÁ¬Ø ÓÔÁ ÒÍÎÅÍ ÌÄÁ ÏÐÎÁÍÅÓÁ«±¬Ø ÓÔÁ ÌÍÎÅÍ ÌÄÁ £° ÓÔÁ ÌÅÎÇÔÈ ÒÔÓº± ÌÄÁ ÏÐÎÁÍÅÓÂ¬Ø ÓÔÁ ÒÍÎÅÍ ÌÄÁ ÏÐÎÁÍÅÓÂ«±¬Ø ÓÔÁ ÌÍÎÅÍ ÌÄØ ÏÐÆÏÒÍÁÔ¬Ù ÌÄÁ ÆÍÔÂÌ«±¬Ø ÓÔÁ ÆÏÒÍÁÔÈ ÌÄÁ ÆÍÔÂÌ¬Ø ÓÔÁ ÆÏÒÍÁÔÌ ÁÎÄ £³ ÓÔÁ ÌÅÎÇÔÈ ÌÄÁ ÏÐÆÏÒÍÁÔ¬Ù ÂÎÅ º² »Îïô éííåäéáôå íïäå ÌÄÙ £° ÌÄÁ ÉÍÍÓÉÚÅ ÒÏÒ ÂÃÓ º´ »Éîäåø òåçéóôåòó ±¶ âéôº¶ ÒÏÒ ÂÃÃ º² ÊÓÒ º¸ ÂÅÑ º²ºµ ÉÎÃ ÌÅÎÇÔÈ »Ùåóº² ÒÔÓº´ ÊÓÒ º¸ ÂÅÑ ºµ ÌÄÁ ÉÍÍÓÉÚÅ ÒÏÒ ÊÍÐ º¶º¸ ÌÄÁ ¨ÐÃÌ©¬Ù ÃÍÐ £¤Á° »ÌÄÙ £¿ ÂÅÑ º¹ ÃÍÐ £¤Á² »ÌÄØ £¿ ÂÅÑ º¹ ÃÍÐ £¤Ã° »ÃÐÙ £ ÂÅÑ º¹ ÃÍÐ £¤Å° »ÃÐØ £º¹ ÒÔÓÏÐÎÁÍÅÓÁÁÓÌÁ ÏÎ Á»Ó»Ì»ÁÂÒË ÏÎ Â»Ò»ËÃÌÃ ÏÎ Ã»Ì»ÃÃÌÄ ÏÎ Ã»Ì»ÄÃÌÉ ÏÎ Ã»Ì»ÉÃÌÖ ÏÎ Ã»Ì»ÖÃÏÐ ÏÎ Ã»Ï»ÐÄÅÃÁ ÏÎ Ä»Å»Ã»ÁÄÅØ ÏÎ Ä»Å»ØÄÅÙ ÏÎ Ä»Å»ÙÉÎÃÁ ÏÎ É»Î»Ã»ÁÉÎØ ÏÎ É»Î»ØÉÎÙ ÏÎ É»Î»ÙÌÓÒÁ ÏÎ Ì»Ó»Ò»ÁÎÏÐ ÏÎ Î»Ï»ÐÐÈÁ ÏÎ Ð»È»ÁÐÈÂ ÏÎ Ð»È»ÂÐÈÄ ÏÎ Ð»È»ÄÐÈË ÏÎ Ð»È»ËÐÈÐ ÏÎ Ð»È»ÐÐÈØ ÏÎ Ð»È»ØÐÈÙ ÏÎ Ð»È»ÙÐÌÁ ÏÎ Ð»Ì»ÁÐÌÂ ÏÎ Ð»Ì»ÂÐÌÄ ÏÎ Ð»Ì»ÄÐÌÐ ÏÎ Ð»Ì»ÐÐÌØ ÏÎ Ð»Ì»ØÐÌÙ ÏÎ Ð»Ì»ÙÒÏÌÁ ÏÎ Ò»Ï»Ì»ÁÒÏÒÁ ÏÎ Ò»Ï»Ì»ÁÒÔÉ ÏÎ Ò»Ô»ÉÒÔÌ ÏÎ Ò»Ô»ÌÒÔÓ ÏÎ Ò»Ô»ÓÓÅÃ ÏÎ Ó»Å»ÃÓÅÄ ÏÎ Ó»Å»ÄÓÅÉ ÏÎ Ó»Å»ÉÓÔÐ ÏÎ Ó»Ô»ÐÔÁØ ÏÎ Ô»Á»ØÔÁÙ ÏÎ Ô»Á»ÙÔÃÄ ÏÎ Ô»Ã»ÄÔÃÓ ÏÎ Ô»Ã»ÓÔÄÃ ÏÎ Ô»Ä»ÃÔÓÃ ÏÎ Ô»Ó»ÃÔÓØ ÏÎ Ô»Ó»ØÔØÁ ÏÎ Ô»Ø»ÁÔØÓ ÏÎ Ô»Ø»ÓÔØÙ ÏÎ Ô»Ø»ÙÔÙÁ ÏÎ Ô»Ù»ÁÔÙØ ÏÎ Ô»Ù»Ø×ÁÉ ÏÎ ×»Á»É×ÄÍ ÏÎ ×»Ä»ÍØÂÁ ÏÎ Ø»Â»ÁØÃÅ ÏÎ Ø»Ã»ÅÏÐÎÁÍÅÓÂÁÄÃ ÏÎ Á»Ä»ÃÁÎÄ ÏÎ Á»Î»ÄÁÓÌ ÏÎ Á»Ó»ÌÂÃÃ ÏÎ Â»Ã»ÃÂÃÓ ÏÎ Â»Ã»ÓÂÅÑ ÏÎ Â»Å»ÑÂÉÔ ÏÎ Â»É»ÔÂÍÉ ÏÎ Â»Í»ÉÂÎÅ ÏÎ Â»Î»ÅÂÐÌ ÏÎ Â»Ð»ÌÂÒÁ ÏÎ Â»Ò»ÁÂÒÌ ÏÎ Â»Ò»ÌÂÖÃ ÏÎ Â»Ö»ÃÂÖÓ ÏÎ Â»Ö»ÓÃÍÐ ÏÎ Ã»Í»ÐÃÐØ ÏÎ Ã»Ð»ØÃÐÙ ÏÎ Ã»Ð»ÙÄÅÃ ÏÎ Ä»Å»ÃÅÏÒ ÏÎ Å»Ï»ÒÉÎÃ ÏÎ É»Î»ÃÊÍÌ ÏÎ Ê»Í»ÌÊÍÐ ÏÎ Ê»Í»ÐÊÓÌ ÏÎ Ê»Ó»ÌÊÓÒ ÏÎ Ê»Ó»ÒÌÄÁ ÏÎ Ì»Ä»ÁÌÄØ ÏÎ Ì»Ä»ØÌÄÙ ÏÎ Ì»Ä»ÙÌÓÒ ÏÎ Ì»Ó»ÒÍÖÎ ÏÎ Í»Ö»ÎÍÖÐ ÏÎ Í»Ö»ÐÏÒÁ ÏÎ Ï»Ò»ÁÐÅÁ ÏÎ Ð»Å»ÁÐÅÉ ÏÎ Ð»Å»ÉÐÅÒ ÏÎ Ð»Å»ÒÒÅÐ ÏÎ Ò»Å»ÐÒÏÌ ÏÎ Ò»Ï»ÌÒÏÒ ÏÎ Ò»Ï»ÒÓÂÃ ÏÎ Ó»Â»ÃÓÅÐ ÏÎ Ó»Å»ÐÓÔÁ ÏÎ Ó»Ô»ÁÓÔØ ÏÎ Ó»Ô»ØÓÔÙ ÏÎ Ó»Ô»ÙÓÔÚ ÏÎ Ó»Ô»ÚÔÒÂ ÏÎ Ô»Ò»ÂÔÓÂ ÏÎ Ô»Ó»Âªª ÏØÁ æïò óéîçìå âùôåó ïðãïäåóª ÏØÂ æïò íõìôéðìå âùôå ïðãïäåóªÏÐÉÎÄÅØº° ÏØÁ ÂÒË ÏØÂ ÏÒÁ ÏØÁ ÃÏÐ ÏØÂ ÏÒÁ ÏØÂ ÔÓÂ ÏØÂ ÏÒÁ ÏØÂ ÁÓÌ ÏØÂ ÏÒÁ ÏØÁ ÐÈÐ ÏØÂ ÏÒÁ ÏØÁ ÁÓÌÁ ÏØÁ ÐÈÄ ÏØÂ ÔÓÂ ÏØÂ ÏÒÁ ÏØÂ ÁÓÌ ÏØÂ ÏÒÁº± ÏØÂ ÂÐÌ ÏØÂ ÏÒÁ ÏØÂ ÏÒÁ ÏØÂ ÏÒÁ ÏØÂ ÔÒÂ ÏØÂ ÏÒÁ ÏØÂ ÁÓÌ ÏØÂ ÏÒÁ ÏØÁ ÃÌÃ ÏØÂ ÏÒÁ ÏØÁ ÉÎÃÁ ÏØÁ ÔÃÓ ÏØÂ ÔÒÂ ÏØÂ ÏÒÁ ÏØÂ ÁÓÌ ÏØÂ ÏÒÁº² ÏØÂ ÊÓÒ ÏØÂ ÁÎÄ ÏØÂ ÊÓÌ ÏØÂ ÁÎÄ ÏØÂ ÂÉÔ ÏØÂ ÁÎÄ ÏØÂ ÒÏÌ ÏØÂ ÁÎÄ ÏØÁ ÐÌÐ ÏØÂ ÁÎÄ ÏØÁ ÒÏÌÁ ÏØÁ ÐÌÄ ÏØÂ ÂÉÔ ÏØÂ ÁÎÄ ÏØÂ ÒÏÌ ÏØÂ ÁÎÄº³ ÏØÂ ÂÍÉ ÏØÂ ÁÎÄ ÏØÂ ÁÎÄ ÏØÂ ÁÎÄ ÏØÂ ÂÉÔ ÏØÂ ÁÎÄ ÏØÂ ÒÏÌ ÏØÂ ÁÎÄ ÏØÁ ÓÅÃ ÏØÂ ÁÎÄ ÏØÁ ÄÅÃÁ ÏØÁ ÔÓÃ ÏØÂ ÂÉÔ ÏØÂ ÁÎÄ ÏØÂ ÒÏÌ ÏØÂ ÁÎÄº´ ÏØÁ ÒÔÉ ÏØÂ ÅÏÒ ÏØÁ ×ÄÍ ÏØÂ ÅÏÒ ÏØÂ ÍÖÐ ÏØÂ ÅÏÒ ÏØÂ ÌÓÒ ÏØÂ ÅÏÒ ÏØÁ ÐÈÁ ÏØÂ ÅÏÒ ÏØÁ ÌÓÒÁ ÏØÁ ÐÈË ÏØÂ ÊÍÐ ÏØÂ ÅÏÒ ÏØÂ ÌÓÒ ÏØÂ ÅÏÒºµ ÏØÂ ÂÖÃ ÏØÂ ÅÏÒ ÏØÂ ÅÏÒ ÏØÂ ÅÏÒ ÏØÂ ÍÖÎ ÏØÂ ÅÏÒ ÏØÂ ÌÓÒ ÏØÂ ÅÏÒ ÏØÁ ÃÌÉ ÏØÂ ÅÏÒ ÏØÁ ÐÈÙ ÏØÁ ÔÃÄ ÏØÂ ÊÍÐ ÏØÂ ÅÏÒ ÏØÂ ÌÓÒ ÏØÂ ÅÏÒº¶ ÏØÁ ÒÔÓ ÏØÂ ÁÄÃ ÏØÂ ÐÅÒ ÏØÂ ÁÄÃ ÏØÂ ÓÔÚ ÏØÂ ÁÄÃ ÏØÂ ÒÏÒ ÏØÂ ÁÄÃ ÏØÁ ÐÌÁ ÏØÂ ÁÄÃ ÏØÁ ÒÏÒÁ ÏØÁ ÒÔÌ ÏØÂ ÊÍÐ ÏØÂ ÁÄÃ ÏØÂ ÒÏÒ ÏØÂ ÁÄÃº· ÏØÂ ÂÖÓ ÏØÂ ÁÄÃ ÏØÂ ÁÄÃ ÏØÂ ÁÄÃ ÏØÂ ÓÔÚ ÏØÂ ÁÄÃ ÏØÂ ÒÏÒ ÏØÂ ÁÄÃ ÏØÁ ÓÅÉ ÏØÂ ÁÄÃ ÏØÁ ÐÌÙ ÏØÁ ÔÄÃ ÏØÂ ÊÍÐ ÏØÂ ÁÄÃ ÏØÂ ÒÏÒ ÏØÂ ÁÄÃº¸ ÏØÂ ÂÒÁ ÏØÂ ÓÔÁ ÏØÂ ÂÒÌ ÏØÂ ÓÔÁ ÏØÂ ÓÔÙ ÏØÂ ÓÔÁ ÏØÂ ÓÔØ ÏØÂ ÓÔÁ ÏØÁ ÄÅÙ ÏØÂ ÂÉÔ ÏØÁ ÔØÁ ÏØÁ ÐÈÂ ÏØÂ ÓÔÙ ÏØÂ ÓÔÁ ÏØÂ ÓÔØ ÏØÂ ÓÔÁº¹ ÏØÂ ÂÃÃ ÏØÂ ÓÔÁ ÏØÂ ÓÔÁ ÏØÂ ÓÔÁ ÏØÂ ÓÔÙ ÏØÂ ÓÔÁ ÏØÂ ÓÔØ ÏØÂ ÓÔÁ ÏØÁ ÔÙÁ ÏØÂ ÓÔÁ ÏØÁ ÔØÓ ÏØÁ ÔØÙ ÏØÂ ÓÔÚ ÏØÂ ÓÔÁ ÏØÂ ÓÔÚ ÏØÂ ÓÔÁºÁ ÏØÂ ÌÄÙ ÏØÂ ÌÄÁ ÏØÂ ÌÄØ ÏØÂ ÌÄÁ ÏØÂ ÌÄÙ ÏØÂ ÌÄÁ ÏØÂ ÌÄØ ÏØÂ ÌÄÁ ÏØÁ ÔÁÙ ÏØÂ ÌÄÁ ÏØÁ ÔÁØ ÏØÁ ÐÌÂ ÏØÂ ÌÄÙ ÏØÂ ÌÄÁ ÏØÂ ÌÄØ ÏØÂ ÌÄÁºÂ ÏØÂ ÂÃÓ ÏØÂ ÌÄÁ ÏØÂ ÌÄÁ ÏØÂ ÌÄÁ ÏØÂ ÌÄÙ ÏØÂ ÌÄÁ ÏØÂ ÌÄØ ÏØÂ ÌÄÁ ÏØÁ ÃÌÖ ÏØÂ ÌÄÁ ÏØÁ ÔÓØ ÏØÁ ÔÙØ ÏØÂ ÌÄÙ ÏØÂ ÌÄÁ ÏØÂ ÌÄØ ÏØÂ ÌÄÁºÃ ÏØÂ ÃÐÙ ÏØÂ ÃÍÐ ÏØÂ ÒÅÐ ÏØÂ ÃÍÐ ÏØÂ ÃÐÙ ÏØÂ ÃÍÐ ÏØÂ ÄÅÃ ÏØÂ ÃÍÐ ÏØÁ ÉÎÙ ÏØÂ ÃÍÐ ÏØÁ ÄÅØ ÏØÁ ×ÁÉ ÏØÂ ÃÐÙ ÏØÂ ÃÍÐ ÏØÂ ÄÅÃ ÏØÂ ÃÍÐºÄ ÏØÂ ÂÎÅ ÏØÂ ÃÍÐ ÏØÂ ÃÍÐ ÏØÂ ÃÍÐ ÏØÂ ÐÅÉ ÏØÂ ÃÍÐ ÏØÂ ÄÅÃ ÏØÂ ÃÍÐ ÏØÁ ÃÌÄ ÏØÂ ÃÍÐ ÏØÁ ÐÈØ ÏØÁ ÓÔÐ ÏØÂ ÊÍÌ ÏØÂ ÃÍÐ ÏØÂ ÄÅÃ ÏØÂ ÃÍÐºÅ ÏØÂ ÃÐØ ÏØÂ ÓÂÃ ÏØÂ ÓÅÐ ÏØÂ ÓÂÃ ÏØÂ ÌÄØ ÏØÂ ÓÂÃ ÏØÂ ÉÎÃ ÏØÂ ÓÂÃ ÏØÁ ÉÎØ ÏØÂ ÓÂÃ ÏØÁ ÎÏÐ ÏØÁ ØÂÁ ÏØÂ ÃÐØ ÏØÂ ÓÂÃ ÏØÂ ÉÎÃ ÏØÂ ÓÂÃºÆ ÏØÂ ÂÅÑ ÏØÂ ÓÂÃ ÏØÂ ÓÂÃ ÏØÂ ÓÂÃ ÏØÂ ÐÅÁ ÏØÂ ÓÂÃ ÏØÂ ÉÎÃ ÏØÂ ÓÂÃ ÏØÁ ÓÅÄ ÏØÂ ÓÂÃ ÏØÁ ÐÌØ ÏØÁ ØÃÅ ÏØÂ ÊÓÒ ÏØÂ ÓÂÃ ÏØÂ ÉÎÃ ÏØÂ ÓÂÃÏÐÆÏÒÍÁÔº° ÈÅØ ²¶¬±´¬°°¬±Ã¬°²¬°²¬°²¬²°¬°°¬°°¬°°¬°°¬°´¬°´¬°´¬°¶º± ÈÅØ ²¶¬±¶¬±²¬±Å¬°²¬°¸¬°¸¬²²¬°°¬±°¬°°¬°°¬°´¬°Á¬°Á¬°Ãº² ÈÅØ °´¬±´¬°¶¬±Ã¬°²¬°²¬°²¬²°¬°°¬°°¬°°¬°°¬°´¬°´¬°´¬°¶º³ ÈÅØ ²¶¬±¶¬±²¬±Å¬°¸¬°¸¬°¸¬²²¬°°¬±°¬°°¬°°¬°Á¬°Á¬°Á¬°Ãº´ ÈÅØ °°¬±´¬°°¬±Ã¬²´¬°²¬°²¬²°¬°°¬°°¬°°¬°°¬°´¬°´¬°´¬°¶ºµ ÈÅØ ²¶¬±¶¬±²¬±Å¬²´¬°¸¬°¸¬²²¬°°¬±°¬°°¬°°¬°¶¬°Á¬°Á¬°Ãº¶ ÈÅØ °°¬±´¬²¸¬±Ã¬°²¬°²¬°²¬²°¬°°¬°°¬°°¬°°¬±¸¬°´¬°´¬°¶º· ÈÅØ ²¶¬±¶¬±²¬±Å¬°¸¬°¸¬°¸¬²²¬°°¬±°¬°°¬°°¬±Á¬°Á¬°Á¬°Ãº¸ ÈÅØ ²¶¬±´¬²¸¬±Ã¬°²¬°²¬°²¬²°¬°°¬°°¬°°¬°°¬°´¬°´¬°´¬°¶º¹ ÈÅØ ²¶¬±¶¬±²¬±Å¬°¸¬°¸¬°Å¬²²¬°°¬±°¬°°¬°°¬°´¬°Á¬°Á¬°ÃºÁ ÈÅØ °°¬±´¬°°¬±Ã¬°²¬°²¬°²¬²°¬°°¬°°¬°°¬°°¬°´¬°´¬°´¬°¶ºÂ ÈÅØ ²¶¬±¶¬±²¬±Å¬°¸¬°¸¬°Å¬²²¬°°¬±°¬°°¬°°¬°Á¬°Á¬±°¬°ÃºÃ ÈÅØ °°¬±´¬²¶¬±Ã¬°²¬°²¬°²¬²°¬°°¬°°¬°°¬°°¬°²¬°´¬°²¬°¶ºÄ ÈÅØ ²¶¬±¶¬±²¬±Å¬°²¬°¸¬°¸¬²²¬°°¬±°¬°°¬°°¬±¸¬°Á¬°Á¬°ÃºÅ ÈÅØ °°¬±´¬²¶¬±Ã¬°²¬°²¬°²¬²°¬°°¬°°¬°°¬°°¬°´¬°´¬°´¬°¶ºÆ ÈÅØ ²¶¬±¶¬±²¬±Å¬°¸¬°¸¬°¸¬²²¬°°¬±°¬°°¬°°¬±Á¬°Á¬°Á¬°ÃÆÍÔÂÌ ÄÁ ¤¹°°± »Éííåäéáôå      £¤íí ÄÁ ¤±°°± »Äéòåãô         ¤íí ÄÁ ¤±°°² »Áâóïìõôå       ¤íííí ÄÁ ¤±°°³ »Ìïîç           ¤íííííí ÄÁ ¤±Ã°± »Äéòåãô¬Ø       ¤íí¬Ø ÄÁ ¤±Ã°² »Áâó¬Ø          ¤íííí¬Ø ÄÁ ¤±Ã°³ »Ìïîç¬Ø         ¤íííííí¬Ø ÄÁ ¤±¸²± »Äéòåãô¬Ù       ¤íí¬Ù ÄÁ ¤±¸²² »Áâó¬Ù          ¤íííí¬Ù ÄÁ ¤³°¸± »Éîä            ¨¤íí© ÄÁ ¤³Á¸± »ÉîäØ           ¨¤íí¬Ø© ÄÁ ¤³°Å± »ÉîäÙ           ¨¤íí©¬Ù ÄÁ ¤³°¸² »ÉîäÁâó         ¨¤íííí© ÄÁ ¤³Ã¸² »ÉîäÁâóØ        ¨¤íííí¬Ø© ÄÁ ¤³Á¸± »Óôáãë          ¨¤íí¬Ó© ÄÁ ¤³ÁÅ± »ÓôáãëÙ         ¨¤íí¬Ó©¬Ù ÄÁ ¤µ±°± »ÉîäÌïîç        Û¤ííÝ ÄÁ ¤µ±¶± »ÉîäÌïîçÙ       Û¤ííÝ¬Ù ÄÁ ¤±°°Å »ÍÖÎ ¦ ÍÖÐ      ¤íí¬¤íí ÄÁ ¤°°°µ »Òåìáôéöå       ¤íí ÄÁ ¤°°°¶ »Ìïîç Òåìáôéöå  ¤ííííÆÍÔÓÔÒ ÁÓÃ ¢¤Ù¬©ÝÓØ¬¤¨Û£¢ÚÅÒÏÎÕÍ ÌÄÁ £° ÌÄØ £²º± ÓÔÁ ÎÕÍ¬Ø ÄÅØ ÂÐÌ º± ÒÔÓÄÏÁÓÃÉÉ ÊÓÒ ÓÅÔÁÓÃÍÏÄ ÊÍÐ ÄÏÓÃÒÎÓÅÔÁÓÃÍÏÄ ÌÄÁ ÖÉÅ×ÆÌÇ ÂÅÑ º± ÃÍÐ £¤´° ÂÅÑ º² ÌÄÁ £° »Óåô Îïòíáì ÂÅÑ º³º± ÌÄÁ £¤´° »Óåô Éîöåòóå ÂÎÅ º³º² ÌÄÁ £¤¸° »Óåô Íïõóåôåøôº³ ÓÔÁ ÖÉÅ×ÆÌÇ »Æáìì ôèòïõçè áîä ðòéîô íïäåÐÒÁÓÃÍÏÄ ÊÓÒ ÓÁÖÃÕÒÌÏÃ ÇÏÔÏ ·´»²° ÌÄÁ ÖÉÅ×ÆÌÇ ÂÅÑ º± ÃÍÐ £¤´° ÂÎÅ º² ÌÄÁ £§Á§ »Éîöåòóå ÂÎÅ º³º± ÌÄÁ £¢Á¢ »Îïòíáì ÂÎÅ º³º² ÊÓÒ ÍÏÕÓÅÏÎ »Íïõóåôåøô ÌÄÁ £§Á§º³ ÊÓÒ ÃÏÕÔ ÊÓÒ ÍÏÕÓÅÏÆÆ ÊÓÒ ÒÅÓÔÃÌÏÃ ÒÔÓÌÏÏË ÊÓÒ ÓÁÖÃÕÒÌÏÃ ÌÄÁ £± ÓÔÁ ÇÓÔÒÍÏÄÅ »Éîäéãáôå áîù éîðõô éó öáìéä ÃÔØ ÈÌÐááÌ ÇÏÔÏ °»²³ ÊÓÒ ÃÌÒÅÏÌ ÐÒÉÎÔ ÌËÐÒÍÐÔ »Ðòïíðô ¢Ìïïë æïòº ¢ ÐÏÉÎÔ ÓÔÒÐÔÒ»ÉÎÂÕÆ ÌÄÁ £° ÓÔÁ ÅÏÆÌÁÇ ÌÄÙ ÉÎÂÕÆ ÂÅÑ º² ÌÄØ £±º± ÌÄÁ ÉÎÂÕÆ¬Ø ÏÒÁ £¤¸° ÊÓÒ ÃÏÕÔ ÃÐØ ÉÎÂÕÆ ÂÅÑ º±Á ÉÎØ ÂÎÅ º±º±Á ÌÄÙ ÉÎÂÕÆº² ÌÄØ £¶¸ ÊÓÒ ÇÅÔÓÔÒ° ÌÄÁ ÉÎÂÕÆ ÂÅÑ º³ ÃÍÐ £²µ »Éæ óôòéîç éó ¾ ²µ ãèáòáãôåòó¬ ÂÃÃ º²Á ÇÏÔÏ ³´»²³ »ôèåî ìéíéô ôèå ðòéîôåä óôòéîç ÌÄÁ £¢®¢ » áîä áððåîä ôòáéìåò ôï óôòéîç ÊÓÒ ÃÏÕÔ »Ôèéó éó óï ôèáô Åîôòéåó ÊÓÒ ÃÏÕÔ » äïî§ô çåô ãõô ïææ ÊÓÒ ÃÏÕÔ ÊÓÒ ÃÌÒÅÏÌ ÊÍÐ º²Áº³ ÇÏÔÏ °»²³ ÊÓÒ ÃÌÒÅÏÌ ÊÓÒ ÒÅÓÔÃÌÏÃ ÊÍÐ ÅÇÅÔËÙº²Á ÊÓÒ ÒÅÓÔÃÌÏÃ ÌÄØ £° ÌÄÙ £± ÌÄÁ £¤ÆÆ ÓÔÁ ÍÁÓË »Áóóõíå îåçáôéöå ÁÓÃÉÉ ÌÄÁ ¨ÓÔÒÐÔÒ©¬Ù ÃÍÐ £¤Á² »Äïõâìå ñõïôå ÂÅÑ ÈÉÁÓÃ »Îåç ÁÓÃÉÉ ÃÍÐ £¤Á· »Óéîçìå ñõïôå ÂÅÑ ÌÏÁÓÃ ÌÄÙ £°ÄÏÈÅØ± ÌÄÁ £° ÓÔÁ ÔÅÍÐÄÏÈÅØ² ÉÎÙ ÌÄÁ ¨ÓÔÒÐÔÒ©¬Ùº° ÊÓÒ ÉóÈåøÄéçéô ÂÃÃ º² »Ùåó ÃÍÐ £¤¸Ä ÂÅÑ º±Á ÃÍÐ £¤Á° »Æéòóô óðáãå äåìéíéôó îõíâåòó ÂÎÅ ºÎï »Éîöáìéä äéçéôº± ÉÎÙ ÌÄÁ ¨ÓÔÒÐÔÒ©¬Ù ÃÍÐ £¤Á° ÂÅÑ º± »Æìõóè ïõô óðáãåó ÃÍÐ £¤¸Ä ÂÅÑ º±Á ÄÅÙ ÌÄÁ ÔÅÍÐ »Éî âåô÷ååî îõíâåòó¬ óáöå ÓÔÁ ÓÂÕÆ¬Ø »âõéìô­õð îõíâåò éî âõææåò ÉÎØ ÂÎÅ ÄÏÈÅØ±º±Á ÌÄÁ ÔÅÍÐ ÓÔÁ ÓÂÕÆ¬Ø ÉÎØ ÂÎÅ ÌÏÏËµº² ÁÎÄ £¤Æ »Çïô á äéçéô¬ íáóë ïææ èé îéââìå ÁÓÌ ÔÅÍÐ ÁÓÌ ÔÅÍÐ ÁÓÌ ÔÅÍÐ ÁÓÌ ÔÅÍÐ ÏÒÁ ÔÅÍÐ ÓÔÁ ÔÅÍÐ ÊÍÐ ÄÏÈÅØ²ºÎï ÓÔÙ ºÙÓáöå ÊÓÒ ÓÁÖÃÕÒÌÏÃ ÇÏÔÏ ±°»²³ ÌÄÙ £°º³ ÉÎÙ ÌÄÁ ¨ÓÔÒÐÔÒ©¬Ù ÊÓÒ ÃÏÕÔ ÃÐÙ ºÙÓáöå ÂÎÅ º³ ÐÒÉÎÔ ÂáäÄéçéô ÊÓÒ ÃÌÒÅÏÌ ÊÓÒ ×ÁÉÔ´ ÊÓÒ ÒÅÓÔÃÌÏÃ ÊÍÐ ÌÏÏËºÙÓáöå ÄÓ ±ÌÏÁÓÃ ÌÄÁ £¤·Æ »Ðïóéôéöå ÁÓÃÉÉ ÓÔÁ ÍÁÓËÈÉÁÓÃ ÌÄØ £°º± ÉÎØ ÃÐØ ÉÎÂÕÆ ÂÅÑ º² ÌÄÁ ÉÎÂÕÆ«±¬Ø ÁÎÄ ÍÁÓË ÓÔÁ ÓÂÕÆ­±¬Ø ÊÍÐ º±º² ÄÅØÌÏÏËµ ÓÔØ ÓÃÏÕÎÔ ÐÏÉÎÔ ÓÔÒÐÔÒ»ÓÂÕÆ ÓÔÄÂ ÐÔÒ»×ÏÒËÁÒÅÁ»ÓÅÁÒÃÈ± ÊÍÐ ÆÉÎÄÉÔÓÅÁÒÃÈ² ÌÄÁ £¼ÂÌËÂÕÆ ÓÔÁ Ò×ÂÕÆ ÓÔÁ ×ÏÒËÁÒÅÁ ÌÄÁ £¾ÂÌËÂÕÆ ÓÔÁ Ò×ÂÕÆ«± ÓÔÁ ×ÏÒËÁÒÅÁ«± ÌÄÁ ÅÏÆÌÁÇ ÂÅÑ ÓÅÁÒÃÈ¶ ÊÍÐ ÎÏÓÅÁÒÃÈÓÅÁÒÃÈ¶ ÊÓÒ ÉÎÃÒÂÌË» ÂÃÓ ºµ ÊÓÒ ÐÒÂÌËÎÕÍ ÊÓÒ ÂÌËÒÅÁÄ ÂÃÃ º² ÊÍÐ ÌÏÏËÅÒÒº´ ÃÍÐ £¤´Ä »Ðïóéôéïî ðáóô ÅÏÆºµ ÊÍÐ ÌÏÏËÅÒÒ »÷áó ÂÎÅ ÓÔÁ ÅÏÆÌÁÇ ÂÅÑ ÆÉÎÄÉÔ »Áì÷áùóº² ÊÓÒ ËÂÄÅÄÉÔ ÃÍÐ £¤¹Â ÂÎÅ ÆÉÎÄÉÔº³ ÊÍÐ ÎÏÓÅÁÒÃÈÆÉÎÄÉÔ ÓÔÁ ÓÔÒÂ ÉÎÃ ×ÏÒËÁÒÅÁ ÂÎÅ º± ÉÎÃ ×ÏÒËÁÒÅÁ«± ÌÄÁ ×ÏÒËÁÒÅÁ«± ÃÍÐ ÂÕÆÅÎÄº° ÂÅÑ ÓÅÁÒÃÈ²º± ÌÄÙ £¤ÆÆ ÌÄØ ÓÃÏÕÎÔº² ÉÎÙ ÄÅØ ÂÍÉ º³ »Óåáòãè óõããåóóæõì ÌÄÁ ¨×ÏÒËÁÒÅÁ©¬Ù ÃÍÐ ÓÂÕÆ¬Ù ÂÅÑ º² ÉÎÃ ×ÏÒËÁÒÅÁ ÌÄÁ ×ÏÒËÁÒÅÁ ÂÎÅ º± ÉÎÃ ×ÏÒËÁÒÅÁ«± ÌÄÁ ×ÏÒËÁÒÅÁ«± ÃÍÐ ÂÕÆÅÎÄ »Áô åîä ïæ ôèéó âìïãë¿ ÂÅÑ º° »Ùåó¬ çåô îå÷ âìïãë ÂÎÅ º± »Îï¬ ãïîôéîõå éî ôèéó âìïãëº³ ÌÄÁ ×ÏÒËÁÒÅÁ«± ÊÓÒ ÍÏÖ²ÎÏÓÅÁÒÃÈ ÓÔÁ ÓÔÒÂ ÊÍÐ ÄÏÓÃÒÎÌÏÏËÅÒÒ ÊÓÒ ÅÄÉÔÅÒÒ ÊÍÐ ÄÏÓÃÒÎÎÉÂÓÁÖØ ÄÓ ±ÎÉÂÓÁÖÙ ÄÓ ±ÇÅÔ³ÎÉÂÓ ÇÏÔÏ ··»³ ÓÔØ ÎÉÂÓÁÖØ ÓÔÙ ÎÉÂÓÁÖÙÇÅÔ³ÎÉÂ² ÌÄØ ÎÉÂÓÁÖØ ÌÄÙ ÎÉÂÓÁÖÙ ÊÓÒ ÇÏÔÏØÙ² ÌÄÁ ×ÏÒËÁÒÅÁ«± ÊÓÒ ÐÒÈÅØ ÌÄÁ ×ÏÒËÁÒÅÁ ÊÓÒ ÐÒÂÙÔ ÌÄÁ £¤¸¸ ÊÓÒ ÃÏÕÔº± ÊÓÒ ÍÙËÅÙÉÎ ÃÍÐ £¤¸Ä ÂÅÑ ºµ ÃÍÐ £¢Î¢ ÂÅÑ ºÎõí ÃÍÐ £¢î¢ ÂÅÑ ºÎõí ÃÍÐ £¢á¢ »Ãïîöåòô ôï õððåòãáóå ÂÃÃ º±Á ÁÎÄ £¤ÄÆº±Á ÃÍÐ £¤¹Â ÂÅÑ º´Á ÅÏÒ £¢°¢ ÃÍÐ £¤Á ÂÃÃ º³ ÁÄÃ £¤¸¸ ÃÍÐ £¤ÆÁ ÂÃÓ º²º±Â ÃÔØ ÈÌÐÅîôÈø ÊÓÒ ÂÕÚÚ ÂÅÑ º± »Áì÷áùóº² ÁÎÄ £¤Æº³ ÌÄØ £´º´ ÁÓÌ ×ÏÒËÁÒÅÁ ÒÏÌ ×ÏÒËÁÒÅÁ«± ÄÅØ ÂÎÅ º´ ÏÒÁ ×ÏÒËÁÒÅÁ ÓÔÁ ×ÏÒËÁÒÅÁ ÊÍÐ ÇÅÔ³ÎÉÂ²º´Á ÓÅÃ ÒÔÓºµ ÃÌÃ ÒÔÓºÎõí ÌÄÁ ÏÁÐÐÌÅ ÏÒÁ ÃÁÐÐÌÅ ÂÐÌ º±Â ÊÓÒ ÃöôÎõí ÂÃÓ ÇÅÔ³ÎÉÂ²ºÎ± ÓÔÄÂ ÎÕÍ»×ÏÒËÁÒÅÁ ÊÍÐ ÇÅÔ³ÎÉÂ²ÇÏ²ÂÙÔÅ ÊÓÒ ÓÁÖÃÕÒÌÏÃ ÃÔØ ÈÌÐááÇ ÌÄÁ £° ÓÔÁ ×ÏÒËÁÒÅÁ ÓÔÁ ×ÏÒËÁÒÅÁ«±º° ÊÓÒ ÇÅÔ³ÎÉÂÓ ÂÃÃ ºµ ÊÓÒ ÃÌÅÁÒ²³ ÊÓÒ ÒÅÓÔÃÌÏÃ ÊÍÐ ÅÇÅÔËÙºµ ÊÓÒ ÃÌÅÁÒ²³ ÊÓÒ ÒÅÓÔÃÌÏÃ ÌÄÁ ×ÏÒËÁÒÅÁ«± ÁÎÄ £¤°Æ ÃÌÃ ÁÄÃ £¾ÂÌËÂÕÆ ÓÔÁ ×ÏÒËÁÒÅÁ«± ÊÓÒ ÍÏÖ² ÊÍÐ ÅÇÅÔËÙÍÏÖ² ÌÄØ £° ÓÔØ ÃÏÕÎÔ »Óáù çïéîç æïò÷áòä ÌÄÙ £×ÏÒËÁÒÅÁ ÌÄØ £ÐÔÒ ÌÄÁ ÐÔÒ«± ÃÍÐ ×ÏÒËÁÒÅÁ«± ÂÃÃ º¶ »×Á ¼ ÐÔÒ¬ âáãë÷áòä ÂÎÅ ºµ ÌÄÁ ÐÔÒ ÃÍÐ ×ÏÒËÁÒÅÁ ÂÃÃ º¶ »×Á ¼ ÐÔÒ¬ âáãë÷áòäºµ ÌÄÙ £ÐÔÒ »×Á ¾½ ÐÔÒ¬ æïò÷áòä ÌÄØ £×ÏÒËÁÒÅÁ ÌÄÁ £¤ÆÆ »Âáãë÷áòä ÓÔÁ ÃÏÕÎÔº¶ ÓÅÃ ÌÄÁ ¤°°¬Ù »Ãáìãõìáôå áâóïõìõôå ÓÂÃ ¤°°¬Ø » äéóôáîãå âåô÷ååî ÷èåòå ÓÔÁ ×ÏÒËÁÒÅÁ » ÷å áòå¬ áîä ÷èåòå ÷å ÌÄÁ ¤°°«±¬Ù » ÷áîô ôï âå® ÓÂÃ ¤°°«±¬Ø ÓÔÁ ×ÏÒËÁÒÅÁ«±º¶Á ÌÄÁ ×ÏÒËÁÒÅÁ ÏÒÁ ×ÏÒËÁÒÅÁ«± ÂÅÑ º¹ ÌÄÁ ×ÏÒËÁÒÅÁ ÂÎÅ º¶Ã ÄÅÃ ×ÏÒËÁÒÅÁ«±º¶Ã ÄÅÃ ×ÏÒËÁÒÅÁº¶Â ÂÉÔ ÃÏÕÎÔ ÂÍÉ º· »Âáãë÷áòäó¬ çï ìåæô ÊÓÒ ÎÏÒÍÂÙÔÅ ÊÓÒ ÒÉÇÈÔ ÊÍÐ º¶Áº· ÊÓÒ ÎÏÒÍÂÙÔÅ ÊÓÒ ÌÅÆÔ »Æïò÷áòäó¬ çï òéçèô ÊÍÐ º¶Áº¹ ÒÔÓÇÏ²ÈÅÁÄ ÌÄÁ ÏÓÔÙÐÅ ÂÅÑ ºÐÒÏ ÃÍÐ £± ÂÎÅ º± ÊÍÐ ºÄÏÓº± ÃÍÐ £³ ÂÎÅ º² ÊÍÐ ºÐÁÓº² ÃÍÐ £´ ÂÎÅ º³ ÊÍÐ ºÃÐÍº³ ÊÍÐ ÅÇÅÔËÙ »Íõóô âå éî ÍÅÍÏÒÙºÐÒÏ ÌÄØ £°º±° ÌÄÁ ÐÒÏÏÆÌÏ¬Ø ÃÍÐ ÐÔÒ ÌÄÁ ÐÒÏÏÆÈÉ¬Ø ÓÂÃ ÐÔÒ«± ÂÃÓ º±´º±² ÉÎØ ÃÐØ £±³ ÂÎÅ º±° ÌÄÙ ÐÔÒ ÌÄÁ ÐÔÒ«± ÂÎÅ º±¸ »Áì÷áùóº±´ ÌÄÁ ÐÒÏÏÆÌÏ¬Ø ÅÏÒ ÐÔÒ ÂÎÅ º±¶ ÌÄÁ ÐÔÒ«± ÅÏÒ ÐÒÏÏÆÈÉ¬Ø ÂÎÅ º±¶ ÃÐØ £±² ÂÅÑ º±¶ ÉÎØº±¶ ÌÄÙ ÐÒÏÏÆÌÏ¬Ø ÌÄÁ ÐÒÏÏÆÈÉ¬Øº±¸ ÓÔÙ ×ÏÒËÁÒÅÁ ÓÔÁ ×ÏÒËÁÒÅÁ«± ÊÓÒ ÍÏÖ² ÊÍÐ ÅÇÅÔËÙºÄÏÓ ÌÄØ £° ÌÄÁ ÐÔÒº²° ÃÍÐ ÄÏÓÄÉÒÌÏÃ¬Ø ÂÃÃ º²³ ÂÅÑ º²³ ÉÎØ ÃÐØ £· ÂÎÅ º²° ÊÍÐ ÅÇÅÔËÙº²± ÓÔÁ ×ÏÒËÁÒÅÁ ÌÄÁ ÐÔÒ«± ÓÔÁ ×ÏÒËÁÒÅÁ«± ÊÓÒ ÍÏÖ²º²² ÊÍÐ ÅÇÅÔËÙº²³ ÃÐØ £¶ ÂÅÑ º²² ÌÄÁ ÄÏÓÄÉÒÌÏÃ«±¬Ø ÂÎÅ º²± »Áì÷áùóºÐÁÓ ÌÄØ £° ÌÄÙ ÂÌÏÃËº³° ÌÄÁ ÐÁÓÄÉÒÌÏÃ¬Ø ÃÌÃ ÁÄÃ ÐÁÓÄÆÉØ­²¬Ù ÓÔÁ ÔÅÍÐÐÔÒ ÌÄÁ ÐÁÓÄÉÒÌÏÃ«±¬Ø ÁÄÃ £° ÓÔÁ ÔÅÍÐÐÔÒ«± ÌÄÁ ÔÅÍÐÐÔÒ ÃÍÐ ÐÔÒ ÌÄÁ ÔÅÍÐÐÔÒ«± ÓÂÃ ÐÔÒ«± ÂÃÓ º³´º³² ÉÎØ ÉÎØ ÃÐØ £´° ÂÎÅ º³°º³³ ÌÄÙ ÐÔÒ ÌÄÁ ÐÔÒ«± ÂÎÅ º³¸ »Áì÷áùóº³´ ÌÄÁ ÔÅÍÐÐÔÒ ÅÏÒ ÐÔÒ ÂÎÅ º³¶ ÌÄÁ ÐÔÒ«± ÅÏÒ ÔÅÍÐÐÔÒ«± ÂÎÅ º³¶ ÃÐØ £³¸ ÂÅÑ º³¶ ÌÄÁ ÐÁÓÄÉÒÌÏÃ«²¬Ø ÃÌÃ ÁÄÃ ÐÁÓÄÆÉØ­²¬Ù ÔÁÙ ÌÄÁ ÐÁÓÄÉÒÌÏÃ«³¬Ø ÁÄÃ £° ÂÎÅ º³¸ »Áì÷áùóº³¶ ÌÄÙ ÔÅÍÐÐÔÒ ÌÄÁ ÔÅÍÐÐÔÒ«±º³¸ ÓÔÙ ×ÏÒËÁÒÅÁ ÓÔÁ ×ÏÒËÁÒÅÁ«± ÊÓÒ ÍÏÖ² ÊÍÐ ÅÇÅÔËÙºÃÐÍ ÓÔÄÂ ÐÔÒ»×ÏÒËÁÒÅÁ ÌÄÁ ×ÏÒËÁÒÅÁ ÁÎÄ £¤Å° ÃÌÃ ÁÄÃ £¤²° ÓÔÁ ×ÏÒËÁÒÅÁ ÂÃÃ º´° ÉÎÃ ×ÏÒËÁÒÅÁ«±º´° ÊÓÒ ÍÏÖ² ÊÍÐ ÅÇÅÔËÙÂË²ÈÅÁÄ ÌÄÁ ÏÓÔÙÐÅ ÂÅÑ ºÐÒÏ ÃÍÐ £± ÂÎÅ º± ÊÍÐ ºÄÏÓº± ÃÍÐ £³ ÂÎÅ º² ÊÍÐ ºÐÁÓº² ÃÍÐ £´ ÂÎÅ º³ ÊÍÐ ºÃÐÍº³ ÊÍÐ ÅÇÅÔËÙ »Íõóô âå éî ÍÅÍÏÒÙºÐÒÏ ÌÄØ £±²º±° ÌÄÁ ÐÔÒ ÃÍÐ ÐÒÏÏÆÌÏ¬Ø ÂÅÑ º±´ ÌÄÁ ÐÔÒ«± ÓÂÃ ÐÒÏÏÆÈÉ¬Øº±± ÂÃÓ º±² ÄÅØ ÂÐÌ º±°º±±Á ÌÄÙ ÐÔÒ ÌÄÁ ÐÔÒ«± ÊÍÐ º±¶º±² ÌÄÙ ÐÒÏÏÆÌÏ¬Ø ÌÄÁ ÐÒÏÏÆÈÉ¬Ø ÊÍÐ º±¶º±´ ÌÄÁ ÐÔÒ«± ÃÍÐ ÐÒÏÏÆÈÉ¬Ø ÂÎÅ º±± ÃÐØ £° ÂÅÑ º±±Á ÌÄÙ ÐÒÏÏÆÌÏ­±¬Ø ÌÄÁ ÐÒÏÏÆÈÉ­±¬Øº±¶ ÓÔÙ ×ÏÒËÁÒÅÁ ÓÔÁ ×ÏÒËÁÒÅÁ«± ÊÓÒ ÍÏÖ² ÊÍÐ ÅÇÅÔËÙºÄÏÓ ÌÄØ £¶º²° ÌÄÁ ÄÏÓÄÉÒÌÏÃ¬Ø ÃÍÐ ÐÔÒ ÂÃÃ º²³ ÂÅÑ º²² ÄÅØ ÂÐÌ º²°º²± ÊÍÐ ÅÇÅÔËÙº²² ÃÐØ £° ÂÅÑ º²± ÌÄÁ ÄÏÓÄÉÒÌÏÃ­±¬Øº²³ ÓÔÁ ×ÏÒËÁÒÅÁ ÌÄÁ ÐÔÒ«± ÓÔÁ ×ÏÒËÁÒÅÁ«± ÊÓÒ ÍÏÖ² ÊÍÐ ÅÇÅÔËÙºÐÁÓ ÌÄØ £³¸ ÌÄÙ ÂÌÏÃËº³° ÌÄÁ ÐÁÓÄÉÒÌÏÃ¬Ø ÃÌÃ ÁÄÃ ÐÁÓÄÆÉØ­²¬Ù ÓÔÁ ÔÅÍÐÐÔÒ ÌÄÁ ÐÁÓÄÉÒÌÏÃ«±¬Ø ÁÄÃ £° ÓÔÁ ÔÅÍÐÐÔÒ«± ÌÄÁ ÐÔÒ ÃÍÐ ÔÅÍÐÐÔÒ ÂÅÑ º³´ ÌÄÁ ÐÔÒ«± ÓÂÃ ÔÅÍÐÐÔÒ«±º³± ÂÃÓ º³² ÄÅØ ÄÅØ ÂÐÌ º³°º³±Á ÌÄÙ ÐÔÒ ÌÄÁ ÐÔÒ«± ÊÍÐ º³¶º³² ÌÄÙ ÔÅÍÐÐÔÒ ÌÄÁ ÔÅÍÐÐÔÒ«± ÊÍÐ º³¶º³´ ÌÄÁ ÐÔÒ«± ÃÍÐ ÔÅÍÐÐÔÒ«± ÂÎÅ º³± ÃÐØ £° ÂÅÑ º³±Á ÌÄÁ ÐÁÓÄÉÒÌÏÃ­²¬Ø ÃÌÃ ÁÄÃ ÐÁÓÄÆÉØ­²¬Ù ÔÁÙ ÌÄÁ ÐÁÓÄÉÒÌÏÃ­±¬Ø ÁÄÃ £°º³¶ ÓÔÙ ×ÏÒËÁÒÅÁ ÓÔÁ ×ÏÒËÁÒÅÁ«± ÊÓÒ ÍÏÖ² ÊÍÐ ÅÇÅÔËÙºÃÐÍ ÓÔÄÂ ÐÔÒ»×ÏÒËÁÒÅÁ ÌÄÁ ×ÏÒËÁÒÅÁ ÁÎÄ £¤±Æ ÂÅÑ º´± ÌÄÁ ×ÏÒËÁÒÅÁ ÁÎÄ £¤Å° ÓÔÁ ×ÏÒËÁÒÅÁº´° ÊÓÒ ÍÏÖ² ÊÍÐ ÅÇÅÔËÙº´± ÌÄÁ ×ÏÒËÁÒÅÁ ÓÅÃ ÓÂÃ £¤²° ÓÔÁ ×ÏÒËÁÒÅÁ ÂÃÓ º´° ÄÅÃ ×ÏÒËÁÒÅÁ«± ÂÎÅ º´° »Áì÷áùó ÂÒË
+***************************************************
+*                                                 *
+*                Block Buster 2.x                 *
+*        The Next Generation Block Editor         *
+*                                                 *
+*            Originally written in the            *
+*               1985-1992 timeframe.              *
+*                                                 *
+*                 Code Repository                 *
+*    https://github.com/d5aa962e/BlockBuster2     *
+*                                                 *
+*       BlockBuster2 by github.com/d5aa962e       *
+*    is licensed under CC BY-SA 4.0. To view a    *
+*           copy of this license, visit           *
+*  http://creativecommons.org/licenses/by-sa/4.0/ *
+*                                                 *
+***************************************************
+
+********************************
+*                              *
+*        File: EDITC.S         *
+*                              *
+*           Contents           *
+*           --------           *
+*                              *
+* - Find Next Index Block      *
+*   or Track/Sector List       *
+* - OpCode Listing             *
+* - Search Functionality       *
+* - ASCII Mode Toggle          *
+*                              *
+********************************
+
+*
+* Find next Index Block or Track/Sector List
+* Last T/S pair or last block on volume in FIAUX
+*
+
+INDEXBLK	CTX	HLPaaI
+	LDA	FILFLG
+	BMI	:0
+	JSR	SAVCURLOC	;Can't find IB's or T/SL's
+	PRAT	0;23;NFILACT	; when file open
+	JMP	:NCD2
+:0	LDA	OSTYPE
+	BEQ	:IB	;ProDOS, find Index Blocks
+	CMP	#1
+	BNE	:IB
+	JMP	:TSL
+:NCD	JSR	SAVCURLOC
+	PRAT	0;23;CANTDO	;Can only do for DOS & ProDOS
+:NCD2	JSR	CLREOL
+	CTX	HLPPDNotes
+	JSR	BUZZ
+	JSR	WAIT4
+	JSR	CLEAR23
+	JSR	RESTCLOC
+	JMP	EGETKY
+:IB	LDA	#0
+	STA	ENTFLG	;Turn off entry flag
+	POINT	OLBUF;OLLIST
+	LDA	UNITNUM
+	STA	OLUNIT
+	MLI	ONLINE;PONLINE
+	BCS	:ERROR
+	LDA	OLLIST
+	BEQ	:NCD	;Not a ProDOS volume
+	AND	#$F
+	TAX
+	INX
+	STX	OLLIST-1
+	LDA	#'/'
+	STA	OLLIST
+	POINT	FIPN;OLLIST-1
+	LDA	#$A
+	STA	PFILINFO
+	MLI	GFILINFO;PFILINFO
+	BCS	:ERROR
+	POINT	TEMPPTR;BLKBUF
+:1	JSR	INCRBLK
+	LDA	BLOCK+1
+	CMP	FIBLKS+1
+	BNE	:3
+	LDA	BLOCK
+	CMP	FIBLKS
+	BEQ	:4	;End of volume reached
+:3	JSR	PRBLKNUM
+	JSR	KBDEDIT
+	CMP	#$9B
+	BEQ	:YES
+	JSR	BLKREAD
+	BCS	:ERROR
+	JSR	ISIB	;Is it and index block?
+	BEQ	:YES
+	BNE	:1	;Always
+:YES	JSR	BAKUP
+	STA	STRB
+	JMP	DOSCRN
+:ERROR	JSR	EDITERR
+	JMP	EGETKY
+:TSL	LDA	#0
+	STA	ENTFLG	;Turn off entry flag
+	JSR	RDVTOC
+	BCS	:ERROR
+	LDA	VTOCBUF+$34
+	STA	FIAUX	;Tracks per disk
+	LDA	VTOCBUF+$35
+	STA	FIAUX+1	;Sectors per track
+	POINT	TEMPPTR;BLKBUF
+:2	JSR	INCRBLK
+	JSR	PRBLKNUM
+	JSR	KBDEDIT
+	CMP	#$9B
+	BEQ	:YES
+	JSR	RDSECT
+	BCS	:ERROR
+	JSR	ISTSL
+	BEQ	:YES
+	BNE	:2	;Always
+:4	JSR	SAVCURLOC
+	PRAT	38;23;EOVR
+	JSR	BUZZ
+	CTX	HLPEndoSch
+	JSR	MYKEYIN
+	GOTO	38;23
+	JSR	CLREOL
+	JSR	RESTCLOC
+	JSR	DECRBLK
+	JSR	PRBLKNUM
+	JMP	EGETKY
+
+
+*
+* Jump to a block, data block,
+* or file byte
+*
+
+JUMP2	JSR	SAVCURLOC
+	CTX	HLPaaJ
+	PRAT	0;23;J2
+	JSR	CLREOL
+	POINT	CHPTR;BDF
+	LDX	#1
+	JSR	CHOOSE
+	PHA
+	JSR	CLEAR23
+	JSR	RESTCLOC
+	PLA
+	BEQ	:4
+	CMP	#1	;PTR, PTR+1
+	BEQ	:BLK
+	CMP	#2	;PTR, PTR+$100
+	BEQ	:DBLK
+	CMP	#3
+	BEQ	:FILPOS	;Ask for location
+	JMP	:EOF	;End of file/volume
+:BLK	LDY	#0	;Read block
+	STY	BIGBLOCK+1
+	LDA	(PTR),Y	;or Track/Sector at PTR, PTR+1
+	STA	BLOCK
+	STA	TRACK
+	STA	BIGBLOCK
+	INY
+	LDA	(PTR),Y
+	STA	BLOCK+1
+	STA	SECTOR
+	JMP	BLKRD
+:DBLK	LDA	PTR+1	;Must be in 1st half of block
+	SEC
+	SBC	#>BLKBUF
+	BEQ	:DBLK1
+	JSR	BUZZ
+	CTX	HLPJmpOpt
+:4	JMP	EGETKY
+:DBLK1	LDY	#0	;Read data block
+	LDA	(PTR),Y	;i.e. the block at
+	STA	BLOCK	;PTR, PTR+$100
+	INC	PTR+1
+	LDA	(PTR),Y
+	STA	BLOCK+1
+	DEC	PTR+1
+	JMP	BLKRD
+:FILPOS	LDA	FILFLG	;Absolute file position
+	BPL	:6	;Yes, following a file
+:NOFIL	JSR	SAVCURLOC
+	PRAT	0;23;NEEDFIL
+	JSR	CLREOL
+	JSR	BUZZ
+	CTX	HLPJmpOpt
+	JSR	ERROR1
+	JSR	CLEAR23
+	JSR	RESTCLOC
+	JMP	EGETKY
+:6	JSR	SAVCURLOC
+	JSR	CLEAR23
+	PRAT	0;23;WHATPOS
+	JSR	ONEBYTE
+	PHP
+	JSR	CLEAR23
+	JSR	RESTCLOC
+	PLP
+	BCS	:7
+:SET	LDA	NUM+1
+	AND	#$FE
+	STA	FIMARK+1
+	LDA	NUM+2
+	STA	FIMARK+2
+	MLI	SETMARK;PGSMARK
+	BCS	:ERR
+	MLI	READ;PREAD
+	BCC	:1
+	JSR	EDITERR
+	JMP	EGETKY
+:1	LDA	FIMARK+2
+	LSR
+	STA	BLOCK+1
+	LDA	FIMARK+1
+	ROR
+	STA	BLOCK
+	JSR	NEXTFIL1
+	LDA	NUM
+	STA	WORKAREA
+	LDA	NUM+1
+	AND	#1
+	CLC
+	ADC	#>BLKBUF
+	STA	WORKAREA+1
+	JSR	MOV2
+	JSR	BAKUP
+	JMP	DOSCRN
+:7	LDA	INBUF
+	BNE	:8
+	JMP	DOSCRN
+:5	JMP	EGETKY
+:ERR	JSR	EDITERR
+	JMP	EGETKY
+:8	JSR	SAVCURLOC
+	PRAT	0;23;WHATPOS
+	PRINT	BadDigit+5
+	JSR	WAIT4
+	JSR	RESTCLOC
+	JMP	EGETKY
+
+:EOF	LDA	FILFLG
+	BPL	:file	;Following a file
+	JMP	:NOFIL
+:file	MLI	GETEOF;PGSEOF
+	BCS	:ERR
+	LDX	#2
+:10	LDA	FIEOF,X
+	STA	NUM,X
+	DEX
+	BPL	:10
+	LDA	NUM
+	BNE	:11
+	LDA	NUM+1
+	BNE	:12
+	DEC	NUM+2
+:12	DEC	NUM+1
+:11	DEC	NUM
+	JMP	:SET
+
+OPCODE	LDA	OPFLAG	;List opcodes
+	EOR	#$FF
+	STA	OPFLAG
+	JSR	PRIMSIZE
+	JMP	DOSCRN
+
+PRIMSIZE	CTX	HLPaaO
+	JSR	SAVCURLOC	;Opcodes visible
+	INC	WNDWDTH
+	GOTO	76;20
+	LDA	OPFLAG
+	BNE	:3
+	LDX	#4
+	JSR	PRBL2
+	JMP	:4
+:3	LDA	#"m"
+	JSR	COUT
+	LDX	#"0"
+	LDA	IMMSIZE
+	AND	#2
+	BNE	:1
+	INX
+:1	TXA
+	JSR	COUT
+	LDA	#"x"
+	JSR	COUT
+	LDX	#"0"
+	LDA	IMMSIZE
+	ROR
+	BCS	:5
+	INX
+:5	TXA
+	JSR	COUT
+	LDA	EMODE
+	BPL	:4
+	LDA	#$40	;Force lo ascii when
+	STA	EMODE	;we turn on the opcodes
+:4	JSR	RESTCLOC
+:2	RTS
+
+PR8OPS	STDB	PTR;$3A	;Print 8 instructions
+	JSR	SAVCURLOC
+	LDA	WNDWDTH
+	PHA
+	LDA	#72
+	STA	WNDWDTH
+	GOTO	0;1
+	LDA	#8
+:1	PHA
+	JSR	CROUT
+	LDX	#15
+	JSR	PRBL2
+	JSR	INSTDSP
+	JSR	$F953
+	STA	$3A
+	STY	$3B
+	JSR	CLREOL
+	PLA
+	SEC
+	SBC	#1
+	BNE	:1
+	PLA
+	STA	WNDWDTH
+	JSR	RESTCLOC
+	RTS
+
+INSTDSP	JSR	INSDS1
+	LDY	#0
+:1	LDA	(PCL),Y
+	JSR	PRBYT
+	LDX	#1	;Print 1 blank
+:2	JSR	PRBL2
+	CPY	LENGTH
+	INY
+	BCC	:1
+	LDX	#3
+	CPY	#4
+	BCC	:2
+	JSR	PRBL2
+	LDX	#3
+*
+* Print Mnemonic
+*
+	LDY	#3
+:3	LDA	#6
+:4	ASL	RMNEM
+	ROL	LMNEM
+	ROL
+	BPL	:4
+	JSR	COUT
+	DEY
+	BNE	:3
+	LDY	LENGTH
+	BEQ	:8	;Single byte opcode
+	LDA	FORMATL
+	AND	#$04
+	BNE	:9	;Yes, moves or relatives
+*
+* Print normal operands
+*
+	LDX	#3
+	JSR	PRBL2
+	LDX	#11	;12 format bits
+:5	ASL	FORMATL
+	ROL	FORMATH
+	BCC	:7
+	LDA	FMTSTR,X
+	JSR	COUT
+	CMP	#"#"
+	BNE	:55
+	BIT	IMMSIZE
+	BPL	:7
+	JSR	COUT	;Prints a ## for long numbers
+:55	CMP	#"$"
+	BNE	:7
+:6	LDA	(PCL),Y
+	JSR	PRBYT
+	DEY
+	BNE	:6
+:7	DEX
+	BPL	:5
+:8	RTS
+*
+* Special cases
+*
+:9	LDX	#3
+	JSR	PRBL2
+	LDA	#"$"
+	JSR	COUT
+	LDA	FORMATL
+	AND	#$08	;new
+	BNE	:11	;new
+; BMI :11 ;MVN & MVP
+	DEY	;Distinguish relatives
+	BNE	:10	;16-bit relative
+*
+* 8-bit relative
+*
+	INY	;8-bit relative
+	LDA	(PCL),Y	;Get 8-bit offset
+
+* The is RELADR from the monitor
+
+	LDX	FILFLG
+	BMI	:99
+	PHA	;Doing a file
+	SEC
+	LDA	PCH
+	SBC	#>BLKBUF
+	ROR
+	PHP
+	LDA	BLOCK
+	ASL
+	PLP
+	ADC	FIAUX+1	;Doing file, use load address
+	JMP	:9F
+:99	LDX	OSTYPE
+	CPX	#2	;Memory?
+	BNE	:9A	;No
+	LDY	MEMPAGE+1	;Yes, use this page
+	JMP	:9B
+:9A	PHA
+	LDA	PCH
+	SEC
+	SBC	#>BLKBUF
+:9F	TAY
+	PLA
+	SEC
+:9B	TAX
+	BPL	:9C
+	DEY
+:9C	ADC	PCL
+	BCC	:9D
+	INY
+:9D	TAX
+	INX
+	BNE	:9E
+	INY
+:9E	TYA
+	JSR	PRBYT
+	TXA
+	JMP	PRBYT
+*
+* 16-bit relative
+*
+:10	LDA	(PCL),Y	;Low byte of offset
+	STA	FORMATL
+	INY
+	LDA	(PCL),Y	;Hi byte of offset
+	STA	FORMATH
+	JSR	PCADJ
+	CLC
+	ADC	FORMATL
+	TAX
+	TYA
+	ADC	FORMATH
+	JMP	PRNTAX
+*
+* MVN & MVP
+*
+:11	LDA	(PCL),Y
+	JSR	PRBYT
+	LDA	#$AC	;Comma (quoted comma doesn't work in Merlin32)
+	JSR	COUT
+	LDA	#"$"
+	JSR	COUT
+	DEY
+	LDA	(PCL),Y
+	JMP	PRBYT
+
+INSDS1	LDA	MEMPAGE+1
+	LDY	OSTYPE
+	CPY	#2	;Doing memory?
+	BEQ	:1	;Yes
+	LDA	FILFLG	;Doing a file?
+	BMI	:0	;No
+	SEC
+	LDA	PCH
+	SBC	#>BLKBUF
+	ROR	;Pick up bit 0
+	PHP	;and save it
+	LDA	BLOCK
+	ASL
+	PLP	;Use carry bit
+	ADC	FIAUX+1	;Doing file, use load address
+	JMP	:1
+:0	LDA	PCH
+	SEC
+	SBC	#>BLKBUF
+:1	JSR	PRBYT
+	LDA	PCL
+	JSR	PRBYT
+	LDA	#"-"
+	JSR	COUT
+	LDA	#" "
+	JSR	COUT
+	LDY	#0
+	LDA	(PCL),Y	;Get opcode
+INSDS2	TAY	;Save in Y-Reg
+	LDA	OPINDEX,Y
+	ASL
+	TAX
+	BCC	:1	;Not single byte opcode
+	LDA	OPNAMESA,X
+	STA	RMNEM
+	LDA	OPNAMESA+1,X
+	STA	LMNEM
+	LDA	#0
+	STA	LENGTH
+	RTS
+:1	LDA	OPNAMESB,X
+	STA	RMNEM
+	LDA	OPNAMESB+1,X
+	STA	LMNEM
+	LDX	OPFORMAT,Y
+	LDA	FMTBL+1,X
+	STA	FORMATH
+	LDA	FMTBL,X
+	STA	FORMATL
+	AND	#3
+	STA	LENGTH
+	LDA	OPFORMAT,Y
+	BNE	:2	;Not immediate mode
+	LDY	#0
+	LDA	IMMSIZE
+	ROR
+	BCS	:4	;Index registers 16 bit
+:6	ROR
+	BCC	:2
+	JSR	:8
+	BEQ	:2
+:5	INC	LENGTH	;Yes
+:2	RTS
+:4	JSR	:8
+	BEQ	:5
+	LDA	IMMSIZE
+	ROR
+	JMP	:6
+
+:8	LDA	(PCL),Y
+	CMP	#$A0	;LDY #?
+	BEQ	:9
+	CMP	#$A2	;LDX #?
+	BEQ	:9
+	CMP	#$C0	;CPY #
+	BEQ	:9
+	CMP	#$E0	;CPX #
+:9	RTS
+
+
+OPNAMESA
+ASLA	ON	A;S;L;A
+BRK	ON	B;R;K
+CLC	ON	C;L;C
+CLD	ON	C;L;D
+CLI	ON	C;L;I
+CLV	ON	C;L;V
+COP	ON	C;O;P
+DECA	ON	D;E;C;A
+DEX	ON	D;E;X
+DEY	ON	D;E;Y
+INCA	ON	I;N;C;A
+INX	ON	I;N;X
+INY	ON	I;N;Y
+LSRA	ON	L;S;R;A
+NOP	ON	N;O;P
+PHA	ON	P;H;A
+PHB	ON	P;H;B
+PHD	ON	P;H;D
+PHK	ON	P;H;K
+PHP	ON	P;H;P
+PHX	ON	P;H;X
+PHY	ON	P;H;Y
+PLA	ON	P;L;A
+PLB	ON	P;L;B
+PLD	ON	P;L;D
+PLP	ON	P;L;P
+PLX	ON	P;L;X
+PLY	ON	P;L;Y
+ROLA	ON	R;O;L;A
+RORA	ON	R;O;L;A
+RTI	ON	R;T;I
+RTL	ON	R;T;L
+RTS	ON	R;T;S
+SEC	ON	S;E;C
+SED	ON	S;E;D
+SEI	ON	S;E;I
+STP	ON	S;T;P
+TAX	ON	T;A;X
+TAY	ON	T;A;Y
+TCD	ON	T;C;D
+TCS	ON	T;C;S
+TDC	ON	T;D;C
+TSC	ON	T;S;C
+TSX	ON	T;S;X
+TXA	ON	T;X;A
+TXS	ON	T;X;S
+TXY	ON	T;X;Y
+TYA	ON	T;Y;A
+TYX	ON	T;Y;X
+WAI	ON	W;A;I
+WDM	ON	W;D;M
+XBA	ON	X;B;A
+XCE	ON	X;C;E
+
+OPNAMESB
+ADC	ON	A;D;C
+AND	ON	A;N;D
+ASL	ON	A;S;L
+BCC	ON	B;C;C
+BCS	ON	B;C;S
+BEQ	ON	B;E;Q
+BIT	ON	B;I;T
+BMI	ON	B;M;I
+BNE	ON	B;N;E
+BPL	ON	B;P;L
+BRA	ON	B;R;A
+BRL	ON	B;R;L
+BVC	ON	B;V;C
+BVS	ON	B;V;S
+CMP	ON	C;M;P
+CPX	ON	C;P;X
+CPY	ON	C;P;Y
+DEC	ON	D;E;C
+EOR	ON	E;O;R
+INC	ON	I;N;C
+JML	ON	J;M;L
+JMP	ON	J;M;P
+JSL	ON	J;S;L
+JSR	ON	J;S;R
+LDA	ON	L;D;A
+LDX	ON	L;D;X
+LDY	ON	L;D;Y
+LSR	ON	L;S;R
+MVN	ON	M;V;N
+MVP	ON	M;V;P
+ORA	ON	O;R;A
+PEA	ON	P;E;A
+PEI	ON	P;E;I
+PER	ON	P;E;R
+REP	ON	R;E;P
+ROL	ON	R;O;L
+ROR	ON	R;O;R
+SBC	ON	S;B;C
+SEP	ON	S;E;P
+STA	ON	S;T;A
+STX	ON	S;T;X
+STY	ON	S;T;Y
+STZ	ON	S;T;Z
+TRB	ON	T;R;B
+TSB	ON	T;S;B
+
+*
+* OXA for single bytes opcodes
+* OXB for multiple byte opcodes
+*
+
+OPINDEX
+:0	OXA	BRK
+	OXB	ORA
+	OXA	COP
+	OXB	ORA
+	OXB	TSB
+	OXB	ORA
+	OXB	ASL
+	OXB	ORA
+	OXA	PHP
+	OXB	ORA
+	OXA	ASLA
+	OXA	PHD
+	OXB	TSB
+	OXB	ORA
+	OXB	ASL
+	OXB	ORA
+:1	OXB	BPL
+	OXB	ORA
+	OXB	ORA
+	OXB	ORA
+	OXB	TRB
+	OXB	ORA
+	OXB	ASL
+	OXB	ORA
+	OXA	CLC
+	OXB	ORA
+	OXA	INCA
+	OXA	TCS
+	OXB	TRB
+	OXB	ORA
+	OXB	ASL
+	OXB	ORA
+:2	OXB	JSR
+	OXB	AND
+	OXB	JSL
+	OXB	AND
+	OXB	BIT
+	OXB	AND
+	OXB	ROL
+	OXB	AND
+	OXA	PLP
+	OXB	AND
+	OXA	ROLA
+	OXA	PLD
+	OXB	BIT
+	OXB	AND
+	OXB	ROL
+	OXB	AND
+:3	OXB	BMI
+	OXB	AND
+	OXB	AND
+	OXB	AND
+	OXB	BIT
+	OXB	AND
+	OXB	ROL
+	OXB	AND
+	OXA	SEC
+	OXB	AND
+	OXA	DECA
+	OXA	TSC
+	OXB	BIT
+	OXB	AND
+	OXB	ROL
+	OXB	AND
+:4	OXA	RTI
+	OXB	EOR
+	OXA	WDM
+	OXB	EOR
+	OXB	MVP
+	OXB	EOR
+	OXB	LSR
+	OXB	EOR
+	OXA	PHA
+	OXB	EOR
+	OXA	LSRA
+	OXA	PHK
+	OXB	JMP
+	OXB	EOR
+	OXB	LSR
+	OXB	EOR
+:5	OXB	BVC
+	OXB	EOR
+	OXB	EOR
+	OXB	EOR
+	OXB	MVN
+	OXB	EOR
+	OXB	LSR
+	OXB	EOR
+	OXA	CLI
+	OXB	EOR
+	OXA	PHY
+	OXA	TCD
+	OXB	JMP
+	OXB	EOR
+	OXB	LSR
+	OXB	EOR
+:6	OXA	RTS
+	OXB	ADC
+	OXB	PER
+	OXB	ADC
+	OXB	STZ
+	OXB	ADC
+	OXB	ROR
+	OXB	ADC
+	OXA	PLA
+	OXB	ADC
+	OXA	RORA
+	OXA	RTL
+	OXB	JMP
+	OXB	ADC
+	OXB	ROR
+	OXB	ADC
+:7	OXB	BVS
+	OXB	ADC
+	OXB	ADC
+	OXB	ADC
+	OXB	STZ
+	OXB	ADC
+	OXB	ROR
+	OXB	ADC
+	OXA	SEI
+	OXB	ADC
+	OXA	PLY
+	OXA	TDC
+	OXB	JMP
+	OXB	ADC
+	OXB	ROR
+	OXB	ADC
+:8	OXB	BRA
+	OXB	STA
+	OXB	BRL
+	OXB	STA
+	OXB	STY
+	OXB	STA
+	OXB	STX
+	OXB	STA
+	OXA	DEY
+	OXB	BIT
+	OXA	TXA
+	OXA	PHB
+	OXB	STY
+	OXB	STA
+	OXB	STX
+	OXB	STA
+:9	OXB	BCC
+	OXB	STA
+	OXB	STA
+	OXB	STA
+	OXB	STY
+	OXB	STA
+	OXB	STX
+	OXB	STA
+	OXA	TYA
+	OXB	STA
+	OXA	TXS
+	OXA	TXY
+	OXB	STZ
+	OXB	STA
+	OXB	STZ
+	OXB	STA
+:A	OXB	LDY
+	OXB	LDA
+	OXB	LDX
+	OXB	LDA
+	OXB	LDY
+	OXB	LDA
+	OXB	LDX
+	OXB	LDA
+	OXA	TAY
+	OXB	LDA
+	OXA	TAX
+	OXA	PLB
+	OXB	LDY
+	OXB	LDA
+	OXB	LDX
+	OXB	LDA
+:B	OXB	BCS
+	OXB	LDA
+	OXB	LDA
+	OXB	LDA
+	OXB	LDY
+	OXB	LDA
+	OXB	LDX
+	OXB	LDA
+	OXA	CLV
+	OXB	LDA
+	OXA	TSX
+	OXA	TYX
+	OXB	LDY
+	OXB	LDA
+	OXB	LDX
+	OXB	LDA
+:C	OXB	CPY
+	OXB	CMP
+	OXB	REP
+	OXB	CMP
+	OXB	CPY
+	OXB	CMP
+	OXB	DEC
+	OXB	CMP
+	OXA	INY
+	OXB	CMP
+	OXA	DEX
+	OXA	WAI
+	OXB	CPY
+	OXB	CMP
+	OXB	DEC
+	OXB	CMP
+:D	OXB	BNE
+	OXB	CMP
+	OXB	CMP
+	OXB	CMP
+	OXB	PEI
+	OXB	CMP
+	OXB	DEC
+	OXB	CMP
+	OXA	CLD
+	OXB	CMP
+	OXA	PHX
+	OXA	STP
+	OXB	JML
+	OXB	CMP
+	OXB	DEC
+	OXB	CMP
+:E	OXB	CPX
+	OXB	SBC
+	OXB	SEP
+	OXB	SBC
+	OXB	LDX
+	OXB	SBC
+	OXB	INC
+	OXB	SBC
+	OXA	INX
+	OXB	SBC
+	OXA	NOP
+	OXA	XBA
+	OXB	CPX
+	OXB	SBC
+	OXB	INC
+	OXB	SBC
+:F	OXB	BEQ
+	OXB	SBC
+	OXB	SBC
+	OXB	SBC
+	OXB	PEA
+	OXB	SBC
+	OXB	INC
+	OXB	SBC
+	OXA	SED
+	OXB	SBC
+	OXA	PLX
+	OXA	XCE
+	OXB	JSR
+	OXB	SBC
+	OXB	INC
+	OXB	SBC
+
+
+OPFORMAT
+:0	HEX	26,14,00,1C,02,02,02,20,00,00,00,00,04,04,04,06
+:1	HEX	26,16,12,1E,02,08,08,22,00,10,00,00,04,0A,0A,0C
+:2	HEX	04,14,06,1C,02,02,02,20,00,00,00,00,04,04,04,06
+:3	HEX	26,16,12,1E,08,08,08,22,00,10,00,00,0A,0A,0A,0C
+:4	HEX	00,14,00,1C,24,02,02,20,00,00,00,00,04,04,04,06
+:5	HEX	26,16,12,1E,24,08,08,22,00,10,00,00,06,0A,0A,0C
+:6	HEX	00,14,28,1C,02,02,02,20,00,00,00,00,18,04,04,06
+:7	HEX	26,16,12,1E,08,08,08,22,00,10,00,00,1A,0A,0A,0C
+:8	HEX	26,14,28,1C,02,02,02,20,00,00,00,00,04,04,04,06
+:9	HEX	26,16,12,1E,08,08,0E,22,00,10,00,00,04,0A,0A,0C
+:A	HEX	00,14,00,1C,02,02,02,20,00,00,00,00,04,04,04,06
+:B	HEX	26,16,12,1E,08,08,0E,22,00,10,00,00,0A,0A,10,0C
+:C	HEX	00,14,26,1C,02,02,02,20,00,00,00,00,02,04,02,06
+:D	HEX	26,16,12,1E,02,08,08,22,00,10,00,00,18,0A,0A,0C
+:E	HEX	00,14,26,1C,02,02,02,20,00,00,00,00,04,04,04,06
+:F	HEX	26,16,12,1E,08,08,08,22,00,10,00,00,1A,0A,0A,0C
+
+FMTBL
+	DA	$9001	;Immediate      #$mm
+	DA	$1001	;Direct         $mm
+	DA	$1002	;Absolute       $mmmm
+	DA	$1003	;Long           $mmmmmm
+	DA	$1C01	;Direct,X       $mm,X
+	DA	$1C02	;Abs,X          $mmmm,X
+	DA	$1C03	;Long,X         $mmmmmm,X
+	DA	$1821	;Direct,Y       $mm,Y
+	DA	$1822	;Abs,Y          $mmmm,Y
+	DA	$3081	;Ind            ($mm)
+	DA	$3A81	;IndX           ($mm,X)
+	DA	$30E1	;IndY           ($mm),Y
+	DA	$3082	;IndAbs         ($mmmm)
+	DA	$3C82	;IndAbsX        ($mmmm,X)
+	DA	$3A81	;Stack          ($mm,S)
+	DA	$3AE1	;StackY         ($mm,S),Y
+	DA	$5101	;IndLong        [$mm]
+	DA	$5161	;IndLongY       [$mm],Y
+	DA	$100E	;MVN & MVP      $mm,$mm
+	DA	$0005	;Relative       $mm
+	DA	$0006	;Long Relative  $mmmm
+
+
+FMTSTR	ASC	"$Y,)]SX,$([#"
+
+ZERONUM	LDA	#0
+	LDX	#2
+:1	STA	NUM,X
+	DEX
+	BPL	:1
+	RTS
+
+DOASCII	JSR	SETASCMOD
+	JMP	DOSCRN
+
+SETASCMOD	LDA	VIEWFLG
+	BEQ	:1
+	CMP	#$40
+	BEQ	:2
+	LDA	#0	;Set Normal
+	BEQ	:3
+:1	LDA	#$40	;Set Inverse
+	BNE	:3
+:2	LDA	#$80	;Set Mousetext
+:3	STA	VIEWFLG	;Fall through and print mode
+
+PRASCMOD	JSR	SAVCURLOC
+	GOTO	74;20
+	LDA	VIEWFLG
+	BEQ	:1
+	CMP	#$40
+	BNE	:2
+	LDA	#'A'	;Inverse
+	BNE	:3
+:1	LDA	#"A"	;Normal
+	BNE	:3
+:2	JSR	MOUSEON	;Mousetext
+	LDA	#'A'
+:3	JSR	COUT
+	JSR	MOUSEOFF
+	JSR	RESTCLOC
+	RTS
+
+LOOK	JSR	SAVCURLOC
+	LDA	#1
+	STA	GSTRMODE	;Indicate any input is valid
+	CTX	HLPaaL
+	GOTO	0;23
+	JSR	CLREOL
+	PRINT	LKPRMPT	;Prompt "Look for: "
+	POINT	STRPTR;INBUF
+	LDA	#0
+	STA	EOFLAG
+	LDY	INBUF
+	BEQ	:2
+	LDX	#1
+:1	LDA	INBUF,X
+	ORA	#$80
+	JSR	COUT
+	CPX	INBUF
+	BEQ	:1A
+	INX
+	BNE	:1
+:1A	LDY	INBUF
+:2	LDX	#68
+	JSR	GETSTR0
+	LDA	INBUF
+	BEQ	:3
+	CMP	#25	;If string is > 25 characters,
+	BCC	:2A
+	GOTO	34;23	;then limit the printed string
+	LDA	#"."	; and append trailer to string
+	JSR	COUT	;This is so that Entries
+	JSR	COUT	; don't get cut off
+	JSR	COUT
+	JSR	CLREOL
+	JMP	:2A
+:3	GOTO	0;23
+	JSR	CLREOL
+	JSR	RESTCLOC
+	JMP	EGETKY
+:2A	JSR	RESTCLOC
+	LDX	#0
+	LDY	#1
+	LDA	#$FF
+	STA	MASK	;Assume negative ASCII
+	LDA	(STRPTR),Y
+	CMP	#$A2	;Double quote
+	BEQ	HIASC	;Neg ASCII
+	CMP	#$A7	;Single quote
+	BEQ	LOASC
+	LDY	#0
+DOHEX1	LDA	#0
+	STA	TEMP
+DOHEX2	INY
+	LDA	(STRPTR),Y
+:0	JSR	IsHexDigit
+	BCC	:2	;Yes
+	CMP	#$8D
+	BEQ	:1A
+	CMP	#$A0	;First space delimits numbers
+	BNE	:No	;Invalid digit
+:1	INY
+	LDA	(STRPTR),Y
+	CMP	#$A0
+	BEQ	:1	;Flush out spaces
+	CMP	#$8D
+	BEQ	:1A
+	DEY
+	LDA	TEMP	;In between numbers, save
+	STA	SBUF,X	;built-up number in buffer
+	INX
+	BNE	DOHEX1
+:1A	LDA	TEMP
+	STA	SBUF,X
+	INX
+	BNE	LOOK5
+:2	AND	#$F	;Got a digit, mask off hi nibble
+	ASL	TEMP
+	ASL	TEMP
+	ASL	TEMP
+	ASL	TEMP
+	ORA	TEMP
+	STA	TEMP
+	JMP	DOHEX2
+:No	STY	:YSave
+	JSR	SAVCURLOC
+	GOTO	10;23
+	LDY	#0
+:3	INY
+	LDA	(STRPTR),Y
+	JSR	COUT
+	CPY	:YSave
+	BNE	:3
+	PRINT	BadDigit
+	JSR	CLREOL
+	JSR	WAIT4
+	JSR	RESTCLOC
+	JMP	LOOK
+:YSave	DS	1
+
+LOASC	LDA	#$7F	;Positive ASCII
+	STA	MASK
+HIASC	LDX	#0
+:1	INX
+	CPX	INBUF
+	BEQ	:2
+	LDA	INBUF+1,X
+	AND	MASK
+	STA	SBUF-1,X
+	JMP	:1
+:2	DEX
+LOOK5	STX	SCOUNT
+	POINT	STRPTR;SBUF
+	STDB	PTR;WORKAREA
+;SEARCH1
+	JMP	FINDIT
+SEARCH2	LDA	#<BLKBUF
+	STA	RWBUF
+	STA	WORKAREA
+	LDA	#>BLKBUF
+	STA	RWBUF+1
+	STA	WORKAREA+1
+	LDA	EOFLAG
+	BEQ	SEARCH6
+	JMP	NOSEARCH
+SEARCH6	JSR	INCRBLK
+; BCS :5
+	JSR	PRBLKNUM
+	JSR	BLKREAD
+	BCC	:2
+	JMP	LOOKERR
+:4	CMP	#$4D	;Position past EOF
+:5	JMP	LOOKERR	;was BNE
+	STA	EOFLAG
+	BEQ	FINDIT	;Always
+:2	JSR	KBDEDIT
+	CMP	#$9B
+	BNE	FINDIT
+:3	JMP	NOSEARCH
+FINDIT	STA	STRB
+	INC	WORKAREA
+	BNE	:1
+	INC	WORKAREA+1
+	LDA	WORKAREA+1
+	CMP	BUFEND
+:0	BEQ	SEARCH2
+:1	LDY	#$FF
+	LDX	SCOUNT
+:2	INY
+	DEX
+	BMI	:3	;Search successful
+	LDA	(WORKAREA),Y
+	CMP	SBUF,Y
+	BEQ	:2
+	INC	WORKAREA
+	LDA	WORKAREA
+	BNE	:1
+	INC	WORKAREA+1
+	LDA	WORKAREA+1
+	CMP	BUFEND	;At end of this block?
+	BEQ	:0	;Yes, get new block
+	BNE	:1	;No, continue in this block
+:3	LDA	WORKAREA+1
+	JSR	MOV2
+NOSEARCH	STA	STRB
+	JMP	DOSCRN
+LOOKERR	JSR	EDITERR
+	JMP	DOSCRN
+
+NIBSAVX	DS	1
+NIBSAVY	DS	1
+
+GET3NIBS	GOTO	77;3
+	STX	NIBSAVX
+	STY	NIBSAVY
+GET3NIB2	LDX	NIBSAVX
+	LDY	NIBSAVY
+	JSR	GOTOXY2
+	LDA	WORKAREA+1
+	JSR	PRHEX
+	LDA	WORKAREA
+	JSR	PRBYT
+	LDA	#$88
+	JSR	COUT
+:1	JSR	MYKEYIN
+	CMP	#$8D
+	BEQ	:5
+	CMP	#"N"
+	BEQ	:Num
+	CMP	#"n"
+	BEQ	:Num
+	CMP	#"a"	;Convert to uppercase
+	BCC	:1A
+	AND	#$DF
+:1A	CMP	#$9B
+	BEQ	:4A
+	EOR	#"0"
+	CMP	#$A
+	BCC	:3
+	ADC	#$88
+	CMP	#$FA
+	BCS	:2
+:1B	CTX	HLPEntHx
+	JSR	BUZZ
+	BEQ	:1	;Always
+:2	AND	#$F
+:3	LDX	#4
+:4	ASL	WORKAREA
+	ROL	WORKAREA+1
+	DEX
+	BNE	:4
+	ORA	WORKAREA
+	STA	WORKAREA
+	JMP	GET3NIB2
+:4A	SEC
+	RTS
+:5	CLC
+	RTS
+:Num	LDA	OAPPLE
+	ORA	CAPPLE
+	BPL	:1B
+	JSR	CvtNum
+	BCS	GET3NIB2
+:N1	STDB	NUM;WORKAREA
+	JMP	GET3NIB2
+
+
+GO2BYTE	JSR	SAVCURLOC
+	CTX	HLPaaG
+	LDA	#0
+	STA	WORKAREA
+	STA	WORKAREA+1
+:0	JSR	GET3NIBS
+	BCC	:5
+	JSR	CLEAR23
+	JSR	RESTCLOC
+	JMP	EGETKY
+:5	JSR	CLEAR23
+	JSR	RESTCLOC
+	LDA	WORKAREA+1
+	AND	#$0F
+	CLC
+	ADC	#>BLKBUF
+	STA	WORKAREA+1
+	JSR	MOV2
+	JMP	EGETKY
+
+MOV2	LDX	#0
+	STX	COUNT	;Say going forward
+	LDY	#WORKAREA
+	LDX	#PTR
+	LDA	PTR+1
+	CMP	WORKAREA+1
+	BCC	:6	;WA < PTR, backward
+	BNE	:5
+	LDA	PTR
+	CMP	WORKAREA
+	BCC	:6	;WA < PTR, backward
+:5	LDY	#PTR	;WA >= PTR, forward
+	LDX	#WORKAREA
+	LDA	#$FF	;Backward
+	STA	COUNT
+:6	SEC
+	LDA	$00,Y	;Calculate absoulute
+	SBC	$00,X	; distance between where
+	STA	WORKAREA	; we are, and where we
+	LDA	$00+1,Y	; want to be.
+	SBC	$00+1,X
+	STA	WORKAREA+1
+:6A	LDA	WORKAREA
+	ORA	WORKAREA+1
+	BEQ	:9
+	LDA	WORKAREA
+	BNE	:6C
+	DEC	WORKAREA+1
+:6C	DEC	WORKAREA
+:6B	BIT	COUNT
+	BMI	:7	;Backwards, go left
+	JSR	NORMBYTE
+	JSR	RIGHT
+	JMP	:6A
+:7	JSR	NORMBYTE
+
+	JSR	LEFT	;Forwards, go right
+	JMP	:6A
+:9	RTS
+
+GO2HEAD	LDA	OSTYPE
+	BEQ	:PRO
+	CMP	#1
+	BNE	:1
+	JMP	:DOS
+:1	CMP	#3
+	BNE	:2
+	JMP	:PAS
+:2	CMP	#4
+	BNE	:3
+	JMP	:CPM
+:3	JMP	EGETKY	;Must be in MEMORY
+:PRO	LDX	#0
+:10	LDA	PROOFLO,X
+	CMP	PTR
+	LDA	PROOFHI,X
+	SBC	PTR+1
+	BCS	:14
+:12	INX
+	CPX	#13
+	BNE	:10
+	LDY	PTR
+	LDA	PTR+1
+	BNE	:18	;Always
+:14	LDA	PROOFLO,X
+	EOR	PTR
+	BNE	:16
+	LDA	PTR+1
+	EOR	PROOFHI,X
+	BNE	:16
+	CPX	#12
+	BEQ	:16
+	INX
+:16	LDY	PROOFLO,X
+	LDA	PROOFHI,X
+:18	STY	WORKAREA
+	STA	WORKAREA+1
+	JSR	MOV2
+	JMP	EGETKY
+:DOS	LDX	#0
+	LDA	PTR
+:20	CMP	DOSDIRLOC,X
+	BCC	:23
+	BEQ	:23
+	INX
+	CPX	#7
+	BNE	:20
+	JMP	EGETKY
+:21	STA	WORKAREA
+	LDA	PTR+1
+	STA	WORKAREA+1
+	JSR	MOV2
+:22	JMP	EGETKY
+:23	CPX	#6
+	BEQ	:22
+	LDA	DOSDIRLOC+1,X
+	BNE	:21	;Always
+:PAS	LDX	#0
+	LDY	BLOCK
+:30	LDA	PASDIRLOC,X
+	CLC
+	ADC	PASDFIX-2,Y
+	STA	TEMPPTR
+	LDA	PASDIRLOC+1,X
+	ADC	#0
+	STA	TEMPPTR+1
+	LDA	TEMPPTR
+	CMP	PTR
+	LDA	TEMPPTR+1
+	SBC	PTR+1
+	BCS	:34
+:32	INX
+	INX
+	CPX	#40
+	BNE	:30
+:33	LDY	PTR
+	LDA	PTR+1
+	BNE	:38	;Always
+:34	LDA	TEMPPTR
+	EOR	PTR
+	BNE	:36
+	LDA	PTR+1
+	EOR	TEMPPTR+1
+	BNE	:36
+	CPX	#38
+	BEQ	:36
+	LDA	PASDIRLOC+2,X
+	CLC
+	ADC	PASDFIX-2,Y
+	TAY
+	LDA	PASDIRLOC+3,X
+	ADC	#0
+	BNE	:38	;Always
+:36	LDY	TEMPPTR
+	LDA	TEMPPTR+1
+:38	STY	WORKAREA
+	STA	WORKAREA+1
+	JSR	MOV2
+	JMP	EGETKY
+:CPM	STDB	PTR;WORKAREA
+	LDA	WORKAREA
+	AND	#$E0
+	CLC
+	ADC	#$20
+	STA	WORKAREA
+	BCC	:40
+	INC	WORKAREA+1
+:40	JSR	MOV2
+	JMP	EGETKY
+
+
+BK2HEAD	LDA	OSTYPE
+	BEQ	:PRO
+	CMP	#1
+	BNE	:1
+	JMP	:DOS
+:1	CMP	#3
+	BNE	:2
+	JMP	:PAS
+:2	CMP	#4
+	BNE	:3
+	JMP	:CPM
+:3	JMP	EGETKY	;Must be in MEMORY
+:PRO	LDX	#12
+:10	LDA	PTR
+	CMP	PROOFLO,X
+	BEQ	:14
+	LDA	PTR+1
+	SBC	PROOFHI,X
+:11	BCS	:12
+	DEX
+	BPL	:10
+:11A	LDY	PTR
+	LDA	PTR+1
+	JMP	:16
+:12	LDY	PROOFLO,X
+	LDA	PROOFHI,X
+	JMP	:16
+:14	LDA	PTR+1
+	CMP	PROOFHI,X
+	BNE	:11
+	CPX	#0
+	BEQ	:11A
+	LDY	PROOFLO-1,X
+	LDA	PROOFHI-1,X
+:16	STY	WORKAREA
+	STA	WORKAREA+1
+	JSR	MOV2
+	JMP	EGETKY
+:DOS	LDX	#6
+:20	LDA	DOSDIRLOC,X
+	CMP	PTR
+	BCC	:23
+	BEQ	:22
+	DEX
+	BPL	:20
+:21	JMP	EGETKY
+:22	CPX	#0
+	BEQ	:21
+	LDA	DOSDIRLOC-1,X
+:23	STA	WORKAREA
+	LDA	PTR+1
+	STA	WORKAREA+1
+	JSR	MOV2
+	JMP	EGETKY
+:PAS	LDX	#38
+	LDY	BLOCK
+:30	LDA	PASDIRLOC,X
+	CLC
+	ADC	PASDFIX-2,Y
+	STA	TEMPPTR
+	LDA	PASDIRLOC+1,X
+	ADC	#0
+	STA	TEMPPTR+1
+	LDA	PTR
+	CMP	TEMPPTR
+	BEQ	:34
+	LDA	PTR+1
+	SBC	TEMPPTR+1
+:31	BCS	:32
+	DEX
+	DEX
+	BPL	:30
+:31A	LDY	PTR
+	LDA	PTR+1
+	JMP	:36
+:32	LDY	TEMPPTR
+	LDA	TEMPPTR+1
+	JMP	:36
+:34	LDA	PTR+1
+	CMP	TEMPPTR+1
+	BNE	:31
+	CPX	#0
+	BEQ	:31A
+	LDA	PASDIRLOC-2,X
+	CLC
+	ADC	PASDFIX-2,Y
+	TAY
+	LDA	PASDIRLOC-1,X
+	ADC	#0
+:36	STY	WORKAREA
+	STA	WORKAREA+1
+	JSR	MOV2
+	JMP	EGETKY
+:CPM	STDB	PTR;WORKAREA
+	LDA	WORKAREA
+	AND	#$1F
+	BEQ	:41
+	LDA	WORKAREA
+	AND	#$E0
+	STA	WORKAREA
+:40	JSR	MOV2
+	JMP	EGETKY
+:41	LDA	WORKAREA
+	SEC
+	SBC	#$20
+	STA	WORKAREA
+	BCS	:40
+	DEC	WORKAREA+1
+	BNE	:40	;Always
+	BRK
