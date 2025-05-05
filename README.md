@@ -1,6 +1,8 @@
 
 # Block Buster 2.1
 
+Note:  Block Buster is bring replaced byi Block Buster 3.0, and is almost ready for Beta testing.  Stay tuned!
+
 Block Buster is a full-featured disk editor designed to aide you in working with corrupted diskettes and learn the internals of Apple // operating system diskette formats. Block Buster can read ProDOS, DOS 3.3, Apple Pascal, and CP/M formatted disks, as well as system memory.
 
 ![Main Window](images/main_window.jpg)
